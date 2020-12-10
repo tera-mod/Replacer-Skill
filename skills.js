@@ -91,7 +91,7 @@ module.exports = [
 	{enabled: true, job:12, group:  7, replace:  70902, instance: true, Description:"煉火斬IX      -> 3段 加速"},
 	{enabled: true, job:12, group:  8, replace:  85101, instance: true, Description:"滿月V         -> 2段 无CD"},
 	{enabled: true, job:12, group: 16, replace: 166230, instance: true, Description:"月光的共鳴VII -> 2段 强力"},
-	{enabled: true, job:12, group: 23, replace: 235102, instance: true, Description:"半月斬V       -> 1段 强力 无CD"},
-	{enabled: true, job:12, group: 24, replace: 245102, instance: true, Description:"狂暴槍術V     -> 2段 强力"},
+	{enabled: true, job:12, group: 23, replace: 235102, instance: true, Description:"半月斬V       -> 1段 无CD"},
+	{enabled: true, job:12, group: 24, replace: 245102, instance: true, Description:"狂暴槍術V     -> 2段 无CD"},
 	{enabled: true, job:12, group: 25, replace: 250132, instance: true, Description:"開戰I         -> 2段 无CD"}
 ]

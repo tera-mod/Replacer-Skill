@@ -1,7 +1,5 @@
 # 还需要更多的时间去测试
 
-# Replacer-Skill (与模组 skill-prediction 兼容)
-
 ------
 
 /8频道 键入命令 | 效果说明

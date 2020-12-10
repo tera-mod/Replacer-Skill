@@ -31,9 +31,6 @@ module.exports = function ReplacerSkill(mod) {
 			event.skill.id = replaceSkill.replace
 			StartInstanceSkill(event)
 			return false
-		} else {
-			event.skill.id = replaceSkill.replace
-			return true
 		}
 	})
 	
@@ -47,6 +44,16 @@ module.exports = function ReplacerSkill(mod) {
 			endpoints: [event.dest]
 		})
 	}
+	
+	mod.hook('C_START_COMBO_INSTANT_SKILL', 6, { order: -100 }, event => {
+		if (!Enabled) return
+		var replaceSkill = SKILLS.find(obj => obj.job==job && obj.group==Math.floor(event.skill.id/10000))
+		if (!replaceSkill || !replaceSkill.enabled) return
+		if (replaceSkill.combo) {
+			event.skill.id = replaceSkill.replace
+			return true
+		}
+	})
 	
 	function reloadModule(fileName) {
 		delete require.cache[require.resolve(fileName)]

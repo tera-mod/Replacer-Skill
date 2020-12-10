@@ -1,7 +1,7 @@
 module.exports = [
 //  {enabled: true, job: x, group:  x, replace: xxxxxx, instance: true, Description:""},
 	// 0-warrior 双刀
-	{enabled: true, job: 0, group:  1, replace:  11200, instance: true, Description:"連續攻擊"},
+	{enabled: false,job: 0, group:  1, replace:  11200, instance: true, Description:"連續攻擊"},
 	{enabled: true, job: 0, group: 19, replace: 191101, instance: true, Description:"特質連打 -> 2段"},
 	{enabled: true, job: 0, group: 40, replace: 400122, instance: true, Description:"二段劍舞 -> 2段"},
 	{enabled: true, job: 0, group: 41, replace: 410131, instance: true, Description:"縱斷劈擊 -> 2段"},
@@ -14,7 +14,7 @@ module.exports = [
 	{enabled: true, job: 0, group: 30, replace: 380130, instance: true, Description:"疾風劈擊"},
 	{enabled: true, job: 0, group: 38, replace: 380130, instance: true, Description:"疾風劈擊"},
 	// 1-lancer 枪骑
-	// {enabled: true, job: 1, group:  1, replace:  11200, instance: true, Description:"連續攻擊XII -> 1段"},
+	{enabled: false,job: 1, group:  1, replace:  11200, instance: true, Description:"連續攻擊XII -> 1段"},
 	{enabled: true, job: 1, group:  3, replace:  30200, instance: true, Description:"猛烈突進II  -> 加速"},
 	{enabled: true, job: 1, group:  5, replace:  50130, instance: true, Description:"盾牌打擊I   -> 加速"},
 	{enabled: true, job: 1, group: 10, replace: 100330, instance: true, Description:"粉碎防具III -> 强力"},
@@ -24,7 +24,7 @@ module.exports = [
 	{enabled: true, job: 1, group: 25, replace: 251030, instance: true, Description:"壓倒X       -> 加速"},
 	{enabled: true, job: 1, group: 28, replace: 280101, instance: true, Description:"正義跳躍I   -> 加速"},
 	// 2-slayer 大剑
-	// {enabled: true, job: 2, group:  1, replace:  11200, instance: true, Description:"連續攻擊XII -> 1段"},
+	{enabled: false,job: 2, group:  1, replace:  11200, instance: true, Description:"連續攻擊XII -> 1段"},
 	{enabled: true, job: 2, group:  2, replace:  21130, instance: true, Description:"重擊斬XI    -> 加速"},
 	{enabled: true, job: 2, group:  4, replace:  40200, instance: true, Description:"緊急迴避II  -> 1段 无CD"},
 	{enabled: true, job: 2, group: 12, replace: 121102, instance: true, Description:"要害攻擊XI  -> 加速"},
@@ -55,24 +55,24 @@ module.exports = [
 	// 7-mystic 元素
 	// {enabled: true, job: x, group:  x, replace: xxxxxx, instance: true, Description:""},
 	// 8-reaper 飞镰
-	{enabled: true, job: 8, group: 11, replace: 110203, instance: true, Description:"暗黑鞭II    -> 4段 无CD"},
-	{enabled: true, job: 8, group:  3, replace:  30341, instance: true, Description:"飛劍劈擊III -> 强力"},
-	{enabled: true, job: 8, group: 15, replace: 150380, instance: true, Description:"反擊III     -> 2段 强力"},
-	{enabled: true, job: 8, group: 40, replace: 400100, instance: true, Description:"瞬間跳躍I   -> 1段 无CD"},
-	
-	{enabled: true, job: 8, group:  4, replace:  40331, instance: true, Description:"強化飛劍最後的一擊"},
-	{enabled: true, job: 8, group:  5, replace:  50332, instance: true, Description:"飛劍重擊斬"},
-	{enabled: true, job: 8, group:  6, replace:  60242, instance: true, Description:"飛劍揮舞 -> 2段"},
-	{enabled: true, job: 8, group:  8, replace:  80230, instance: true, Description:"飛劍迴旋刀刃"},
-	{enabled: true, job: 8, group: 10, replace: 100230, instance: true, Description:"飛劍向上揮擊"},
-	{enabled: true, job: 8, group: 12, replace: 120231, instance: true, Description:"強化暗黑爆炸"},
+	{enabled: true, job: 8, group:  3, replace:  30341, instance: true, Description:"飛劍劈擊III       -> 2段 强力"},
+	{enabled: true, job: 8, group:  5, replace:  50332, instance: true, Description:"飛劍重擊斬III     -> 2段 加速"},
+	{enabled: true, job: 8, group:  4, replace:  40331, instance: true, Description:"飛劍最後的一擊III -> 2段 强力"},
+	{enabled: true, job: 8, group:  6, replace:  60242, instance: true, Description:"飛劍揮舞II        -> 2段 无CD"},
+	{enabled: true, job: 8, group:  8, replace:  80230, instance: true, Description:"飛劍迴旋刀刃II    -> 2段 强力"},
+	{enabled: true, job: 8, group: 10, replace: 100230, instance: true, Description:"飛劍向上揮擊II    -> 1段 加速"},
+	{enabled: true, job: 8, group: 11, replace: 110203, instance: true, Description:"暗黑鞭II          -> 4段 无CD"},
+	{enabled: true, job: 8, group: 12, replace: 120231, instance: true, Description:"強化暗黑爆炸      -> 2段 强力"},
+	{enabled: true, job: 8, group: 15, replace: 150380, instance: true, Description:"反擊III           -> 2段 强力"},
+	{enabled: true, job: 8, group: 40, replace: 400100, instance: true, Description:"瞬間跳躍I         -> 1段 无CD"},
 	// 9-gunner 魔工
-	{enabled: true, job: 9, group:  1, replace: 420101, instance: true, Description:"神秘光束砲擊"},
-	{enabled: true, job: 9, group:  5, replace:  51021,    combo: true, Description:"神秘光束連射"},
-	{enabled: true, job: 9, group:  9, replace:  93112, instance: false,Description:"發射秘傳導彈"},
-	{enabled: true, job: 9, group: 13, replace: 440101, instance: false,Description:"殲滅之光"},
-	{enabled: true, job: 9, group: 40, replace: 400102, instance: true, Description:"爆衝 裝填導彈 -> 1段"},
-	{enabled: true, job: 9, group: 43, replace: 430151, instance: true, Description:"神秘光線 -> 2段"},
+	{enabled: true, job: 9, group:  1, replace: 420101, instance: true, Description:"神秘光束砲擊I  -> 1段 强力"},
+	{enabled: true, job: 9, group:  5, replace:  51021,    combo: true, Description:"神秘光束連射I  -> 1段 强力"},
+	{enabled: true, job: 9, group: 11, replace: 110831, instance: true, Description:"火箭騰飛VIII   -> 2段 强力"},
+	{enabled: true, job: 9, group: 13, replace: 440101, instance: true, Description:"殲滅之光I      -> 1段 强力"},
+	{enabled: true, job: 9, group:  9, replace:  91012, instance: true, Description:"發射秘傳導彈X  -> 4段 瞬发"},
+	{enabled: true, job: 9, group: 40, replace: 400102, instance: true, Description:"爆衝 裝填導彈I -> 1段 无CD"},
+	{enabled: true, job: 9, group: 43, replace: 430151, instance: true, Description:"神秘光線I      -> 2段 无CD"},
 	// 10-brawler 拳师
 	{enabled: true, job:10, group:  1, replace:  21201, instance: true, Description:"強打 -> 1段"},
 	{enabled: true, job:10, group:  4, replace:  41130, instance: true, Description:"地面強打"},

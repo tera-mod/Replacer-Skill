@@ -50,8 +50,8 @@ module.exports = [
 	{enabled: true, job: 6, group: 16, replace: 161121, instance: true, Description:"審判之手XI   -> 强力"},
 	{enabled: true, job: 6, group: 27, replace: 271121, instance: true, Description:"懲罰之手XI   -> 强力"},
 	{enabled: true, job: 6, group: 40, replace: 401020, instance: true, Description:"神之氣息X    -> 强力"},
-{enabled: false, job: 6, group: 28, replace: 280213, instance: true, Description:"全神卷軸     -> 4段"},
 	{enabled: true, job: 6, group: 42, replace: 420130, instance: true, Description:"燦爛的閃爍   -> 强力"},
+{enabled: false, job: 6, group: 28, replace: 280213, instance: true, Description:"全神卷軸     -> 4段"},
 	// 7-mystic 元素
 	// {enabled: true, job: x, group:  x, replace: xxxxxx, instance: true, Description:""},
 	// 8-reaper 飞镰
@@ -74,23 +74,24 @@ module.exports = [
 	{enabled: true, job: 9, group: 40, replace: 400102, instance: true, Description:"爆衝 裝填導彈I -> 1段 无CD"},
 	{enabled: true, job: 9, group: 43, replace: 430151, instance: true, Description:"神秘光線I      -> 2段 无CD"},
 	// 10-brawler 拳师
-	{enabled: true, job:10, group:  1, replace:  21201, instance: true, Description:"強打 -> 1段"},
-	{enabled: true, job:10, group:  4, replace:  41130, instance: true, Description:"地面強打"},
-	{enabled: true, job:10, group: 22, replace: 220130, instance: true, Description:"迴旋飛踢"},
-	{enabled: true, job:10, group: 26, replace: 260102, instance: true, Description:"颱風連打 -> 3段"},
-	{enabled: true, job:10, group: 40, replace: 400100, instance: true, Description:"瞬閃 -> 1段"},
+	{enabled: true, job:10, group:  1, replace:  21201, instance: true, Description:"強打XII    -> 1段 强力"},
+	{enabled: true, job:10, group:  4, replace:  41130, instance: true, Description:"地面強打XI -> 2段 加速"},
+	{enabled: true, job:10, group: 22, replace: 220130, instance: true, Description:"迴旋飛踢   -> 2段 加速"},
+	{enabled: true, job:10, group: 24, replace: 240130, instance: true, Description:"原值暴擊   -> 2段 加速"},
+	{enabled: true, job:10, group: 26, replace: 260102, instance: true, Description:"颱風連打   -> 3段 无CD"},
+	{enabled: true, job:10, group: 40, replace: 400100, instance: true, Description:"瞬閃I      -> 1段 无CD"},
 	// 11-ninja 忍者
-	{enabled: true, job:11, group:  1, replace: 150732, instance: true, Description:"多重分身火焰術 -> 1段"},
-	{enabled: true, job:11, group:  2, replace:  20100, instance: true, Description:"迴避啟動 -> 1段"},
-	{enabled: true, job:11, group:  3, replace:  30840, instance: true, Description:"標槍連射"},
-	{enabled: true, job:11, group:  8, replace:  80252, instance: true, Description:"多重分身爆炎術"},
-	{enabled: true, job:11, group: 21, replace: 210113, instance: true, Description:"迴力鏢手裏劍 -> "},
-	{enabled: true, job:11, group: 22, replace: 220140, instance: true, Description:"多重分身機動攻擊術"},
+	{enabled: true, job:11, group:  1, replace: 150732, instance: true, Description:"多重分身火焰術        -> 1段 无CD强力"},
+	{enabled: true, job:11, group:  2, replace:  20100, instance: true, Description:"迴避啟動I             -> 1段 无CD"},
+	{enabled: true, job:11, group:  3, replace:  30840, instance: true, Description:"標槍連射VIII          -> 2段 强力"},
+	{enabled: true, job:11, group:  8, replace:  80252, instance: true, Description:"多重分身爆炎術I       -> 2段 强力"},
+	{enabled: true, job:11, group: 21, replace: 210112, instance: true, Description:"多重分身迴力鏢手裏劍I -> 1段 强力"},
+	{enabled: true, job:11, group: 22, replace: 220140, instance: true, Description:"多重分身機動攻擊術I   -> 1段 强力"},
 	// 12-valkyrie 月光
-	{enabled: true, job:12, group:  8, replace:  85101, instance: true, Description:"滿月 -> 2段"},
-	{enabled: true, job:12, group: 15, replace: 245103, instance: true, Description:"狂暴槍術"},
-	{enabled: true, job:12, group: 16, replace: 166230, instance: true, Description:"月光的共鳴"},
-	{enabled: true, job:12, group: 23, replace: 235102, instance: true, Description:"半月斬 - 1段"},
-	{enabled: true, job:12, group: 24, replace: 245102, instance: true, Description:"狂暴槍術 -> 1段"},
-	{enabled: true, job:12, group: 25, replace: 250132, instance: true, Description:"開戰 -> 1段"}
+	{enabled: true, job:12, group:  7, replace:  70902, instance: true, Description:"煉火斬IX      -> 3段 加速"},
+	{enabled: true, job:12, group:  8, replace:  85101, instance: true, Description:"滿月V         -> 2段 无CD"},
+	{enabled: true, job:12, group: 16, replace: 166230, instance: true, Description:"月光的共鳴VII -> 2段 强力"},
+	{enabled: true, job:12, group: 23, replace: 235102, instance: true, Description:"半月斬V       -> 1段 强力 无CD"},
+	{enabled: true, job:12, group: 24, replace: 245102, instance: true, Description:"狂暴槍術V     -> 2段 强力"},
+	{enabled: true, job:12, group: 25, replace: 250132, instance: true, Description:"開戰I         -> 2段 无CD"}
 ]

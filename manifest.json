@@ -16,7 +16,7 @@
         "class/9-gunner-engineer.tsv": "e3d8108e343eb5ad140b8f8d99733c94a893bc8991d09566e8eb557af03a504a",
         "index.js": "ef63322a26509ebd226796cd95e990c9c699c559564ef1db68243dc2f2f86da2",
         "module.json": "411f25486e43a32955c3d946491db080284c977425c25b7eab5a6ee4965ed357",
-        "skills.js": "30dc8436dd02f497ad80341bc92e1da37081934ad83a4997307f965a2941775c"
+        "skills.js": "db0b08db02fff0ca2594085874cf71902b0bc433aba688fec2cef49c483df5cd"
     },
     "defs": {
         "C_START_COMBO_INSTANT_SKILL": 6,

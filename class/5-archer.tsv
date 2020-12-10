@@ -1,0 +1,620 @@
+10100	Common	Common	Archer	一般射擊 01	False		icon_skills.arrowshot_tex
+10200	Common	Common	Archer	一般射擊 02	False		icon_skills.arrowshot_tex
+10300	Common	Common	Archer	一般射擊 03	False		icon_skills.arrowshot_tex
+10400	Common	Common	Archer	一般射擊 04	False		icon_skills.arrowshot_tex
+10500	Common	Common	Archer	一般射擊 05	False		icon_skills.arrowshot_tex
+10600	Common	Common	Archer	一般射擊 06	False		icon_skills.arrowshot_tex
+10700	Common	Common	Archer	一般射擊 07	False		icon_skills.arrowshot_tex
+10800	Common	Common	Archer	一般射擊 08	False		icon_skills.arrowshot_tex
+10900	Common	Common	Archer	一般射擊 09	False		icon_skills.arrowshot_tex
+11000	Common	Common	Archer	一般射擊 10	False		icon_skills.arrowshot_tex
+11100	Common	Common	Archer	一般射擊 11	False		icon_skills.arrowshot_tex
+11200	Common	Common	Archer	一般射擊 12	False		icon_skills.arrowshot_tex
+11300	Common	Common	Archer	一般射擊 13	False		icon_skills.arrowshot_tex
+11400	Common	Common	Archer	一般射擊 14	False		icon_skills.arrowshot_tex
+11500	Common	Common	Archer	一般射擊 15	False		icon_skills.arrowshot_tex
+
+20100	Common	Common	Archer	多重射擊 01	False		icon_skills.arrowshower_tex
+20110	Common	Common	Archer	多重射擊 01	False		icon_skills.arrowshower_tex
+20200	Common	Common	Archer	多重射擊 02	False		icon_skills.arrowshower_tex
+20210	Common	Common	Archer	多重射擊 02	False		icon_skills.arrowshower_tex
+20300	Common	Common	Archer	多重射擊 03	False		icon_skills.arrowshower_tex
+20310	Common	Common	Archer	多重射擊 03	False		icon_skills.arrowshower_tex
+20400	Common	Common	Archer	多重射擊 04	False		icon_skills.arrowshower_tex
+20410	Common	Common	Archer	多重射擊 04	False		icon_skills.arrowshower_tex
+20500	Common	Common	Archer	多重射擊 05	False		icon_skills.arrowshower_tex
+20510	Common	Common	Archer	多重射擊 05	False		icon_skills.arrowshower_tex
+20600	Common	Common	Archer	多重射擊 06	False		icon_skills.arrowshower_tex
+20610	Common	Common	Archer	多重射擊 06	False		icon_skills.arrowshower_tex
+20700	Common	Common	Archer	多重射擊 07	False		icon_skills.arrowshower_tex
+20710	Common	Common	Archer	多重射擊 07	False		icon_skills.arrowshower_tex
+20800	Common	Common	Archer	多重射擊 08	False		icon_skills.arrowshower_tex
+20810	Common	Common	Archer	多重射擊 08	False		icon_skills.arrowshower_tex
+20900	Common	Common	Archer	多重射擊 09	False		icon_skills.arrowshower_tex
+20910	Common	Common	Archer	多重射擊 09	False		icon_skills.arrowshower_tex
+21000	Common	Common	Archer	多重射擊 10	False		icon_skills.arrowshower_tex
+21010	Common	Common	Archer	多重射擊 10	False		icon_skills.arrowshower_tex
+21100	Common	Common	Archer	多重射擊 11	False		icon_skills.arrowshower_tex
+21110	Common	Common	Archer	多重射擊 11	False		icon_skills.arrowshower_tex
+21200	Common	Common	Archer	多重射擊 12	False		icon_skills.arrowshower_tex
+21210	Common	Common	Archer	多重射擊 12	False		icon_skills.arrowshower_tex
+21300	Common	Common	Archer	多重射擊 13	False		icon_skills.arrowshower_tex
+21310	Common	Common	Archer	多重射擊 13	False		icon_skills.arrowshower_tex
+21400	Common	Common	Archer	多重射擊 14	False		icon_skills.arrowshower_tex
+21410	Common	Common	Archer	多重射擊 14	False		icon_skills.arrowshower_tex
+21500	Common	Common	Archer	多重射擊 15	False		icon_skills.arrowshower_tex
+21510	Common	Common	Archer	多重射擊 15	False		icon_skills.arrowshower_tex
+
+30100	Common	Common	Archer	集中射擊 01	False		icon_skills.chargearrow_tex
+30110	Common	Common	Archer	集中射擊 01	False	hit 1	icon_skills.chargearrow_tex
+30111	Common	Common	Archer	集中射擊 01	False	hit 2	icon_skills.chargearrow_tex
+30112	Common	Common	Archer	集中射擊 01	False	hit 3	icon_skills.chargearrow_tex
+30113	Common	Common	Archer	集中射擊 01	False	hit 4	icon_skills.chargearrow_tex
+30200	Common	Common	Archer	集中射擊 02	False		icon_skills.chargearrow_tex
+30210	Common	Common	Archer	集中射擊 02	False	hit 1	icon_skills.chargearrow_tex
+30211	Common	Common	Archer	集中射擊 02	False	hit 2	icon_skills.chargearrow_tex
+30212	Common	Common	Archer	集中射擊 02	False	hit 3	icon_skills.chargearrow_tex
+30213	Common	Common	Archer	集中射擊 02	False	hit 4	icon_skills.chargearrow_tex
+30300	Common	Common	Archer	集中射擊 03	False		icon_skills.chargearrow_tex
+30310	Common	Common	Archer	集中射擊 03	False	hit 1	icon_skills.chargearrow_tex
+30311	Common	Common	Archer	集中射擊 03	False	hit 2	icon_skills.chargearrow_tex
+30312	Common	Common	Archer	集中射擊 03	False	hit 3	icon_skills.chargearrow_tex
+30313	Common	Common	Archer	集中射擊 03	False	hit 4	icon_skills.chargearrow_tex
+30400	Common	Common	Archer	集中射擊 04	False		icon_skills.chargearrow_tex
+30410	Common	Common	Archer	集中射擊 04	False	hit 1	icon_skills.chargearrow_tex
+30411	Common	Common	Archer	集中射擊 04	False	hit 2	icon_skills.chargearrow_tex
+30412	Common	Common	Archer	集中射擊 04	False	hit 3	icon_skills.chargearrow_tex
+30413	Common	Common	Archer	集中射擊 04	False	hit 4	icon_skills.chargearrow_tex
+30500	Common	Common	Archer	集中射擊 05	False		icon_skills.chargearrow_tex
+30510	Common	Common	Archer	集中射擊 05	False	hit 1	icon_skills.chargearrow_tex
+30511	Common	Common	Archer	集中射擊 05	False	hit 2	icon_skills.chargearrow_tex
+30512	Common	Common	Archer	集中射擊 05	False	hit 3	icon_skills.chargearrow_tex
+30513	Common	Common	Archer	集中射擊 05	False	hit 4	icon_skills.chargearrow_tex
+30600	Common	Common	Archer	集中射擊 06	False		icon_skills.chargearrow_tex
+30610	Common	Common	Archer	集中射擊 06	False	hit 1	icon_skills.chargearrow_tex
+30611	Common	Common	Archer	集中射擊 06	False	hit 2	icon_skills.chargearrow_tex
+30612	Common	Common	Archer	集中射擊 06	False	hit 3	icon_skills.chargearrow_tex
+30613	Common	Common	Archer	集中射擊 06	False	hit 4	icon_skills.chargearrow_tex
+30700	Common	Common	Archer	集中射擊 07	False		icon_skills.chargearrow_tex
+30710	Common	Common	Archer	集中射擊 07	False	hit 1	icon_skills.chargearrow_tex
+30711	Common	Common	Archer	集中射擊 07	False	hit 2	icon_skills.chargearrow_tex
+30712	Common	Common	Archer	集中射擊 07	False	hit 3	icon_skills.chargearrow_tex
+30713	Common	Common	Archer	集中射擊 07	False	hit 4	icon_skills.chargearrow_tex
+30800	Common	Common	Archer	集中射擊 08	False		icon_skills.chargearrow_tex
+30810	Common	Common	Archer	集中射擊 08	False	hit 1	icon_skills.chargearrow_tex
+30811	Common	Common	Archer	集中射擊 08	False	hit 2	icon_skills.chargearrow_tex
+30812	Common	Common	Archer	集中射擊 08	False	hit 3	icon_skills.chargearrow_tex
+30813	Common	Common	Archer	集中射擊 08	False	hit 4	icon_skills.chargearrow_tex
+30900	Common	Common	Archer	集中射擊 09	False		icon_skills.chargearrow_tex
+30910	Common	Common	Archer	集中射擊 09	False	hit 1	icon_skills.chargearrow_tex
+30911	Common	Common	Archer	集中射擊 09	False	hit 2	icon_skills.chargearrow_tex
+30912	Common	Common	Archer	集中射擊 09	False	hit 3	icon_skills.chargearrow_tex
+30913	Common	Common	Archer	集中射擊 09	False	hit 4	icon_skills.chargearrow_tex
+31000	Common	Common	Archer	集中射擊 10	False		icon_skills.chargearrow_tex
+31010	Common	Common	Archer	集中射擊 10	False	hit 1	icon_skills.chargearrow_tex
+31011	Common	Common	Archer	集中射擊 10	False	hit 2	icon_skills.chargearrow_tex
+31012	Common	Common	Archer	集中射擊 10	False	hit 3	icon_skills.chargearrow_tex
+31013	Common	Common	Archer	集中射擊 10	False	hit 4	icon_skills.chargearrow_tex
+31100	Common	Common	Archer	集中射擊 11	False		icon_skills.chargearrow_tex
+31110	Common	Common	Archer	集中射擊 11	False	hit 1	icon_skills.chargearrow_tex
+31111	Common	Common	Archer	集中射擊 11	False	hit 2	icon_skills.chargearrow_tex
+31112	Common	Common	Archer	集中射擊 11	False	hit 3	icon_skills.chargearrow_tex
+31113	Common	Common	Archer	集中射擊 11	False	hit 4	icon_skills.chargearrow_tex
+31200	Common	Common	Archer	集中射擊 12	False		icon_skills.chargearrow_tex
+31210	Common	Common	Archer	集中射擊 12	False	hit 1	icon_skills.chargearrow_tex
+31211	Common	Common	Archer	集中射擊 12	False	hit 2	icon_skills.chargearrow_tex
+31212	Common	Common	Archer	集中射擊 12	False	hit 3	icon_skills.chargearrow_tex
+31213	Common	Common	Archer	集中射擊 12	False	hit 4	icon_skills.chargearrow_tex
+31300	Common	Common	Archer	集中射擊 13	False		icon_skills.chargearrow_tex
+31310	Common	Common	Archer	集中射擊 13	False	hit 1	icon_skills.chargearrow_tex
+31311	Common	Common	Archer	集中射擊 13	False	hit 2	icon_skills.chargearrow_tex
+31312	Common	Common	Archer	集中射擊 13	False	hit 3	icon_skills.chargearrow_tex
+31313	Common	Common	Archer	集中射擊 13	False	hit 4	icon_skills.chargearrow_tex
+31400	Common	Common	Archer	集中射擊 14	False		icon_skills.chargearrow_tex
+31410	Common	Common	Archer	集中射擊 14	False	hit 1	icon_skills.chargearrow_tex
+31411	Common	Common	Archer	集中射擊 14	False	hit 2	icon_skills.chargearrow_tex
+31412	Common	Common	Archer	集中射擊 14	False	hit 3	icon_skills.chargearrow_tex
+31413	Common	Common	Archer	集中射擊 14	False	hit 4	icon_skills.chargearrow_tex
+
+40100	Common	Common	Archer	穿透射擊 01	False		icon_skills.througharrow_tex
+40110	Common	Common	Archer	穿透射擊 01	False	hit 1	icon_skills.througharrow_tex
+40111	Common	Common	Archer	穿透射擊 01	False	hit 2	icon_skills.througharrow_tex
+40112	Common	Common	Archer	穿透射擊 01	False	hit 3	icon_skills.througharrow_tex
+40113	Common	Common	Archer	穿透射擊 01	False	hit 4	icon_skills.througharrow_tex
+40200	Common	Common	Archer	穿透射擊 02	False		icon_skills.througharrow_tex
+40210	Common	Common	Archer	穿透射擊 02	False	hit 1	icon_skills.througharrow_tex
+40211	Common	Common	Archer	穿透射擊 02	False	hit 2	icon_skills.througharrow_tex
+40212	Common	Common	Archer	穿透射擊 02	False	hit 3	icon_skills.througharrow_tex
+40213	Common	Common	Archer	穿透射擊 02	False	hit 4	icon_skills.througharrow_tex
+40300	Common	Common	Archer	穿透射擊 03	False		icon_skills.througharrow_tex
+40310	Common	Common	Archer	穿透射擊 03	False	hit 1	icon_skills.througharrow_tex
+40311	Common	Common	Archer	穿透射擊 03	False	hit 2	icon_skills.througharrow_tex
+40312	Common	Common	Archer	穿透射擊 03	False	hit 3	icon_skills.througharrow_tex
+40313	Common	Common	Archer	穿透射擊 03	False	hit 4	icon_skills.througharrow_tex
+40400	Common	Common	Archer	穿透射擊 04	False		icon_skills.througharrow_tex
+40410	Common	Common	Archer	穿透射擊 04	False	hit 1	icon_skills.througharrow_tex
+40411	Common	Common	Archer	穿透射擊 04	False	hit 2	icon_skills.througharrow_tex
+40412	Common	Common	Archer	穿透射擊 04	False	hit 3	icon_skills.througharrow_tex
+40413	Common	Common	Archer	穿透射擊 04	False	hit 4	icon_skills.througharrow_tex
+40500	Common	Common	Archer	穿透射擊 05	False		icon_skills.througharrow_tex
+40510	Common	Common	Archer	穿透射擊 05	False	hit 1	icon_skills.througharrow_tex
+40511	Common	Common	Archer	穿透射擊 05	False	hit 2	icon_skills.througharrow_tex
+40512	Common	Common	Archer	穿透射擊 05	False	hit 3	icon_skills.througharrow_tex
+40513	Common	Common	Archer	穿透射擊 05	False	hit 4	icon_skills.througharrow_tex
+40600	Common	Common	Archer	穿透射擊 06	False		icon_skills.througharrow_tex
+40610	Common	Common	Archer	穿透射擊 06	False	hit 1	icon_skills.througharrow_tex
+40611	Common	Common	Archer	穿透射擊 06	False	hit 2	icon_skills.througharrow_tex
+40612	Common	Common	Archer	穿透射擊 06	False	hit 3	icon_skills.througharrow_tex
+40613	Common	Common	Archer	穿透射擊 06	False	hit 4	icon_skills.througharrow_tex
+40700	Common	Common	Archer	穿透射擊 07	False		icon_skills.througharrow_tex
+40710	Common	Common	Archer	穿透射擊 07	False	hit 1	icon_skills.througharrow_tex
+40711	Common	Common	Archer	穿透射擊 07	False	hit 2	icon_skills.througharrow_tex
+40712	Common	Common	Archer	穿透射擊 07	False	hit 3	icon_skills.througharrow_tex
+40713	Common	Common	Archer	穿透射擊 07	False	hit 4	icon_skills.througharrow_tex
+40800	Common	Common	Archer	穿透射擊 08	False		icon_skills.througharrow_tex
+40810	Common	Common	Archer	穿透射擊 08	False	hit 1	icon_skills.througharrow_tex
+40811	Common	Common	Archer	穿透射擊 08	False	hit 2	icon_skills.througharrow_tex
+40812	Common	Common	Archer	穿透射擊 08	False	hit 3	icon_skills.througharrow_tex
+40813	Common	Common	Archer	穿透射擊 08	False	hit 4	icon_skills.througharrow_tex
+40900	Common	Common	Archer	穿透射擊 09	False		icon_skills.througharrow_tex
+40910	Common	Common	Archer	穿透射擊 09	False	hit 1	icon_skills.througharrow_tex
+40911	Common	Common	Archer	穿透射擊 09	False	hit 2	icon_skills.througharrow_tex
+40912	Common	Common	Archer	穿透射擊 09	False	hit 3	icon_skills.througharrow_tex
+40913	Common	Common	Archer	穿透射擊 09	False	hit 4	icon_skills.througharrow_tex
+41000	Common	Common	Archer	穿透射擊 10	False		icon_skills.througharrow_tex
+41010	Common	Common	Archer	穿透射擊 10	False	hit 1	icon_skills.througharrow_tex
+41011	Common	Common	Archer	穿透射擊 10	False	hit 2	icon_skills.througharrow_tex
+41012	Common	Common	Archer	穿透射擊 10	False	hit 3	icon_skills.througharrow_tex
+41013	Common	Common	Archer	穿透射擊 10	False	hit 4	icon_skills.througharrow_tex
+41100	Common	Common	Archer	穿透射擊 11	False		icon_skills.througharrow_tex
+41110	Common	Common	Archer	穿透射擊 11	False	hit 1	icon_skills.througharrow_tex
+41111	Common	Common	Archer	穿透射擊 11	False	hit 2	icon_skills.througharrow_tex
+41112	Common	Common	Archer	穿透射擊 11	False	hit 3	icon_skills.througharrow_tex
+41113	Common	Common	Archer	穿透射擊 11	False	hit 4	icon_skills.througharrow_tex
+41200	Common	Common	Archer	穿透射擊 12	False		icon_skills.througharrow_tex
+41210	Common	Common	Archer	穿透射擊 12	False	hit 1	icon_skills.througharrow_tex
+41211	Common	Common	Archer	穿透射擊 12	False	hit 2	icon_skills.througharrow_tex
+41212	Common	Common	Archer	穿透射擊 12	False	hit 3	icon_skills.througharrow_tex
+41213	Common	Common	Archer	穿透射擊 12	False	hit 4	icon_skills.througharrow_tex
+41300	Common	Common	Archer	穿透射擊 13	False		icon_skills.througharrow_tex
+41310	Common	Common	Archer	穿透射擊 13	False	hit 1	icon_skills.througharrow_tex
+41311	Common	Common	Archer	穿透射擊 13	False	hit 2	icon_skills.througharrow_tex
+41312	Common	Common	Archer	穿透射擊 13	False	hit 3	icon_skills.througharrow_tex
+41313	Common	Common	Archer	穿透射擊 13	False	hit 4	icon_skills.througharrow_tex
+41400	Common	Common	Archer	穿透射擊 14	False		icon_skills.througharrow_tex
+41410	Common	Common	Archer	穿透射擊 14	False	hit 1	icon_skills.througharrow_tex
+41411	Common	Common	Archer	穿透射擊 14	False	hit 2	icon_skills.througharrow_tex
+41412	Common	Common	Archer	穿透射擊 14	False	hit 3	icon_skills.througharrow_tex
+41413	Common	Common	Archer	穿透射擊 14	False	hit 4	icon_skills.througharrow_tex
+
+50100	Common	Common	Archer	箭雨 01	False		icon_skills.arrowfall_tex
+50120	Common	Common	Archer	箭雨 01	False		icon_skills.arrowfall_tex
+50200	Common	Common	Archer	箭雨 02	False		icon_skills.arrowfall_tex
+50220	Common	Common	Archer	箭雨 02	False		icon_skills.arrowfall_tex
+50300	Common	Common	Archer	箭雨 03	False		icon_skills.arrowfall_tex
+50320	Common	Common	Archer	箭雨 03	False		icon_skills.arrowfall_tex
+50400	Common	Common	Archer	箭雨 04	False		icon_skills.arrowfall_tex
+50420	Common	Common	Archer	箭雨 04	False		icon_skills.arrowfall_tex
+50500	Common	Common	Archer	箭雨 05	False		icon_skills.arrowfall_tex
+50520	Common	Common	Archer	箭雨 05	False		icon_skills.arrowfall_tex
+50600	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+50620	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+50700	Common	Common	Archer	箭雨 07	False		icon_skills.arrowfall_tex
+50720	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+50800	Common	Common	Archer	箭雨 08	False		icon_skills.arrowfall_tex
+50820	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+50900	Common	Common	Archer	箭雨 09	False		icon_skills.arrowfall_tex
+50920	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+51000	Common	Common	Archer	箭雨 10	False		icon_skills.arrowfall_tex
+51020	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+51040	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+51041	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+51050	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+51051	Common	Common	Archer	箭雨 06	False		icon_skills.arrowfall_tex
+
+60100	Common	Common	Archer	退避 01	False		icon_skills.backstep_tex
+60200	Common	Common	Archer	退避 02	False		icon_skills.backstep_tex
+60300	Common	Common	Archer	退避 03	False		icon_skills.backstep_tex
+
+70100	Common	Common	Archer	裝死 01	False		icon_skills.feigndeath_tex
+70200	Common	Common	Archer	裝死 02	False		icon_skills.feigndeath_tex
+70300	Common	Common	Archer	裝死 03	False		icon_skills.feigndeath_tex
+70400	Common	Common	Archer	裝死 04	False		icon_skills.feigndeath_tex
+70500	Common	Common	Archer	裝死 05	False		icon_skills.feigndeath_tex
+70600	Common	Common	Archer	裝死 06	False		icon_skills.feigndeath_tex
+70700	Common	Common	Archer	裝死 07	False		icon_skills.feigndeath_tex
+
+80100	Common	Common	Archer	速射 01	False	hit 1	icon_skills.rapidshot_tex
+80101	Common	Common	Archer	速射 01	False	hit 2	icon_skills.rapidshot_tex
+80102	Common	Common	Archer	速射 01	False	hit 3	icon_skills.rapidshot_tex
+80103	Common	Common	Archer	速射 01	False	hit 4	icon_skills.rapidshot_tex
+80104	Common	Common	Archer	速射 01	False	hit 5	icon_skills.rapidshot_tex
+80105	Common	Common	Archer	速射 01	False	hit 6	icon_skills.rapidshot_tex
+80106	Common	Common	Archer	速射 01	False	hit 7	icon_skills.rapidshot_tex
+80200	Common	Common	Archer	速射 02	False	hit 1	icon_skills.rapidshot_tex
+80201	Common	Common	Archer	速射 02	False	hit 2	icon_skills.rapidshot_tex
+80202	Common	Common	Archer	速射 02	False	hit 3	icon_skills.rapidshot_tex
+80203	Common	Common	Archer	速射 02	False	hit 4	icon_skills.rapidshot_tex
+80204	Common	Common	Archer	速射 02	False	hit 5	icon_skills.rapidshot_tex
+80205	Common	Common	Archer	速射 02	False	hit 6	icon_skills.rapidshot_tex
+80206	Common	Common	Archer	速射 02	False	hit 7	icon_skills.rapidshot_tex
+80300	Common	Common	Archer	速射 03	False	hit 1	icon_skills.rapidshot_tex
+80301	Common	Common	Archer	速射 03	False	hit 2	icon_skills.rapidshot_tex
+80302	Common	Common	Archer	速射 03	False	hit 3	icon_skills.rapidshot_tex
+80303	Common	Common	Archer	速射 03	False	hit 4	icon_skills.rapidshot_tex
+80304	Common	Common	Archer	速射 03	False	hit 5	icon_skills.rapidshot_tex
+80305	Common	Common	Archer	速射 03	False	hit 6	icon_skills.rapidshot_tex
+80306	Common	Common	Archer	速射 03	False	hit 7	icon_skills.rapidshot_tex
+80400	Common	Common	Archer	速射 04	False	hit 1	icon_skills.rapidshot_tex
+80401	Common	Common	Archer	速射 04	False	hit 2	icon_skills.rapidshot_tex
+80402	Common	Common	Archer	速射 04	False	hit 3	icon_skills.rapidshot_tex
+80403	Common	Common	Archer	速射 04	False	hit 4	icon_skills.rapidshot_tex
+80404	Common	Common	Archer	速射 04	False	hit 5	icon_skills.rapidshot_tex
+80405	Common	Common	Archer	速射 04	False	hit 6	icon_skills.rapidshot_tex
+80406	Common	Common	Archer	速射 04	False	hit 7	icon_skills.rapidshot_tex
+80500	Common	Common	Archer	速射 05	False	hit 1	icon_skills.rapidshot_tex
+80501	Common	Common	Archer	速射 05	False	hit 2	icon_skills.rapidshot_tex
+80502	Common	Common	Archer	速射 05	False	hit 3	icon_skills.rapidshot_tex
+80503	Common	Common	Archer	速射 05	False	hit 4	icon_skills.rapidshot_tex
+80504	Common	Common	Archer	速射 05	False	hit 5	icon_skills.rapidshot_tex
+80505	Common	Common	Archer	速射 05	False	hit 6	icon_skills.rapidshot_tex
+80506	Common	Common	Archer	速射 05	False	hit 7	icon_skills.rapidshot_tex
+80600	Common	Common	Archer	速射 06	False		icon_skills.rapidshot_tex
+80601	Common	Common	Archer	速射 06	False	hit 1	icon_skills.rapidshot_tex
+80602	Common	Common	Archer	速射 06	False	hit 2	icon_skills.rapidshot_tex
+80603	Common	Common	Archer	速射 06	False	hit 3	icon_skills.rapidshot_tex
+80604	Common	Common	Archer	速射 06	False	hit 4	icon_skills.rapidshot_tex
+80605	Common	Common	Archer	速射 06	False	hit 5	icon_skills.rapidshot_tex
+80606	Common	Common	Archer	速射 06	False	hit 6	icon_skills.rapidshot_tex
+80607	Common	Common	Archer	速射 06	False	hit 7	icon_skills.rapidshot_tex
+80611	Common	Common	Archer	速射 06	False	hit 1	icon_skills.rapidshot_tex
+80612	Common	Common	Archer	速射 06	False	hit 2	icon_skills.rapidshot_tex
+80613	Common	Common	Archer	速射 06	False	hit 3	icon_skills.rapidshot_tex
+80614	Common	Common	Archer	速射 06	False	hit 4	icon_skills.rapidshot_tex
+80700	Common	Common	Archer	速射 07	False	hit 1	icon_skills.rapidshot_tex
+80701	Common	Common	Archer	速射 07	False	hit 2	icon_skills.rapidshot_tex
+80702	Common	Common	Archer	速射 07	False	hit 3	icon_skills.rapidshot_tex
+80703	Common	Common	Archer	速射 07	False	hit 4	icon_skills.rapidshot_tex
+80704	Common	Common	Archer	速射 07	False	hit 5	icon_skills.rapidshot_tex
+80705	Common	Common	Archer	速射 07	False	hit 6	icon_skills.rapidshot_tex
+80706	Common	Common	Archer	速射 07	False	hit 7	icon_skills.rapidshot_tex
+80800	Common	Common	Archer	速射 08	False	hit 1	icon_skills.rapidshot_tex
+80801	Common	Common	Archer	速射 08	False	hit 2	icon_skills.rapidshot_tex
+80802	Common	Common	Archer	速射 08	False	hit 3	icon_skills.rapidshot_tex
+80803	Common	Common	Archer	速射 08	False	hit 4	icon_skills.rapidshot_tex
+80804	Common	Common	Archer	速射 08	False	hit 5	icon_skills.rapidshot_tex
+80805	Common	Common	Archer	速射 08	False	hit 6	icon_skills.rapidshot_tex
+80806	Common	Common	Archer	速射 08	False	hit 7	icon_skills.rapidshot_tex
+80900	Common	Common	Archer	速射 09	False	hit 1	icon_skills.rapidshot_tex
+80901	Common	Common	Archer	速射 09	False	hit 2	icon_skills.rapidshot_tex
+80902	Common	Common	Archer	速射 09	False	hit 3	icon_skills.rapidshot_tex
+80903	Common	Common	Archer	速射 09	False	hit 4	icon_skills.rapidshot_tex
+80904	Common	Common	Archer	速射 09	False	hit 5	icon_skills.rapidshot_tex
+80905	Common	Common	Archer	速射 09	False	hit 6	icon_skills.rapidshot_tex
+80906	Common	Common	Archer	速射 09	False	hit 7	icon_skills.rapidshot_tex
+81000	Common	Common	Archer	速射 10	False	hit 1	icon_skills.rapidshot_tex
+81001	Common	Common	Archer	速射 10	False	hit 2	icon_skills.rapidshot_tex
+81002	Common	Common	Archer	速射 10	False	hit 3	icon_skills.rapidshot_tex
+81003	Common	Common	Archer	速射 10	False	hit 4	icon_skills.rapidshot_tex
+81004	Common	Common	Archer	速射 10	False	hit 5	icon_skills.rapidshot_tex
+81005	Common	Common	Archer	速射 10	False	hit 6	icon_skills.rapidshot_tex
+81006	Common	Common	Archer	速射 10	False	hit 7	icon_skills.rapidshot_tex
+81100	Common	Common	Archer	速射 11	False	hit 1	icon_skills.rapidshot_tex
+81101	Common	Common	Archer	速射 11	False	hit 2	icon_skills.rapidshot_tex
+81102	Common	Common	Archer	速射 11	False	hit 3	icon_skills.rapidshot_tex
+81103	Common	Common	Archer	速射 11	False	hit 4	icon_skills.rapidshot_tex
+81104	Common	Common	Archer	速射 11	False	hit 5	icon_skills.rapidshot_tex
+81105	Common	Common	Archer	速射 11	False	hit 6	icon_skills.rapidshot_tex
+81106	Common	Common	Archer	速射 11	False	hit 7	icon_skills.rapidshot_tex
+81200	Common	Common	Archer	速射 12	False	hit 1	icon_skills.rapidshot_tex
+81201	Common	Common	Archer	速射 12	False	hit 2	icon_skills.rapidshot_tex
+81202	Common	Common	Archer	速射 12	False	hit 3	icon_skills.rapidshot_tex
+81203	Common	Common	Archer	速射 12	False	hit 4	icon_skills.rapidshot_tex
+81204	Common	Common	Archer	速射 12	False	hit 5	icon_skills.rapidshot_tex
+81205	Common	Common	Archer	速射 12	False	hit 6	icon_skills.rapidshot_tex
+81206	Common	Common	Archer	速射 12	False	hit 7	icon_skills.rapidshot_tex
+
+90100	Common	Common	Archer	蜘蛛網陷阱 01	False		icon_skills.webtrap_tex
+90120	Common	Common	Archer	蜘蛛網陷阱 01	False		icon_skills.webtrap_tex
+90200	Common	Common	Archer	蜘蛛網陷阱 02	False		icon_skills.webtrap_tex
+90220	Common	Common	Archer	蜘蛛網陷阱 02	False		icon_skills.webtrap_tex
+90300	Common	Common	Archer	蜘蛛網陷阱 03	False		icon_skills.webtrap_tex
+90320	Common	Common	Archer	蜘蛛網陷阱 03	False		icon_skills.webtrap_tex
+90400	Common	Common	Archer	蜘蛛網陷阱 04	False		icon_skills.webtrap_tex
+90420	Common	Common	Archer	蜘蛛網陷阱 04	False		icon_skills.webtrap_tex
+90500	Common	Common	Archer	蜘蛛網陷阱 05	False		icon_skills.webtrap_tex
+90520	Common	Common	Archer	蜘蛛網陷阱 05	False		icon_skills.webtrap_tex
+90600	Common	Common	Archer	蜘蛛網陷阱 06	False		icon_skills.webtrap_tex
+90620	Common	Common	Archer	蜘蛛網陷阱 06	False		icon_skills.webtrap_tex
+90700	Common	Common	Archer	蜘蛛網陷阱 07	False		icon_skills.webtrap_tex
+90720	Common	Common	Archer	蜘蛛網陷阱 07	False		icon_skills.webtrap_tex
+90800	Common	Common	Archer	蜘蛛網陷阱 08	False		icon_skills.webtrap_tex
+90820	Common	Common	Archer	蜘蛛網陷阱 08	False		icon_skills.webtrap_tex
+90900	Common	Common	Archer	蜘蛛網陷阱 09	False		icon_skills.webtrap_tex
+90920	Common	Common	Archer	蜘蛛網陷阱 09	False		icon_skills.webtrap_tex
+
+100100	Common	Common	Archer	昏厥陷阱 01	False		icon_skills.paralysistrap_tex
+100120	Common	Common	Archer	昏厥陷阱 01	False		icon_skills.paralysistrap_tex
+100200	Common	Common	Archer	昏厥陷阱 02	False		icon_skills.paralysistrap_tex
+100220	Common	Common	Archer	昏厥陷阱 02	False		icon_skills.paralysistrap_tex
+100300	Common	Common	Archer	昏厥陷阱 03	False		icon_skills.paralysistrap_tex
+100320	Common	Common	Archer	昏厥陷阱 03	False		icon_skills.paralysistrap_tex
+100400	Common	Common	Archer	昏厥陷阱 04	False		icon_skills.paralysistrap_tex
+100420	Common	Common	Archer	昏厥陷阱 04	False		icon_skills.paralysistrap_tex
+100500	Common	Common	Archer	昏厥陷阱 05	False		icon_skills.paralysistrap_tex
+100520	Common	Common	Archer	昏厥陷阱 05	False		icon_skills.paralysistrap_tex
+
+110100	Common	Common	Archer	中毒陷阱 01	False		icon_skills.venomtrap_tex
+110120	Common	Common	Archer	中毒陷阱 01	False		icon_skills.venomtrap_tex
+110200	Common	Common	Archer	中毒陷阱 02	False		icon_skills.venomtrap_tex
+110220	Common	Common	Archer	中毒陷阱 02	False		icon_skills.venomtrap_tex
+110300	Common	Common	Archer	中毒陷阱 03	False		icon_skills.venomtrap_tex
+110320	Common	Common	Archer	中毒陷阱 03	False		icon_skills.venomtrap_tex
+110400	Common	Common	Archer	中毒陷阱 04	False		icon_skills.venomtrap_tex
+110420	Common	Common	Archer	中毒陷阱 04	False		icon_skills.venomtrap_tex
+110500	Common	Common	Archer	中毒陷阱 05	False		icon_skills.venomtrap_tex
+110520	Common	Common	Archer	中毒陷阱 05	False		icon_skills.venomtrap_tex
+110600	Common	Common	Archer	中毒陷阱 06	False		icon_skills.venomtrap_tex
+110620	Common	Common	Archer	中毒陷阱 06	False		icon_skills.venomtrap_tex
+110700	Common	Common	Archer	中毒陷阱 07	False		icon_skills.venomtrap_tex
+110720	Common	Common	Archer	中毒陷阱 07	False		icon_skills.venomtrap_tex
+110800	Common	Common	Archer	中毒陷阱 08	False		icon_skills.venomtrap_tex
+110820	Common	Common	Archer	中毒陷阱 08	False		icon_skills.venomtrap_tex
+110900	Common	Common	Archer	中毒陷阱 09	False		icon_skills.venomtrap_tex
+110920	Common	Common	Archer	中毒陷阱 09	False		icon_skills.venomtrap_tex
+111000	Common	Common	Archer	中毒陷阱 10	False		icon_skills.venomtrap_tex
+111020	Common	Common	Archer	中毒陷阱 10	False		icon_skills.venomtrap_tex
+
+120100	Common	Common	Archer	弓箭手標記 01	False		icon_skills.markingofarcher_tex
+120200	Common	Common	Archer	弓箭手標記 02	False		icon_skills.markingofarcher_tex
+120300	Common	Common	Archer	弓箭手標記 03	False		icon_skills.markingofarcher_tex
+120400	Common	Common	Archer	弓箭手標記 04	False		icon_skills.markingofarcher_tex
+120500	Common	Common	Archer	弓箭手標記 05	False		icon_skills.markingofarcher_tex
+
+140100	Common	Common	Archer	起身攻擊 01	False		icon_skills.risingattack_tex
+140200	Common	Common	Archer	起身攻擊 02	False		icon_skills.risingattack_tex
+140300	Common	Common	Archer	起身攻擊 03	False		icon_skills.risingattack_tex
+140400	Common	Common	Archer	起身攻擊 04	False		icon_skills.risingattack_tex
+140500	Common	Common	Archer	起身攻擊 05	False		icon_skills.risingattack_tex
+140600	Common	Common	Archer	起身攻擊 06	False		icon_skills.risingattack_tex
+140700	Common	Common	Archer	起身攻擊 07	False		icon_skills.risingattack_tex
+140800	Common	Common	Archer	起身攻擊 08	False		icon_skills.risingattack_tex
+140900	Common	Common	Archer	起身攻擊 09	False		icon_skills.risingattack_tex
+141000	Common	Common	Archer	起身攻擊 10	False		icon_skills.risingattack_tex
+141100	Common	Common	Archer	起身攻擊 11	False		icon_skills.risingattack_tex
+141200	Common	Common	Archer	起身攻擊 12	False		icon_skills.risingattack_tex
+
+150100	Common	Common	Archer	爆炸陷阱 01	False		icon_skills.explosiontrap_tex
+150120	Common	Common	Archer	爆炸陷阱 01	False		icon_skills.explosiontrap_tex
+150200	Common	Common	Archer	爆炸陷阱 02	False		icon_skills.explosiontrap_tex
+150220	Common	Common	Archer	爆炸陷阱 02	False		icon_skills.explosiontrap_tex
+150300	Common	Common	Archer	爆炸陷阱 03	False		icon_skills.explosiontrap_tex
+150320	Common	Common	Archer	爆炸陷阱 03	False		icon_skills.explosiontrap_tex
+150400	Common	Common	Archer	爆炸陷阱 04	False		icon_skills.explosiontrap_tex
+150420	Common	Common	Archer	爆炸陷阱 04	False		icon_skills.explosiontrap_tex
+150500	Common	Common	Archer	爆炸陷阱 05	False		icon_skills.explosiontrap_tex
+150520	Common	Common	Archer	爆炸陷阱 05	False		icon_skills.explosiontrap_tex
+150600	Common	Common	Archer	爆炸陷阱 06	False		icon_skills.explosiontrap_tex
+150620	Common	Common	Archer	爆炸陷阱 06	False		icon_skills.explosiontrap_tex
+150700	Common	Common	Archer	爆炸陷阱 07	False		icon_skills.explosiontrap_tex
+150720	Common	Common	Archer	爆炸陷阱 07	False		icon_skills.explosiontrap_tex
+
+160100	Common	Common	Archer	脫離攻擊 01	False		icon_skills.escapingattack_tex
+160200	Common	Common	Archer	脫離攻擊 02	False		icon_skills.escapingattack_tex
+160300	Common	Common	Archer	脫離攻擊 03	False		icon_skills.escapingattack_tex
+160400	Common	Common	Archer	脫離攻擊 04	False		icon_skills.escapingattack_tex
+160500	Common	Common	Archer	脫離攻擊 05	False		icon_skills.escapingattack_tex
+160600	Common	Common	Archer	脫離攻擊 06	False		icon_skills.escapingattack_tex
+160700	Common	Common	Archer	脫離攻擊 07	False		icon_skills.escapingattack_tex
+160800	Common	Common	Archer	脫離攻擊 08	False		icon_skills.escapingattack_tex
+160900	Common	Common	Archer	脫離攻擊 09	False		icon_skills.escapingattack_tex
+161000	Common	Common	Archer	脫離攻擊 10	False		icon_skills.escapingattack_tex
+161100	Common	Common	Archer	脫離攻擊 11	False		icon_skills.escapingattack_tex
+161200	Common	Common	Archer	脫離攻擊 12	False		icon_skills.escapingattack_tex
+161300	Common	Common	Archer	脫離攻擊 13	False		icon_skills.escapingattack_tex
+
+170100	Common	Common	Archer	蜘蛛網箭矢 01	False		icon_skills.spiderarrow_tex
+170200	Common	Common	Archer	蜘蛛網箭矢 02	False		icon_skills.spiderarrow_tex
+170300	Common	Common	Archer	蜘蛛網箭矢 03	False		icon_skills.spiderarrow_tex
+170400	Common	Common	Archer	蜘蛛網箭矢 04	False		icon_skills.spiderarrow_tex
+170500	Common	Common	Archer	蜘蛛網箭矢 05	False		icon_skills.spiderarrow_tex
+
+180100	Common	Common	Archer	迴旋踢 01	False	hit 1	icon_skills.turningkick_tex
+180101	Common	Common	Archer	迴旋踢 01	False	hit 2	icon_skills.turningkick_tex
+180200	Common	Common	Archer	迴旋踢 02	False	hit 1	icon_skills.turningkick_tex
+180201	Common	Common	Archer	迴旋踢 02	False	hit 2	icon_skills.turningkick_tex
+180300	Common	Common	Archer	迴旋踢 03	False	hit 1	icon_skills.turningkick_tex
+180301	Common	Common	Archer	迴旋踢 03	False	hit 2	icon_skills.turningkick_tex
+180400	Common	Common	Archer	迴旋踢 04	False	hit 1	icon_skills.turningkick_tex
+180401	Common	Common	Archer	迴旋踢 04	False	hit 2	icon_skills.turningkick_tex
+
+180500	Common	Common	Archer	迴旋踢 05			icon_skills.turningkick_tex
+180600	Common	Common	Archer	迴旋踢 06			icon_skills.turningkick_tex
+180700	Common	Common	Archer	迴旋踢 07			icon_skills.turningkick_tex
+180800	Common	Common	Archer	迴旋踢 08			icon_skills.turningkick_tex
+180900	Common	Common	Archer	迴旋踢 09			icon_skills.turningkick_tex
+181000	Common	Common	Archer	迴旋踢 10			icon_skills.turningkick_tex
+
+190100	Common	Common	Archer	劇毒之箭 01	False		icon_skills.venomarrow_tex
+190200	Common	Common	Archer	劇毒之箭 02	False		icon_skills.venomarrow_tex
+190300	Common	Common	Archer	劇毒之箭 03	False		icon_skills.venomarrow_tex
+190400	Common	Common	Archer	劇毒之箭 04	False		icon_skills.venomarrow_tex
+190500	Common	Common	Archer	劇毒之箭 05	False		icon_skills.venomarrow_tex
+190600	Common	Common	Archer	劇毒之箭 06	False		icon_skills.venomarrow_tex
+190700	Common	Common	Archer	劇毒之箭 07	False		icon_skills.venomarrow_tex
+190800	Common	Common	Archer	劇毒之箭 08	False		icon_skills.venomarrow_tex
+190900	Common	Common	Archer	劇毒之箭 09	False		icon_skills.venomarrow_tex
+191000	Common	Common	Archer	劇毒之箭 10	False		icon_skills.venomarrow_tex
+191100	Common	Common	Archer	劇毒之箭 11	False		icon_skills.venomarrow_tex
+
+200100	Common	Common	Archer	牽制射擊 01	False	hit 2	icon_skills.contaningshot_tex
+200200	Common	Common	Archer	牽制射擊 02	False	hit 2	icon_skills.contaningshot_tex
+200300	Common	Common	Archer	牽制射擊 03	False	hit 2	icon_skills.contaningshot_tex
+200400	Common	Common	Archer	牽制射擊 04	False	hit 2	icon_skills.contaningshot_tex
+
+210100	Common	Common	Archer	集中姿勢：勇猛 01	False	On	icon_skills.focusstance_tex
+210150	Common	Common	Archer	集中姿勢：勇猛 01	False	Off	icon_skills.focusstance_tex
+210200	Common	Common	Archer	集中姿勢：勇猛 02	False	On	icon_skills.focusstance_tex
+210250	Common	Common	Archer	集中姿勢：勇猛 02	False	Off	icon_skills.focusstance_tex
+210300	Common	Common	Archer	集中姿勢：勇猛 03	False	On	icon_skills.focusstance_tex
+210350	Common	Common	Archer	集中姿勢：勇猛 03	False	Off	icon_skills.focusstance_tex
+210400	Common	Common	Archer	集中姿勢：勇猛 04	False	On	icon_skills.focusstance_tex
+210450	Common	Common	Archer	集中姿勢：勇猛 04	False	Off	icon_skills.focusstance_tex
+
+220100	Common	Common	Archer	連射 01	False		icon_skills.chain_arrow
+220101	Common	Common	Archer	連射 01	False	hit 2	icon_skills.chain_arrow
+220102	Common	Common	Archer	連射 01	False	hit 3	icon_skills.chain_arrow
+220103	Common	Common	Archer	連射 01	False	hit 4	icon_skills.chain_arrow
+220104	Common	Common	Archer	連射 01	False	hit 5	icon_skills.chain_arrow
+220200	Common	Common	Archer	連射 02	False		icon_skills.chain_arrow
+220201	Common	Common	Archer	連射 02	False	hit 2	icon_skills.chain_arrow
+220202	Common	Common	Archer	連射 02	False	hit 3	icon_skills.chain_arrow
+220203	Common	Common	Archer	連射 02	False	hit 4	icon_skills.chain_arrow
+220204	Common	Common	Archer	連射 02	False	hit 5	icon_skills.chain_arrow
+220300	Common	Common	Archer	連射 03	False		icon_skills.chain_arrow
+220301	Common	Common	Archer	連射 03	False	hit 2	icon_skills.chain_arrow
+220302	Common	Common	Archer	連射 03	False	hit 3	icon_skills.chain_arrow
+220303	Common	Common	Archer	連射 03	False	hit 4	icon_skills.chain_arrow
+220304	Common	Common	Archer	連射 03	False	hit 5	icon_skills.chain_arrow
+220400	Common	Common	Archer	連射 04	False		icon_skills.chain_arrow
+220401	Common	Common	Archer	連射 04	False	hit 2	icon_skills.chain_arrow
+220402	Common	Common	Archer	連射 04	False	hit 3	icon_skills.chain_arrow
+220403	Common	Common	Archer	連射 04	False	hit 4	icon_skills.chain_arrow
+220404	Common	Common	Archer	連射 04	False	hit 5	icon_skills.chain_arrow
+220500	Common	Common	Archer	連射 05	False		icon_skills.chain_arrow
+220501	Common	Common	Archer	連射 05	False	hit 2	icon_skills.chain_arrow
+220502	Common	Common	Archer	連射 05	False	hit 3	icon_skills.chain_arrow
+220503	Common	Common	Archer	連射 05	False	hit 4	icon_skills.chain_arrow
+220504	Common	Common	Archer	連射 05	False	hit 5	icon_skills.chain_arrow
+220600	Common	Common	Archer	連射 06	False		icon_skills.chain_arrow
+220601	Common	Common	Archer	連射 06	False	hit 2	icon_skills.chain_arrow
+220602	Common	Common	Archer	連射 06	False	hit 3	icon_skills.chain_arrow
+220603	Common	Common	Archer	連射 06	False	hit 4	icon_skills.chain_arrow
+220604	Common	Common	Archer	連射 06	False	hit 5	icon_skills.chain_arrow
+220700	Common	Common	Archer	連射 07	False		icon_skills.chain_arrow
+220701	Common	Common	Archer	連射 07	False	hit 2	icon_skills.chain_arrow
+220702	Common	Common	Archer	連射 07	False	hit 3	icon_skills.chain_arrow
+220703	Common	Common	Archer	連射 07	False	hit 4	icon_skills.chain_arrow
+220704	Common	Common	Archer	連射 07	False	hit 5	icon_skills.chain_arrow
+220800	Common	Common	Archer	連射 08	False		icon_skills.chain_arrow
+220801	Common	Common	Archer	連射 08	False	hit 2	icon_skills.chain_arrow
+220802	Common	Common	Archer	連射 08	False	hit 3	icon_skills.chain_arrow
+220803	Common	Common	Archer	連射 08	False	hit 4	icon_skills.chain_arrow
+220804	Common	Common	Archer	連射 08	False	hit 5	icon_skills.chain_arrow
+220900	Common	Common	Archer	連射 09	False		icon_skills.chain_arrow
+220901	Common	Common	Archer	連射 09	False	hit 2	icon_skills.chain_arrow
+220902	Common	Common	Archer	連射 09	False	hit 3	icon_skills.chain_arrow
+220903	Common	Common	Archer	連射 09	False	hit 4	icon_skills.chain_arrow
+220904	Common	Common	Archer	連射 09	False	hit 5	icon_skills.chain_arrow
+221000	Common	Common	Archer	連射 10	False		icon_skills.chain_arrow
+221001	Common	Common	Archer	連射 10	False	hit 2	icon_skills.chain_arrow
+221002	Common	Common	Archer	連射 10	False	hit 3	icon_skills.chain_arrow
+221003	Common	Common	Archer	連射 10	False	hit 4	icon_skills.chain_arrow
+221004	Common	Common	Archer	連射 10	False	hit 5	icon_skills.chain_arrow
+221100	Common	Common	Archer	連射 11	False		icon_skills.chain_arrow
+221101	Common	Common	Archer	連射 11	False	hit 2	icon_skills.chain_arrow
+221102	Common	Common	Archer	連射 11	False	hit 3	icon_skills.chain_arrow
+221103	Common	Common	Archer	連射 11	False	hit 4	icon_skills.chain_arrow
+221104	Common	Common	Archer	連射 11	False	hit 5	icon_skills.chain_arrow
+
+230100	Common	Common	Archer	麻痺陷阱箭矢 01	False		icon_skills.paralysistraparrow_tex
+230120	Common	Common	Archer	麻痺陷阱箭矢 01	False		icon_skills.paralysistraparrow_tex
+230200	Common	Common	Archer	麻痺陷阱箭矢 02	False		icon_skills.paralysistraparrow_tex
+230220	Common	Common	Archer	麻痺陷阱箭矢 02	False		icon_skills.paralysistraparrow_tex
+230300	Common	Common	Archer	麻痺陷阱箭矢 03	False		icon_skills.paralysistraparrow_tex
+230320	Common	Common	Archer	麻痺陷阱箭矢 03	False		icon_skills.paralysistraparrow_tex
+
+240100	Common	Common	Archer	蜘蛛陷阱箭矢 01	False		icon_skills.webtraparrow_tex
+240101	Common	Common	Archer	蜘蛛陷阱箭矢 01	False		icon_skills.webtraparrow_tex
+240103	Common	Common	Archer	蜘蛛陷阱箭矢 01	False		icon_skills.webtraparrow_tex
+240120	Common	Common	Archer	蜘蛛陷阱箭矢 01	False	forward	icon_skills.webtraparrow_tex
+240121	Common	Common	Archer	蜘蛛陷阱箭矢 01	False	Boom	icon_skills.webtraparrow_tex
+240200	Common	Common	Archer	蜘蛛陷阱箭矢 02	False		icon_skills.webtraparrow_tex
+240201	Common	Common	Archer	蜘蛛陷阱箭矢 02	False		icon_skills.webtraparrow_tex
+240203	Common	Common	Archer	蜘蛛陷阱箭矢 02	False		icon_skills.webtraparrow_tex
+240220	Common	Common	Archer	蜘蛛陷阱箭矢 02	False	forward	icon_skills.webtraparrow_tex
+240221	Common	Common	Archer	蜘蛛陷阱箭矢 02	False	Boom	icon_skills.webtraparrow_tex
+240300	Common	Common	Archer	蜘蛛陷阱箭矢 03	False		icon_skills.webtraparrow_tex
+240320	Common	Common	Archer	蜘蛛陷阱箭矢 03	False		icon_skills.webtraparrow_tex
+240400	Common	Common	Archer	蜘蛛陷阱箭矢 04	False		icon_skills.webtraparrow_tex
+240420	Common	Common	Archer	蜘蛛陷阱箭矢 04	False		icon_skills.webtraparrow_tex
+240500	Common	Common	Archer	蜘蛛陷阱箭矢 05	False		icon_skills.webtraparrow_tex
+240520	Common	Common	Archer	蜘蛛陷阱箭矢 05	False		icon_skills.webtraparrow_tex
+
+250100	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250120	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250200	Common	Common	Archer	爆發陷阱箭矢II	False		icon_skills.explosiontraparrow_tex
+250220	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250300	Common	Common	Archer	爆發陷阱箭矢 03	False		icon_skills.explosiontraparrow_tex
+250320	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250400	Common	Common	Archer	爆發陷阱箭矢 04	False		icon_skills.explosiontraparrow_tex
+250420	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250500	Common	Common	Archer	爆發陷阱箭矢 05	False		icon_skills.explosiontraparrow_tex
+250520	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250600	Common	Common	Archer	爆發陷阱箭矢 06	False		icon_skills.explosiontraparrow_tex
+250620	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250700	Common	Common	Archer	爆發陷阱箭矢 07	False		icon_skills.explosiontraparrow_tex
+250720	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250800	Common	Common	Archer	爆發陷阱箭矢 08	False		icon_skills.explosiontraparrow_tex
+250820	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+250900	Common	Common	Archer	爆發陷阱箭矢 09	False		icon_skills.explosiontraparrow_tex
+250920	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+251000	Common	Common	Archer	爆發陷阱箭矢 10	False		icon_skills.explosiontraparrow_tex
+251020	Common	Common	Archer	爆發陷阱箭矢I	False		icon_skills.explosiontraparrow_tex
+
+260100	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+260200	Common	Common	Archer	雷龍一擊 02	False		icon_skills.thunderdrake_tex
+
+280100	Common	Common	Archer	集中姿勢：慎重 01			icon_skills.focusstance_moveslow_tex
+280200	Common	Common	Archer	集中姿勢：慎重 02			icon_skills.focusstance_moveslow_tex
+
+290100	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290120	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290200	Common	Common	Archer	雷龍一擊 02	False		icon_skills.thunderdrake_tex
+290220	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290300	Common	Common	Archer	雷龍一擊 03	False		icon_skills.thunderdrake_tex
+290320	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290400	Common	Common	Archer	雷龍一擊 04	False		icon_skills.thunderdrake_tex
+290420	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290500	Common	Common	Archer	雷龍一擊 05	False		icon_skills.thunderdrake_tex
+290520	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290600	Common	Common	Archer	雷龍一擊 06	False		icon_skills.thunderdrake_tex
+290620	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290700	Common	Common	Archer	雷龍一擊 07	False		icon_skills.thunderdrake_tex
+290720	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290800	Common	Common	Archer	雷龍一擊 08	False		icon_skills.thunderdrake_tex
+290820	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+290900	Common	Common	Archer	雷龍一擊 09	False		icon_skills.thunderdrake_tex
+290920	Common	Common	Archer	雷龍一擊 01	False		icon_skills.thunderdrake_tex
+291000	Common	Common	Archer	雷龍一擊 10			icon_skills.thunderdrake_tex
+
+310100	Common	Common	Archer	執念 01	False		icon_skills.tenacity_tex
+
+320100	Common	Common	Archer	弱點觀察 01	False		icon_skills.weak_point_observed
+320200	Common	Common	Archer	弱點觀察 02	False		icon_skills.weak_point_observed
+320300	Common	Common	Archer	弱點觀察 03	False		icon_skills.weak_point_observed_awaken_tex
+
+330100	Common	Common	Archer	追擊 01	False		icon_skills.advancingleap_tex
+
+340100	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340110	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340120	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340130	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340140	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340150	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340160	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340170	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+340180	Common	Common	Archer	風之步伐 01	False		icon_skills.windwalk_tex
+
+350100	Common	Common	Archer	風的旋律 01	False		icon_skills.breeze_tex
+350130	Common	Common	Archer	風的旋律 01	False		icon_skills.breeze_tex
+350140	Common	Common	Archer	風的旋律 01	False		icon_skills.breeze_tex
+
+360100	Common	Common	Archer	狂風殺 01	False		icon_skills.eyeoftyphoon_tex
+360210	Common	Common	Archer	狂風殺 01	False		icon_skills.eyeoftyphoon_tex
+360213	Common	Common	Archer	狂風殺 01	False	hit 2	icon_skills.eyeoftyphoon_tex
+360222	Common	Common	Archer	狂風殺 01	False	hit 2	icon_skills.eyeoftyphoon_tex
+360223	Common	Common	Archer	狂風殺 01	False		icon_skills.eyeoftyphoon_tex
+360224	Common	Common	Archer	狂風殺 01	False		icon_skills.eyeoftyphoon_tex
+
+9100100	Common	Common	Archer	覺醒氣息	False		icon_skills.awakenaura_tex

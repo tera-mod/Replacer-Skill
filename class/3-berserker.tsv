@@ -1,0 +1,622 @@
+10100	Common	Common	Berserker	連續攻擊 01	False	hit 1	icon_skills.comboattack_tex
+10101	Common	Common	Berserker	連續攻擊 01	False	hit 2	icon_skills.comboattack_tex
+10102	Common	Common	Berserker	連續攻擊 01	False	hit 3	icon_skills.comboattack_tex
+10103	Common	Common	Berserker	連續攻擊 01	False	hit 4	icon_skills.comboattack_tex
+10200	Common	Common	Berserker	連續攻擊 02	False	hit 1	icon_skills.comboattack_tex
+10201	Common	Common	Berserker	連續攻擊 02	False	hit 2	icon_skills.comboattack_tex
+10202	Common	Common	Berserker	連續攻擊 02	False	hit 3	icon_skills.comboattack_tex
+10203	Common	Common	Berserker	連續攻擊 02	False	hit 4	icon_skills.comboattack_tex
+10300	Common	Common	Berserker	連續攻擊 03	False	hit 1	icon_skills.comboattack_tex
+10301	Common	Common	Berserker	連續攻擊 03	False	hit 2	icon_skills.comboattack_tex
+10302	Common	Common	Berserker	連續攻擊 03	False	hit 3	icon_skills.comboattack_tex
+10303	Common	Common	Berserker	連續攻擊 03	False	hit 4	icon_skills.comboattack_tex
+10400	Common	Common	Berserker	連續攻擊 04	False	hit 1	icon_skills.comboattack_tex
+10401	Common	Common	Berserker	連續攻擊 04	False	hit 2	icon_skills.comboattack_tex
+10402	Common	Common	Berserker	連續攻擊 04	False	hit 3	icon_skills.comboattack_tex
+10403	Common	Common	Berserker	連續攻擊 04	False	hit 4	icon_skills.comboattack_tex
+10500	Common	Common	Berserker	連續攻擊 05	False	hit 1	icon_skills.comboattack_tex
+10501	Common	Common	Berserker	連續攻擊 05	False	hit 2	icon_skills.comboattack_tex
+10502	Common	Common	Berserker	連續攻擊 05	False	hit 3	icon_skills.comboattack_tex
+10503	Common	Common	Berserker	連續攻擊 05	False	hit 4	icon_skills.comboattack_tex
+10600	Common	Common	Berserker	連續攻擊 06	False	hit 1	icon_skills.comboattack_tex
+10601	Common	Common	Berserker	連續攻擊 06	False	hit 2	icon_skills.comboattack_tex
+10602	Common	Common	Berserker	連續攻擊 06	False	hit 3	icon_skills.comboattack_tex
+10603	Common	Common	Berserker	連續攻擊 06	False	hit 4	icon_skills.comboattack_tex
+10700	Common	Common	Berserker	連續攻擊 07	False	hit 1	icon_skills.comboattack_tex
+10701	Common	Common	Berserker	連續攻擊 07	False	hit 2	icon_skills.comboattack_tex
+10702	Common	Common	Berserker	連續攻擊 07	False	hit 3	icon_skills.comboattack_tex
+10703	Common	Common	Berserker	連續攻擊 07	False	hit 4	icon_skills.comboattack_tex
+10800	Common	Common	Berserker	連續攻擊 08	False	hit 1	icon_skills.comboattack_tex
+10801	Common	Common	Berserker	連續攻擊 08	False	hit 2	icon_skills.comboattack_tex
+10802	Common	Common	Berserker	連續攻擊 08	False	hit 3	icon_skills.comboattack_tex
+10803	Common	Common	Berserker	連續攻擊 08	False	hit 4	icon_skills.comboattack_tex
+10900	Common	Common	Berserker	連續攻擊 09	False	hit 1	icon_skills.comboattack_tex
+10901	Common	Common	Berserker	連續攻擊 09	False	hit 2	icon_skills.comboattack_tex
+10902	Common	Common	Berserker	連續攻擊 09	False	hit 3	icon_skills.comboattack_tex
+10903	Common	Common	Berserker	連續攻擊 09	False	hit 4	icon_skills.comboattack_tex
+11000	Common	Common	Berserker	連續攻擊 10	False	hit 1	icon_skills.comboattack_tex
+11001	Common	Common	Berserker	連續攻擊 10	False	hit 2	icon_skills.comboattack_tex
+11002	Common	Common	Berserker	連續攻擊 10	False	hit 3	icon_skills.comboattack_tex
+11003	Common	Common	Berserker	連續攻擊 10	False	hit 4	icon_skills.comboattack_tex
+11100	Common	Common	Berserker	連續攻擊 11	False	hit 1	icon_skills.comboattack_tex
+11101	Common	Common	Berserker	連續攻擊 11	False	hit 2	icon_skills.comboattack_tex
+11102	Common	Common	Berserker	連續攻擊 11	False	hit 3	icon_skills.comboattack_tex
+11103	Common	Common	Berserker	連續攻擊 11	False	hit 4	icon_skills.comboattack_tex
+11200	Common	Common	Berserker	連續攻擊 12	False	hit 1	icon_skills.comboattack_tex
+11201	Common	Common	Berserker	連續攻擊 12	False	hit 2	icon_skills.comboattack_tex
+11202	Common	Common	Berserker	連續攻擊 12	False	hit 3	icon_skills.comboattack_tex
+11203	Common	Common	Berserker	連續攻擊 12	False	hit 4	icon_skills.comboattack_tex
+11300	Common	Common	Berserker	連續攻擊 13	False	hit 1	icon_skills.comboattack_tex
+11301	Common	Common	Berserker	連續攻擊 13	False	hit 2	icon_skills.comboattack_tex
+11302	Common	Common	Berserker	連續攻擊 13	False	hit 3	icon_skills.comboattack_tex
+11303	Common	Common	Berserker	連續攻擊 13	False	hit 4	icon_skills.comboattack_tex
+11400	Common	Common	Berserker	連續攻擊 14	False	hit 1	icon_skills.comboattack_tex
+11401	Common	Common	Berserker	連續攻擊 14	False	hit 2	icon_skills.comboattack_tex
+11402	Common	Common	Berserker	連續攻擊 14	False	hit 3	icon_skills.comboattack_tex
+11403	Common	Common	Berserker	連續攻擊 14	False	hit 4	icon_skills.comboattack_tex
+11500	Common	Common	Berserker	連續攻擊 15	False	hit 1	icon_skills.comboattack_tex
+11501	Common	Common	Berserker	連續攻擊 15	False	hit 2	icon_skills.comboattack_tex
+11502	Common	Common	Berserker	連續攻擊 15	False	hit 3	icon_skills.comboattack_tex
+11503	Common	Common	Berserker	連續攻擊 15	False	hit 4	icon_skills.comboattack_tex
+
+20100	Common	Common	Berserker	武器防禦 01	False		icon_skills.weapondefence_tex
+20200	Common	Common	Berserker	武器防禦 02	False		icon_skills.weapondefence_tex
+20230	Common	Common	Berserker	武器防禦 02	False		icon_skills.weapondefence_tex
+20231	Common	Common	Berserker	武器防禦 02	False	Fury	icon_skills.weapondefence_tex
+20300	Common	Common	Berserker	武器防禦 03	False		icon_skills.weapondefence_tex
+
+30100	Common	Common	Berserker	聚力之擊 01	False		icon_skills.blastslash_tex
+30110	Common	Common	Berserker	聚力之擊 01	False	hit 1	icon_skills.blastslash_tex
+30111	Common	Common	Berserker	聚力之擊 01	False	hit 2	icon_skills.blastslash_tex
+30112	Common	Common	Berserker	聚力之擊 01	False	hit 3	icon_skills.blastslash_tex
+30113	Common	Common	Berserker	聚力之擊 01	False	hit 4	icon_skills.blastslash_tex
+30200	Common	Common	Berserker	聚力之擊 02	False		icon_skills.blastslash_tex
+30210	Common	Common	Berserker	聚力之擊 02	False	hit 1	icon_skills.blastslash_tex
+30211	Common	Common	Berserker	聚力之擊 02	False	hit 2	icon_skills.blastslash_tex
+30212	Common	Common	Berserker	聚力之擊 02	False	hit 3	icon_skills.blastslash_tex
+30213	Common	Common	Berserker	聚力之擊 02	False	hit 4	icon_skills.blastslash_tex
+30300	Common	Common	Berserker	聚力之擊 03	False		icon_skills.blastslash_tex
+30310	Common	Common	Berserker	聚力之擊 03	False	hit 1	icon_skills.blastslash_tex
+30311	Common	Common	Berserker	聚力之擊 03	False	hit 2	icon_skills.blastslash_tex
+30312	Common	Common	Berserker	聚力之擊 03	False	hit 3	icon_skills.blastslash_tex
+30313	Common	Common	Berserker	聚力之擊 03	False	hit 4	icon_skills.blastslash_tex
+30400	Common	Common	Berserker	聚力之擊 04	False		icon_skills.blastslash_tex
+30410	Common	Common	Berserker	聚力之擊 04	False	hit 1	icon_skills.blastslash_tex
+30411	Common	Common	Berserker	聚力之擊 04	False	hit 2	icon_skills.blastslash_tex
+30412	Common	Common	Berserker	聚力之擊 04	False	hit 3	icon_skills.blastslash_tex
+30413	Common	Common	Berserker	聚力之擊 04	False	hit 4	icon_skills.blastslash_tex
+30500	Common	Common	Berserker	聚力之擊 05	False		icon_skills.blastslash_tex
+30510	Common	Common	Berserker	聚力之擊 05	False	hit 1	icon_skills.blastslash_tex
+30511	Common	Common	Berserker	聚力之擊 05	False	hit 2	icon_skills.blastslash_tex
+30512	Common	Common	Berserker	聚力之擊 05	False	hit 3	icon_skills.blastslash_tex
+30513	Common	Common	Berserker	聚力之擊 05	False	hit 4	icon_skills.blastslash_tex
+30600	Common	Common	Berserker	聚力之擊 06	False		icon_skills.blastslash_tex
+30610	Common	Common	Berserker	聚力之擊 06	False	hit 1	icon_skills.blastslash_tex
+30611	Common	Common	Berserker	聚力之擊 06	False	hit 2	icon_skills.blastslash_tex
+30612	Common	Common	Berserker	聚力之擊 06	False	hit 3	icon_skills.blastslash_tex
+30613	Common	Common	Berserker	聚力之擊 06	False	hit 4	icon_skills.blastslash_tex
+30700	Common	Common	Berserker	聚力之擊 07	False		icon_skills.blastslash_tex
+30710	Common	Common	Berserker	聚力之擊 07	False	hit 1	icon_skills.blastslash_tex
+30711	Common	Common	Berserker	聚力之擊 07	False	hit 2	icon_skills.blastslash_tex
+30712	Common	Common	Berserker	聚力之擊 07	False	hit 3	icon_skills.blastslash_tex
+30713	Common	Common	Berserker	聚力之擊 07	False	hit 4	icon_skills.blastslash_tex
+30800	Common	Common	Berserker	聚力之擊 08	False		icon_skills.blastslash_tex
+30810	Common	Common	Berserker	聚力之擊 08	False	hit 1	icon_skills.blastslash_tex
+30811	Common	Common	Berserker	聚力之擊 08	False	hit 2	icon_skills.blastslash_tex
+30812	Common	Common	Berserker	聚力之擊 08	False	hit 3	icon_skills.blastslash_tex
+30813	Common	Common	Berserker	聚力之擊 08	False	hit 4	icon_skills.blastslash_tex
+30900	Common	Common	Berserker	聚力之擊 09	False		icon_skills.blastslash_tex
+30910	Common	Common	Berserker	聚力之擊 09	False	hit 1	icon_skills.blastslash_tex
+30911	Common	Common	Berserker	聚力之擊 09	False	hit 2	icon_skills.blastslash_tex
+30912	Common	Common	Berserker	聚力之擊 09	False	hit 3	icon_skills.blastslash_tex
+30913	Common	Common	Berserker	聚力之擊 09	False	hit 4	icon_skills.blastslash_tex
+
+31000	Common	Common	Berserker	聚力之擊 10	False		icon_skills.blastslash_tex
+31010	Common	Common	Berserker	聚力之擊 10	False	hit 1	icon_skills.blastslash_tex
+31011	Common	Common	Berserker	聚力之擊 10	False	hit 2	icon_skills.blastslash_tex
+31012	Common	Common	Berserker	聚力之擊 10	False	hit 3	icon_skills.blastslash_tex
+31013	Common	Common	Berserker	聚力之擊 10	False	hit 4	icon_skills.blastslash_tex
+31100	Common	Common	Berserker	聚力之擊 11	False		icon_skills.blastslash_tex
+31110	Common	Common	Berserker	聚力之擊 11	False	hit 1	icon_skills.blastslash_tex
+31111	Common	Common	Berserker	聚力之擊 11	False	hit 2	icon_skills.blastslash_tex
+31112	Common	Common	Berserker	聚力之擊 11	False	hit 3	icon_skills.blastslash_tex
+31113	Common	Common	Berserker	聚力之擊 11	False	hit 4	icon_skills.blastslash_tex
+31200	Common	Common	Berserker	聚力之擊 12	False		icon_skills.blastslash_tex
+31210	Common	Common	Berserker	聚力之擊 12	False	hit 1	icon_skills.blastslash_tex
+31211	Common	Common	Berserker	聚力之擊 12	False	hit 2	icon_skills.blastslash_tex
+31212	Common	Common	Berserker	聚力之擊 12	False	hit 3	icon_skills.blastslash_tex
+31213	Common	Common	Berserker	聚力之擊 12	False	hit 4	icon_skills.blastslash_tex
+31300	Common	Common	Berserker	聚力之擊 13	False		icon_skills.blastslash_tex
+31310	Common	Common	Berserker	聚力之擊 13	False	hit 1	icon_skills.blastslash_tex
+31311	Common	Common	Berserker	聚力之擊 13	False	hit 2	icon_skills.blastslash_tex
+31312	Common	Common	Berserker	聚力之擊 13	False	hit 3	icon_skills.blastslash_tex
+31313	Common	Common	Berserker	聚力之擊 13	False	hit 4	icon_skills.blastslash_tex
+31400	Common	Common	Berserker	聚力之擊 14	False		icon_skills.blastslash_tex
+31410	Common	Common	Berserker	聚力之擊 14	False	hit 1	icon_skills.blastslash_tex
+31411	Common	Common	Berserker	聚力之擊 14	False	hit 2	icon_skills.blastslash_tex
+31412	Common	Common	Berserker	聚力之擊 14	False	hit 3	icon_skills.blastslash_tex
+31413	Common	Common	Berserker	聚力之擊 14	False	hit 4	icon_skills.blastslash_tex
+
+40100	Common	Common	Berserker	打擊大地 01	False		icon_skills.bash_tex
+40101	Common	Common	Berserker	打擊大地 01	False	Fury	icon_skills.bash_tex
+40130	Common	Common	Berserker	打擊大地 01	True		icon_skills.bash_tex
+40131	Common	Common	Berserker	打擊大地 01	True	Fury	icon_skills.bash_tex
+40200	Common	Common	Berserker	打擊大地 02	False		icon_skills.bash_tex
+40201	Common	Common	Berserker	打擊大地 02	False	Fury	icon_skills.bash_tex
+40230	Common	Common	Berserker	打擊大地 02	True		icon_skills.bash_tex
+40231	Common	Common	Berserker	打擊大地 02	True	Fury	icon_skills.bash_tex
+40300	Common	Common	Berserker	打擊大地 03	False		icon_skills.bash_tex
+40301	Common	Common	Berserker	打擊大地 03	False	Fury	icon_skills.bash_tex
+40330	Common	Common	Berserker	打擊大地 03	True		icon_skills.bash_tex
+40331	Common	Common	Berserker	打擊大地 03	True	Fury	icon_skills.bash_tex
+40400	Common	Common	Berserker	打擊大地 04	False		icon_skills.bash_tex
+40401	Common	Common	Berserker	打擊大地 04	False	Fury	icon_skills.bash_tex
+40430	Common	Common	Berserker	打擊大地 04	True		icon_skills.bash_tex
+40431	Common	Common	Berserker	打擊大地 04	True	Fury	icon_skills.bash_tex
+40500	Common	Common	Berserker	打擊大地 05	False		icon_skills.bash_tex
+40501	Common	Common	Berserker	打擊大地 05	False	Fury	icon_skills.bash_tex
+40530	Common	Common	Berserker	打擊大地 05	True		icon_skills.bash_tex
+40531	Common	Common	Berserker	打擊大地 05	True	Fury	icon_skills.bash_tex
+40600	Common	Common	Berserker	打擊大地 06	False		icon_skills.bash_tex
+40601	Common	Common	Berserker	打擊大地 06	False	Fury	icon_skills.bash_tex
+40630	Common	Common	Berserker	打擊大地 06	True		icon_skills.bash_tex
+40631	Common	Common	Berserker	打擊大地 06	True	Fury	icon_skills.bash_tex
+40700	Common	Common	Berserker	打擊大地 07	False		icon_skills.bash_tex
+40701	Common	Common	Berserker	打擊大地 07	False	Fury	icon_skills.bash_tex
+40730	Common	Common	Berserker	打擊大地 07	True		icon_skills.bash_tex
+40731	Common	Common	Berserker	打擊大地 07	True	Fury	icon_skills.bash_tex
+40800	Common	Common	Berserker	打擊大地 08	False		icon_skills.bash_tex
+40801	Common	Common	Berserker	打擊大地 08	False	Fury	icon_skills.bash_tex
+40830	Common	Common	Berserker	打擊大地 08	True		icon_skills.bash_tex
+40831	Common	Common	Berserker	打擊大地 08	True	Fury	icon_skills.bash_tex
+40900	Common	Common	Berserker	打擊大地 09	False		icon_skills.bash_tex
+40901	Common	Common	Berserker	打擊大地 09	False	Fury	icon_skills.bash_tex
+40930	Common	Common	Berserker	打擊大地 09	True		icon_skills.bash_tex
+40931	Common	Common	Berserker	打擊大地 09	True	Fury	icon_skills.bash_tex
+
+41000	Common	Common	Berserker	打擊大地 10	False		icon_skills.bash_tex
+41001	Common	Common	Berserker	打擊大地 10	False	Fury	icon_skills.bash_tex
+41030	Common	Common	Berserker	打擊大地 10	True		icon_skills.bash_tex
+41031	Common	Common	Berserker	打擊大地 10	True	Fury	icon_skills.bash_tex
+41100	Common	Common	Berserker	打擊大地 11	False		icon_skills.bash_tex
+41101	Common	Common	Berserker	打擊大地 11	False	Fury	icon_skills.bash_tex
+41130	Common	Common	Berserker	打擊大地 11	True		icon_skills.bash_tex
+41131	Common	Common	Berserker	打擊大地 11	True	Fury	icon_skills.bash_tex
+41200	Common	Common	Berserker	打擊大地 12	False		icon_skills.bash_tex
+41230	Common	Common	Berserker	打擊大地 12	True		icon_skills.bash_tex
+41300	Common	Common	Berserker	打擊大地 13	False		icon_skills.bash_tex
+41330	Common	Common	Berserker	打擊大地 13	True		icon_skills.bash_tex
+41400	Common	Common	Berserker	打擊大地 14	False		icon_skills.bash_tex
+41430	Common	Common	Berserker	打擊大地 14	True		icon_skills.bash_tex
+41500	Common	Common	Berserker	打擊大地 15	False		icon_skills.bash_tex
+41530	Common	Common	Berserker	打擊大地 15	True		icon_skills.bash_tex
+
+50100	Common	Common	Berserker	疾走 01	False		icon_skills.dash_tex
+50200	Common	Common	Berserker	疾走 02	False		icon_skills.dash_tex
+50300	Common	Common	Berserker	疾走 03	False		icon_skills.dash_tex
+50400	Common	Common	Berserker	疾走 04	False		icon_skills.dash_tex
+50500	Common	Common	Berserker	疾走 05	False		icon_skills.dash_tex
+
+60100	Common	Common	Berserker	震懾 01	False		icon_skills.turnback_tex
+60130	Common	Common	Berserker	震懾 01	False	Fury	icon_skills.turnback_tex
+60200	Common	Common	Berserker	震懾 02	False		icon_skills.turnback_tex
+60230	Common	Common	Berserker	震懾 02	False	Fury	icon_skills.turnback_tex
+60300	Common	Common	Berserker	震懾 03	False		icon_skills.turnback_tex
+60330	Common	Common	Berserker	震懾 03	False	Fury	icon_skills.turnback_tex
+60400	Common	Common	Berserker	震懾 04	False		icon_skills.turnback_tex
+60430	Common	Common	Berserker	震懾 04	False	Fury	icon_skills.turnback_tex
+60500	Common	Common	Berserker	震懾 05	False		icon_skills.turnback_tex
+60530	Common	Common	Berserker	震懾 05	False	Fury	icon_skills.turnback_tex
+60600	Common	Common	Berserker	震懾 06	False		icon_skills.turnback_tex
+60630	Common	Common	Berserker	震懾 06	False	Fury	icon_skills.turnback_tex
+60700	Common	Common	Berserker	震懾 07	False		icon_skills.turnback_tex
+60730	Common	Common	Berserker	震懾 07	False	Fury	icon_skills.turnback_tex
+60800	Common	Common	Berserker	震懾 08	False		icon_skills.turnback_tex
+60830	Common	Common	Berserker	震懾 08	False	Fury	icon_skills.turnback_tex
+60900	Common	Common	Berserker	震懾 09	False		icon_skills.turnback_tex
+60930	Common	Common	Berserker	震懾 09	False	Fury	icon_skills.turnback_tex
+61000	Common	Common	Berserker	震懾 10	False		icon_skills.turnback_tex
+61030	Common	Common	Berserker	震懾 10	False	Fury	icon_skills.turnback_tex
+61100	Common	Common	Berserker	震懾 11	False		icon_skills.turnback_tex
+61130	Common	Common	Berserker	震懾 11	False	Fury	icon_skills.turnback_tex
+
+70100	Common	Common	Berserker	吶喊 01	False		icon_skills.shockingshout_tex
+70200	Common	Common	Berserker	吶喊 02	False		icon_skills.shockingshout_tex
+70300	Common	Common	Berserker	吶喊 03	False		icon_skills.shockingshout_tex
+70400	Common	Common	Berserker	吶喊 04	False		icon_skills.shockingshout_tex
+
+80100	Common	Common	Berserker	狂暴化 01	False		icon_skills.berserk_tex
+80101	Common	Common	Berserker	狂暴化 01	False		icon_skills.berserk_tex
+80130	Common	Common	Berserker	狂暴化 01	False	Fury	icon_skills.berserk_tex
+80200	Common	Common	Berserker	狂暴化 02	False		icon_skills.berserk_tex
+80201	Common	Common	Berserker	狂暴化 02	False		icon_skills.berserk_tex
+80230	Common	Common	Berserker	狂暴化 02	False	Fury	icon_skills.berserk_tex
+80300	Common	Common	Berserker	狂暴化 03	False		icon_skills.berserk_tex
+80301	Common	Common	Berserker	狂暴化 03	False		icon_skills.berserk_tex
+80330	Common	Common	Berserker	狂暴化 03	False	Fury	icon_skills.berserk_tex
+80400	Common	Common	Berserker	狂暴化 04	False		icon_skills.berserk_tex
+80401	Common	Common	Berserker	狂暴化 04	False		icon_skills.berserk_tex
+80430	Common	Common	Berserker	狂暴化 04	False	Fury	icon_skills.berserk_tex
+80500	Common	Common	Berserker	狂暴化 05	False		icon_skills.berserk_tex
+80501	Common	Common	Berserker	狂暴化 05	False		icon_skills.berserk_tex
+80530	Common	Common	Berserker	狂暴化 05	False	Fury	icon_skills.berserk_tex
+80600	Common	Common	Berserker	狂暴化 06	False		icon_skills.berserk_tex
+80601	Common	Common	Berserker	狂暴化 06	False		icon_skills.berserk_tex
+80630	Common	Common	Berserker	狂暴化 06	False	Fury	icon_skills.berserk_tex
+80700	Common	Common	Berserker	狂暴化 07	False		icon_skills.berserk_tex
+
+100100	Common	Common	Berserker	龍捲風 01	False		icon_skills.whirlwind_tex
+100110	Common	Common	Berserker	龍捲風 01	False	hit 1	icon_skills.whirlwind_tex
+100111	Common	Common	Berserker	龍捲風 01	False	hit 2	icon_skills.whirlwind_tex
+100112	Common	Common	Berserker	龍捲風 01	False	hit 3	icon_skills.whirlwind_tex
+100113	Common	Common	Berserker	龍捲風 01	False	hit 4	icon_skills.whirlwind_tex
+100200	Common	Common	Berserker	龍捲風 02	False		icon_skills.whirlwind_tex
+100210	Common	Common	Berserker	龍捲風 02	False	hit 1	icon_skills.whirlwind_tex
+100211	Common	Common	Berserker	龍捲風 02	False	hit 2	icon_skills.whirlwind_tex
+100212	Common	Common	Berserker	龍捲風 02	False	hit 3	icon_skills.whirlwind_tex
+100213	Common	Common	Berserker	龍捲風 02	False	hit 4	icon_skills.whirlwind_tex
+100300	Common	Common	Berserker	龍捲風 03	False		icon_skills.whirlwind_tex
+100310	Common	Common	Berserker	龍捲風 03	False	hit 1	icon_skills.whirlwind_tex
+100311	Common	Common	Berserker	龍捲風 03	False	hit 2	icon_skills.whirlwind_tex
+100312	Common	Common	Berserker	龍捲風 03	False	hit 3	icon_skills.whirlwind_tex
+100313	Common	Common	Berserker	龍捲風 03	False	hit 4	icon_skills.whirlwind_tex
+100400	Common	Common	Berserker	龍捲風 04	False		icon_skills.whirlwind_tex
+100410	Common	Common	Berserker	龍捲風 04	False	hit 1	icon_skills.whirlwind_tex
+100411	Common	Common	Berserker	龍捲風 04	False	hit 2	icon_skills.whirlwind_tex
+100412	Common	Common	Berserker	龍捲風 04	False	hit 3	icon_skills.whirlwind_tex
+100413	Common	Common	Berserker	龍捲風 04	False	hit 4	icon_skills.whirlwind_tex
+100500	Common	Common	Berserker	龍捲風 05	False		icon_skills.whirlwind_tex
+100510	Common	Common	Berserker	龍捲風 05	False	hit 1	icon_skills.whirlwind_tex
+100511	Common	Common	Berserker	龍捲風 05	False	hit 2	icon_skills.whirlwind_tex
+100512	Common	Common	Berserker	龍捲風 05	False	hit 3	icon_skills.whirlwind_tex
+100513	Common	Common	Berserker	龍捲風 05	False	hit 4	icon_skills.whirlwind_tex
+100600	Common	Common	Berserker	龍捲風 06	False		icon_skills.whirlwind_tex
+100610	Common	Common	Berserker	龍捲風 06	False	hit 1	icon_skills.whirlwind_tex
+100611	Common	Common	Berserker	龍捲風 06	False	hit 2	icon_skills.whirlwind_tex
+100612	Common	Common	Berserker	龍捲風 06	False	hit 3	icon_skills.whirlwind_tex
+100613	Common	Common	Berserker	龍捲風 06	False	hit 4	icon_skills.whirlwind_tex
+100700	Common	Common	Berserker	龍捲風 07	False		icon_skills.whirlwind_tex
+100710	Common	Common	Berserker	龍捲風 07	False	hit 1	icon_skills.whirlwind_tex
+100711	Common	Common	Berserker	龍捲風 07	False	hit 2	icon_skills.whirlwind_tex
+100712	Common	Common	Berserker	龍捲風 07	False	hit 3	icon_skills.whirlwind_tex
+100713	Common	Common	Berserker	龍捲風 07	False	hit 4	icon_skills.whirlwind_tex
+100800	Common	Common	Berserker	龍捲風 08	False		icon_skills.whirlwind_tex
+100810	Common	Common	Berserker	龍捲風 08	False	hit 1	icon_skills.whirlwind_tex
+100811	Common	Common	Berserker	龍捲風 08	False	hit 2	icon_skills.whirlwind_tex
+100812	Common	Common	Berserker	龍捲風 08	False	hit 3	icon_skills.whirlwind_tex
+100813	Common	Common	Berserker	龍捲風 08	False	hit 4	icon_skills.whirlwind_tex
+100900	Common	Common	Berserker	龍捲風 09	False		icon_skills.whirlwind_tex
+100910	Common	Common	Berserker	龍捲風 09	False	hit 1	icon_skills.whirlwind_tex
+100911	Common	Common	Berserker	龍捲風 09	False	hit 2	icon_skills.whirlwind_tex
+100912	Common	Common	Berserker	龍捲風 09	False	hit 3	icon_skills.whirlwind_tex
+100913	Common	Common	Berserker	龍捲風 09	False	hit 4	icon_skills.whirlwind_tex
+101000	Common	Common	Berserker	龍捲風 10	False		icon_skills.whirlwind_tex
+101010	Common	Common	Berserker	龍捲風 10	False	hit 1	icon_skills.whirlwind_tex
+101011	Common	Common	Berserker	龍捲風 10	False	hit 2	icon_skills.whirlwind_tex
+101012	Common	Common	Berserker	龍捲風 10	False	hit 3	icon_skills.whirlwind_tex
+101013	Common	Common	Berserker	龍捲風 10	False	hit 4	icon_skills.whirlwind_tex
+101100	Common	Common	Berserker	龍捲風 11	False		icon_skills.whirlwind_tex
+101110	Common	Common	Berserker	龍捲風 11	False	hit 1	icon_skills.whirlwind_tex
+101111	Common	Common	Berserker	龍捲風 11	False	hit 2	icon_skills.whirlwind_tex
+101112	Common	Common	Berserker	龍捲風 11	False	hit 3	icon_skills.whirlwind_tex
+101113	Common	Common	Berserker	龍捲風 11	False	hit 4	icon_skills.whirlwind_tex
+101200	Common	Common	Berserker	龍捲風 12	False		icon_skills.whirlwind_tex
+101210	Common	Common	Berserker	龍捲風 12	False	hit 1	icon_skills.whirlwind_tex
+101211	Common	Common	Berserker	龍捲風 12	False	hit 2	icon_skills.whirlwind_tex
+101212	Common	Common	Berserker	龍捲風 12	False	hit 3	icon_skills.whirlwind_tex
+101213	Common	Common	Berserker	龍捲風 12	False	hit 4	icon_skills.whirlwind_tex
+101300	Common	Common	Berserker	龍捲風 13	False		icon_skills.whirlwind_tex
+101310	Common	Common	Berserker	龍捲風 13	False	hit 1	icon_skills.whirlwind_tex
+101311	Common	Common	Berserker	龍捲風 13	False	hit 2	icon_skills.whirlwind_tex
+101312	Common	Common	Berserker	龍捲風 13	False	hit 3	icon_skills.whirlwind_tex
+101313	Common	Common	Berserker	龍捲風 13	False	hit 4	icon_skills.whirlwind_tex
+101400	Common	Common	Berserker	龍捲風 14	False		icon_skills.whirlwind_tex
+101410	Common	Common	Berserker	龍捲風 14	False	hit 1	icon_skills.whirlwind_tex
+101411	Common	Common	Berserker	龍捲風 14	False	hit 2	icon_skills.whirlwind_tex
+101412	Common	Common	Berserker	龍捲風 14	False	hit 3	icon_skills.whirlwind_tex
+101413	Common	Common	Berserker	龍捲風 14	False	hit 4	icon_skills.whirlwind_tex
+
+110100	Common	Common	Berserker	向下劈擊 01	False		icon_skills.downattack_tex
+110200	Common	Common	Berserker	向下劈擊 02	False		icon_skills.downattack_tex
+110300	Common	Common	Berserker	向下劈擊 03	False		icon_skills.downattack_tex
+110400	Common	Common	Berserker	向下劈擊 04	False		icon_skills.downattack_tex
+110500	Common	Common	Berserker	向下劈擊 05	False		icon_skills.downattack_tex
+110600	Common	Common	Berserker	向下劈擊 06	False		icon_skills.downattack_tex
+110700	Common	Common	Berserker	向下劈擊 07	False		icon_skills.downattack_tex
+110800	Common	Common	Berserker	向下劈擊 08	False		icon_skills.downattack_tex
+110900	Common	Common	Berserker	向下劈擊 09	False		icon_skills.downattack_tex
+111000	Common	Common	Berserker	向下劈擊 10	False		icon_skills.downattack_tex
+111100	Common	Common	Berserker	向下劈擊 11	False		icon_skills.downattack_tex
+
+120100	Common	Common	Berserker	狂神降臨 01	False		icon_skills.vitalconversion_tex
+120130	Common	Common	Berserker	狂神降臨 01	False		icon_skills.vitalconversion_tex
+120131	Common	Common	Berserker	狂神降臨 01	False	Fury	icon_skills.vitalconversion_tex
+120200	Common	Common	Berserker	狂神降臨 02	False		icon_skills.vitalconversion_tex
+120230	Common	Common	Berserker	狂神降臨 02	False		icon_skills.vitalconversion_tex
+120231	Common	Common	Berserker	狂神降臨 02	False	Fury	icon_skills.vitalconversion_tex
+120300	Common	Common	Berserker	狂神降臨 03	False		icon_skills.vitalconversion_tex
+120330	Common	Common	Berserker	狂神降臨 03	False		icon_skills.vitalconversion_tex
+120331	Common	Common	Berserker	狂神降臨 03	False	Fury	icon_skills.vitalconversion_tex
+120400	Common	Common	Berserker	狂神降臨 04	False		icon_skills.vitalconversion_tex
+120430	Common	Common	Berserker	狂神降臨 04	False		icon_skills.vitalconversion_tex
+120431	Common	Common	Berserker	狂神降臨 04	False	Fury	icon_skills.vitalconversion_tex
+120500	Common	Common	Berserker	狂神降臨 05	False		icon_skills.vitalconversion_tex
+120530	Common	Common	Berserker	狂神降臨 05	False		icon_skills.vitalconversion_tex
+120531	Common	Common	Berserker	狂神降臨 05	False	Fury	icon_skills.vitalconversion_tex
+120600	Common	Common	Berserker	狂神降臨 06	False		icon_skills.vitalconversion_tex
+120630	Common	Common	Berserker	狂神降臨 06	False		icon_skills.vitalconversion_tex
+120631	Common	Common	Berserker	狂神降臨 06	False	Fury	icon_skills.vitalconversion_tex
+120700	Common	Common	Berserker	狂神降臨 07	False		icon_skills.vitalconversion_tex
+120730	Common	Common	Berserker	狂神降臨 07	False		icon_skills.vitalconversion_tex
+120731	Common	Common	Berserker	狂神降臨 07	False	Fury	icon_skills.vitalconversion_tex
+120800	Common	Common	Berserker	狂神降臨 08	False		icon_skills.vitalconversion_tex
+120830	Common	Common	Berserker	狂神降臨 08	False		icon_skills.vitalconversion_tex
+120831	Common	Common	Berserker	狂神降臨 08	False	Fury	icon_skills.vitalconversion_tex
+120900	Common	Common	Berserker	狂神降臨 09	False		icon_skills.vitalconversion_tex
+
+130100	Common	Common	Berserker	起身攻擊 01	False		icon_skills.risingattack_tex
+130200	Common	Common	Berserker	起身攻擊 02	False		icon_skills.risingattack_tex
+130300	Common	Common	Berserker	起身攻擊 03	False		icon_skills.risingattack_tex
+130400	Common	Common	Berserker	起身攻擊 04	False		icon_skills.risingattack_tex
+130500	Common	Common	Berserker	起身攻擊 05	False		icon_skills.risingattack_tex
+130600	Common	Common	Berserker	起身攻擊 06	False		icon_skills.risingattack_tex
+130700	Common	Common	Berserker	起身攻擊 07	False		icon_skills.risingattack_tex
+130800	Common	Common	Berserker	起身攻擊 08	False		icon_skills.risingattack_tex
+130900	Common	Common	Berserker	起身攻擊 09	False		icon_skills.risingattack_tex
+131000	Common	Common	Berserker	起身攻擊 10	False		icon_skills.risingattack_tex
+131100	Common	Common	Berserker	起身攻擊 11	False		icon_skills.risingattack_tex
+131200	Common	Common	Berserker	起身攻擊 12	False		icon_skills.risingattack_tex
+
+150100	Common	Common	Berserker	吸血狂打 01	False		icon_skills.vampiricstrike_tex
+150110	Common	Common	Berserker	吸血狂打 01	False	hit 1	icon_skills.vampiricstrike_tex
+150111	Common	Common	Berserker	吸血狂打 01	False	hit 2	icon_skills.vampiricstrike_tex
+150112	Common	Common	Berserker	吸血狂打 01	False	hit 3	icon_skills.vampiricstrike_tex
+150113	Common	Common	Berserker	吸血狂打 01	False	hit 4	icon_skills.vampiricstrike_tex
+150114	Common	Common	Berserker	吸血狂打 01	False	hit 5	icon_skills.vampiricstrike_tex
+150200	Common	Common	Berserker	吸血狂打 02	False		icon_skills.vampiricstrike_tex
+150210	Common	Common	Berserker	吸血狂打 02	False	hit 1	icon_skills.vampiricstrike_tex
+150211	Common	Common	Berserker	吸血狂打 02	False	hit 2	icon_skills.vampiricstrike_tex
+150212	Common	Common	Berserker	吸血狂打 02	False	hit 3	icon_skills.vampiricstrike_tex
+150213	Common	Common	Berserker	吸血狂打 02	False	hit 4	icon_skills.vampiricstrike_tex
+150214	Common	Common	Berserker	吸血狂打 02	False	hit 5	icon_skills.vampiricstrike_tex
+150300	Common	Common	Berserker	吸血狂打 03	False		icon_skills.vampiricstrike_tex
+150310	Common	Common	Berserker	吸血狂打 03	False	hit 1	icon_skills.vampiricstrike_tex
+150311	Common	Common	Berserker	吸血狂打 03	False	hit 2	icon_skills.vampiricstrike_tex
+150312	Common	Common	Berserker	吸血狂打 03	False	hit 3	icon_skills.vampiricstrike_tex
+150313	Common	Common	Berserker	吸血狂打 03	False	hit 4	icon_skills.vampiricstrike_tex
+150314	Common	Common	Berserker	吸血狂打 03	False	hit 5	icon_skills.vampiricstrike_tex
+150400	Common	Common	Berserker	吸血狂打 04	False		icon_skills.vampiricstrike_tex
+150410	Common	Common	Berserker	吸血狂打 04	False	hit 1	icon_skills.vampiricstrike_tex
+150411	Common	Common	Berserker	吸血狂打 04	False	hit 2	icon_skills.vampiricstrike_tex
+150412	Common	Common	Berserker	吸血狂打 04	False	hit 3	icon_skills.vampiricstrike_tex
+150413	Common	Common	Berserker	吸血狂打 04	False	hit 4	icon_skills.vampiricstrike_tex
+150414	Common	Common	Berserker	吸血狂打 04	False	hit 5	icon_skills.vampiricstrike_tex
+150500	Common	Common	Berserker	吸血狂打 05	False		icon_skills.vampiricstrike_tex
+150510	Common	Common	Berserker	吸血狂打 05	False	hit 1	icon_skills.vampiricstrike_tex
+150511	Common	Common	Berserker	吸血狂打 05	False	hit 2	icon_skills.vampiricstrike_tex
+150512	Common	Common	Berserker	吸血狂打 05	False	hit 3	icon_skills.vampiricstrike_tex
+150513	Common	Common	Berserker	吸血狂打 05	False	hit 4	icon_skills.vampiricstrike_tex
+150514	Common	Common	Berserker	吸血狂打 05	False	hit 5	icon_skills.vampiricstrike_tex
+150600	Common	Common	Berserker	吸血狂打 06	False		icon_skills.vampiricstrike_tex
+150610	Common	Common	Berserker	吸血狂打 06	False	hit 1	icon_skills.vampiricstrike_tex
+150611	Common	Common	Berserker	吸血狂打 06	False	hit 2	icon_skills.vampiricstrike_tex
+150612	Common	Common	Berserker	吸血狂打 06	False	hit 3	icon_skills.vampiricstrike_tex
+150613	Common	Common	Berserker	吸血狂打 06	False	hit 4	icon_skills.vampiricstrike_tex
+150614	Common	Common	Berserker	吸血狂打 06	False	hit 5	icon_skills.vampiricstrike_tex
+150700	Common	Common	Berserker	吸血狂打 07	False		icon_skills.vampiricstrike_tex
+150710	Common	Common	Berserker	吸血狂打 07	False	hit 1	icon_skills.vampiricstrike_tex
+150711	Common	Common	Berserker	吸血狂打 07	False	hit 2	icon_skills.vampiricstrike_tex
+150712	Common	Common	Berserker	吸血狂打 07	False	hit 3	icon_skills.vampiricstrike_tex
+150713	Common	Common	Berserker	吸血狂打 07	False	hit 4	icon_skills.vampiricstrike_tex
+150714	Common	Common	Berserker	吸血狂打 07	False	hit 5	icon_skills.vampiricstrike_tex
+150800	Common	Common	Berserker	吸血狂打 08	False		icon_skills.vampiricstrike_tex
+150810	Common	Common	Berserker	吸血狂打 08	False	hit 1	icon_skills.vampiricstrike_tex
+150811	Common	Common	Berserker	吸血狂打 08	False	hit 2	icon_skills.vampiricstrike_tex
+150812	Common	Common	Berserker	吸血狂打 08	False	hit 3	icon_skills.vampiricstrike_tex
+150813	Common	Common	Berserker	吸血狂打 08	False	hit 4	icon_skills.vampiricstrike_tex
+150814	Common	Common	Berserker	吸血狂打 08	False	hit 5	icon_skills.vampiricstrike_tex
+150900	Common	Common	Berserker	吸血狂打 09	False		icon_skills.vampiricstrike_tex
+150910	Common	Common	Berserker	吸血狂打 09	False	hit 1	icon_skills.vampiricstrike_tex
+150911	Common	Common	Berserker	吸血狂打 09	False	hit 2	icon_skills.vampiricstrike_tex
+150912	Common	Common	Berserker	吸血狂打 09	False	hit 3	icon_skills.vampiricstrike_tex
+150913	Common	Common	Berserker	吸血狂打 09	False	hit 4	icon_skills.vampiricstrike_tex
+150914	Common	Common	Berserker	吸血狂打 09	False	hit 5	icon_skills.vampiricstrike_tex
+151000	Common	Common	Berserker	吸血狂打 10	False		icon_skills.vampiricstrike_tex
+151010	Common	Common	Berserker	吸血狂打 10	False	hit 1	icon_skills.vampiricstrike_tex
+151011	Common	Common	Berserker	吸血狂打 10	False	hit 2	icon_skills.vampiricstrike_tex
+151012	Common	Common	Berserker	吸血狂打 10	False	hit 3	icon_skills.vampiricstrike_tex
+151013	Common	Common	Berserker	吸血狂打 10	False	hit 4	icon_skills.vampiricstrike_tex
+151014	Common	Common	Berserker	吸血狂打 10	False	hit 5	icon_skills.vampiricstrike_tex
+151100	Common	Common	Berserker	吸血狂打 11	False		icon_skills.vampiricstrike_tex
+151110	Common	Common	Berserker	吸血狂打 11	False	hit 1	icon_skills.vampiricstrike_tex
+151111	Common	Common	Berserker	吸血狂打 11	False	hit 2	icon_skills.vampiricstrike_tex
+151112	Common	Common	Berserker	吸血狂打 11	False	hit 3	icon_skills.vampiricstrike_tex
+151113	Common	Common	Berserker	吸血狂打 11	False	hit 4	icon_skills.vampiricstrike_tex
+151114	Common	Common	Berserker	吸血狂打 11	False	hit 5	icon_skills.vampiricstrike_tex
+151200	Common	Common	Berserker	吸血狂打 12	False		icon_skills.vampiricstrike_tex
+151210	Common	Common	Berserker	吸血狂打 12	False	hit 1	icon_skills.vampiricstrike_tex
+151211	Common	Common	Berserker	吸血狂打 12	False	hit 2	icon_skills.vampiricstrike_tex
+151212	Common	Common	Berserker	吸血狂打 12	False	hit 3	icon_skills.vampiricstrike_tex
+151213	Common	Common	Berserker	吸血狂打 12	False	hit 4	icon_skills.vampiricstrike_tex
+151214	Common	Common	Berserker	吸血狂打 12	False	hit 5	icon_skills.vampiricstrike_tex
+
+160100	Common	Common	Berserker	尖銳吶喊I	False		icon_skills.piercingshout_tex
+160200	Common	Common	Berserker	尖銳吶喊 02	False		icon_skills.piercingshout_tex
+160300	Common	Common	Berserker	尖銳吶喊 03	False		icon_skills.piercingshout_tex
+160400	Common	Common	Berserker	尖銳吶喊 04	False		icon_skills.piercingshout_tex
+160410	Common	Common	Berserker	尖銳吶喊 04	False		icon_skills.piercingshout_tex
+160420	Common	Common	Berserker	狂氣的高喊I	False		icon_skills.roar_tex
+160600	Common	Common	Berserker	尖銳吶喊I	False		icon_skills.piercingshout_tex
+160700	Common	Common	Berserker	尖銳吶喊I	False		icon_skills.piercingshout_tex
+
+180100	Common	Common	Berserker	全神一擊 01	False	hit 4	icon_skills.soulstrike_tex
+180130	Common	Common	Berserker	全神一擊 01	False	hit 4	icon_skills.soulstrike_tex
+180200	Common	Common	Berserker	全神一擊 02	False	hit 4	icon_skills.soulstrike_tex
+180230	Common	Common	Berserker	全神一擊 02	False	hit 4	icon_skills.soulstrike_tex
+180300	Common	Common	Berserker	全神一擊 03	False	hit 4	icon_skills.soulstrike_tex
+180330	Common	Common	Berserker	全神一擊 03	False	hit 4	icon_skills.soulstrike_tex
+180400	Common	Common	Berserker	全神一擊 04	False	hit 4	icon_skills.soulstrike_tex
+180430	Common	Common	Berserker	全神一擊 04	False	hit 4	icon_skills.soulstrike_tex
+180500	Common	Common	Berserker	全神一擊 05	False	hit 4	icon_skills.soulstrike_tex
+180530	Common	Common	Berserker	全神一擊 05	False	hit 4	icon_skills.soulstrike_tex
+180600	Common	Common	Berserker	全神一擊 06	False	hit 4	icon_skills.soulstrike_tex
+180630	Common	Common	Berserker	全神一擊 06	False	hit 4	icon_skills.soulstrike_tex
+180700	Common	Common	Berserker	全神一擊 07	False	hit 4	icon_skills.soulstrike_tex
+180730	Common	Common	Berserker	全神一擊 07	False	hit 4	icon_skills.soulstrike_tex
+180800	Common	Common	Berserker	全神一擊 08	False	hit 4	icon_skills.soulstrike_tex
+180830	Common	Common	Berserker	全神一擊 08	False	hit 4	icon_skills.soulstrike_tex
+180900	Common	Common	Berserker	全神一擊 09	False	hit 4	icon_skills.soulstrike_tex
+180930	Common	Common	Berserker	全神一擊 09	False	hit 4	icon_skills.soulstrike_tex
+
+190100	Common	Common	Berserker	氣合 01	False		icon_skills.tenacity_tex
+190200	Common	Common	Berserker	氣合 02	False		icon_skills.tenacity_tex
+190300	Common	Common	Berserker	氣合 03	False		icon_skills.tenacity_tex
+190400	Common	Common	Berserker	氣合 04	False		icon_skills.tenacity_tex
+190500	Common	Common	Berserker	氣合 05	False		icon_skills.tenacity_tex
+
+200100	Common	Common	Berserker	殺氣爆發 01	False		icon_skills.murderousvent_tex
+200200	Common	Common	Berserker	殺氣爆發 02	False		icon_skills.murderousvent_tex
+200300	Common	Common	Berserker	殺氣爆發 03	False		icon_skills.murderousvent_tex
+200400	Common	Common	Berserker	殺氣爆發 04	False		icon_skills.murderousvent_tex
+
+210100	Common	Common	Berserker	激怒  01	False	Fury	icon_skills.fury_tex
+210200	Common	Common	Berserker	激怒 02	False	Fury	icon_skills.fury_tex
+210300	Common	Common	Berserker	激怒 	False	Fury	icon_skills.fury_tex
+210400	Common	Common	Berserker	激怒 	False	Fury	icon_skills.fury_tex
+213100	Common	Common	Berserker	激怒 	False	Fury	icon_skills.fury_tex
+213200	Common	Common	Berserker	激怒 	False	Fury	icon_skills.fury_tex
+213300	Common	Common	Berserker	激怒 	False	Fury	icon_skills.fury_tex
+
+220100	Common	Common	Berserker	剛氣飛揚 01	False		icon_skills.throwaxe_tex
+220200	Common	Common	Berserker	剛氣飛揚 02	False		icon_skills.throwaxe_tex
+
+230100	Common	Common	Berserker	前進橫劈 01	False		icon_skills.sideslash_tex
+230200	Common	Common	Berserker	前進橫劈 02	False		icon_skills.sideslash_tex
+
+240100	Common	Common	Berserker	肋骨粉碎 01	False		icon_skills.ribbreaker_tex
+240105	Common	Common	Berserker	肋骨粉碎 01	False		icon_skills.ribbreaker_tex
+240110	Common	Common	Berserker	肋骨粉碎 01	False	hit 1	icon_skills.ribbreaker_tex
+240111	Common	Common	Berserker	肋骨粉碎 01	False	hit 2	icon_skills.ribbreaker_tex
+240112	Common	Common	Berserker	肋骨粉碎 01	False	hit 3	icon_skills.ribbreaker_tex
+240113	Common	Common	Berserker	肋骨粉碎 01	False	hit 4	icon_skills.ribbreaker_tex
+240200	Common	Common	Berserker	肋骨粉碎 02	False		icon_skills.ribbreaker_tex
+240205	Common	Common	Berserker	肋骨粉碎 02	False		icon_skills.ribbreaker_tex
+240210	Common	Common	Berserker	肋骨粉碎 02	False	hit 1	icon_skills.ribbreaker_tex
+240211	Common	Common	Berserker	肋骨粉碎 02	False	hit 2	icon_skills.ribbreaker_tex
+240212	Common	Common	Berserker	肋骨粉碎 02	False	hit 3	icon_skills.ribbreaker_tex
+240213	Common	Common	Berserker	肋骨粉碎 02	False	hit 4	icon_skills.ribbreaker_tex
+240300	Common	Common	Berserker	肋骨粉碎 03	False		icon_skills.ribbreaker_tex
+240305	Common	Common	Berserker	肋骨粉碎 03	False		icon_skills.ribbreaker_tex
+240310	Common	Common	Berserker	肋骨粉碎 03	False	hit 1	icon_skills.ribbreaker_tex
+240311	Common	Common	Berserker	肋骨粉碎 03	False	hit 2	icon_skills.ribbreaker_tex
+240312	Common	Common	Berserker	肋骨粉碎 03	False	hit 3	icon_skills.ribbreaker_tex
+240313	Common	Common	Berserker	肋骨粉碎 03	False	hit 4	icon_skills.ribbreaker_tex
+240400	Common	Common	Berserker	肋骨粉碎 04	False		icon_skills.ribbreaker_tex
+240405	Common	Common	Berserker	肋骨粉碎 04	False		icon_skills.ribbreaker_tex
+240410	Common	Common	Berserker	肋骨粉碎 04	False	hit 1	icon_skills.ribbreaker_tex
+240411	Common	Common	Berserker	肋骨粉碎 04	False	hit 2	icon_skills.ribbreaker_tex
+240412	Common	Common	Berserker	肋骨粉碎 04	False	hit 3	icon_skills.ribbreaker_tex
+240413	Common	Common	Berserker	肋骨粉碎 04	False	hit 4	icon_skills.ribbreaker_tex
+240500	Common	Common	Berserker	肋骨粉碎 05	False		icon_skills.ribbreaker_tex
+240505	Common	Common	Berserker	肋骨粉碎 05	False		icon_skills.ribbreaker_tex
+240510	Common	Common	Berserker	肋骨粉碎 05	False	hit 1	icon_skills.ribbreaker_tex
+240511	Common	Common	Berserker	肋骨粉碎 05	False	hit 2	icon_skills.ribbreaker_tex
+240512	Common	Common	Berserker	肋骨粉碎 05	False	hit 3	icon_skills.ribbreaker_tex
+240513	Common	Common	Berserker	肋骨粉碎 05	False	hit 4	icon_skills.ribbreaker_tex
+
+250100	Common	Common	Berserker	前進橫劈 01	False		icon_skills.sideslash_tex
+250101	Common	Common	Berserker	前進橫劈 01	False	Fury	icon_skills.sideslash_tex
+250130	Common	Common	Berserker	前進橫劈 01	True		icon_skills.sideslash_tex
+250131	Common	Common	Berserker	前進橫劈 01	True	Fury	icon_skills.sideslash_tex
+250200	Common	Common	Berserker	前進橫劈 02	False		icon_skills.sideslash_tex
+250201	Common	Common	Berserker	前進橫劈 02	False	Fury	icon_skills.sideslash_tex
+250230	Common	Common	Berserker	前進橫劈 02	True		icon_skills.sideslash_tex
+250231	Common	Common	Berserker	前進橫劈 02	True	Fury	icon_skills.sideslash_tex
+250300	Common	Common	Berserker	前進橫劈 03	False		icon_skills.sideslash_tex
+250301	Common	Common	Berserker	前進橫劈 03	False	Fury	icon_skills.sideslash_tex
+250330	Common	Common	Berserker	前進橫劈 03	True		icon_skills.sideslash_tex
+250331	Common	Common	Berserker	前進橫劈 03	True	Fury	icon_skills.sideslash_tex
+250400	Common	Common	Berserker	前進橫劈 04	False		icon_skills.sideslash_tex
+250401	Common	Common	Berserker	前進橫劈 04	False	Fury	icon_skills.sideslash_tex
+250430	Common	Common	Berserker	前進橫劈 04	True		icon_skills.sideslash_tex
+250431	Common	Common	Berserker	前進橫劈 04	True	Fury	icon_skills.sideslash_tex
+250500	Common	Common	Berserker	前進橫劈 05	False		icon_skills.sideslash_tex
+250501	Common	Common	Berserker	前進橫劈 05	False	Fury	icon_skills.sideslash_tex
+250530	Common	Common	Berserker	前進橫劈 05	True		icon_skills.sideslash_tex
+250531	Common	Common	Berserker	前進橫劈 05	True	Fury	icon_skills.sideslash_tex
+250600	Common	Common	Berserker	前進橫劈 06	False		icon_skills.sideslash_tex
+250601	Common	Common	Berserker	前進橫劈 06	False	Fury	icon_skills.sideslash_tex
+250630	Common	Common	Berserker	前進橫劈 06	True		icon_skills.sideslash_tex
+250631	Common	Common	Berserker	前進橫劈 06	True	Fury	icon_skills.sideslash_tex
+250700	Common	Common	Berserker	前進橫劈 07	False		icon_skills.sideslash_tex
+250701	Common	Common	Berserker	前進橫劈 07	False	Fury	icon_skills.sideslash_tex
+250730	Common	Common	Berserker	前進橫劈 07	True		icon_skills.sideslash_tex
+250731	Common	Common	Berserker	前進橫劈 07	True	Fury	icon_skills.sideslash_tex
+250800	Common	Common	Berserker	前進橫劈 08	False		icon_skills.sideslash_tex
+250801	Common	Common	Berserker	前進橫劈 08	False	Fury	icon_skills.sideslash_tex
+250830	Common	Common	Berserker	前進橫劈 08	True		icon_skills.sideslash_tex
+250831	Common	Common	Berserker	前進橫劈 08	True	Fury	icon_skills.sideslash_tex
+250900	Common	Common	Berserker	前進橫劈 09	False		icon_skills.sideslash_tex
+250901	Common	Common	Berserker	前進橫劈 09	False	Fury	icon_skills.sideslash_tex
+250930	Common	Common	Berserker	前進橫劈 09	True		icon_skills.sideslash_tex
+250931	Common	Common	Berserker	前進橫劈 09	True	Fury	icon_skills.sideslash_tex
+
+260100	Common	Common	Berserker	剛氣飛揚 01	False		icon_skills.throwaxe_tex
+260120	Common	Common	Berserker	剛氣飛揚 01	False		icon_skills.throwaxe_tex
+
+270100	Common	Common	Berserker	不滅的狂戰士 01	False		icon_skills.selfbuff_tex
+270130	Common	Common	Berserker	不滅的狂戰士 01	False		icon_skills.selfbuff_tex
+
+280100	Common	Common	Berserker	憤怒逆流 01	False	On	icon_skills.toughspirit_tex
+280150	Common	Common	Berserker	憤怒逆流 01	False	Off	icon_skills.toughspirit_tex
+
+290100	Common	Common	Berserker	緊急迴避 01	False		icon_skills.tumbling_tex
+
+300100	Common	Common	Berserker	反擊 01	False		icon_skills.determinationofadvance_tex
+300130	Common	Common	Berserker	反擊 01	False		icon_skills.determinationofadvance_tex
+
+310100	Common	Common	Berserker	強襲攻擊 01	False		icon_skills.assaultattack_tex
+310101	Common	Common	Berserker	強襲攻擊 01	False		icon_skills.assaultattack_tex
+310200	Common	Common	Berserker	強襲攻擊 02	False		icon_skills.assaultattack_tex
+310201	Common	Common	Berserker	強襲攻擊 02	False		icon_skills.assaultattack_tex
+310300	Common	Common	Berserker	強襲攻擊 03	False		icon_skills.assaultattack_tex
+310301	Common	Common	Berserker	強襲攻擊 03	False		icon_skills.assaultattack_tex
+310400	Common	Common	Berserker	強襲攻擊 04	False		icon_skills.assaultattack_tex
+310401	Common	Common	Berserker	強襲攻擊 04	False		icon_skills.assaultattack_tex
+310500	Common	Common	Berserker	強襲攻擊 05	False		icon_skills.assaultattack_tex
+310501	Common	Common	Berserker	強襲攻擊 05	False		icon_skills.assaultattack_tex
+310600	Common	Common	Berserker	強襲攻擊 06	False		icon_skills.assaultattack_tex
+310601	Common	Common	Berserker	強襲攻擊 06	False		icon_skills.assaultattack_tex
+310700	Common	Common	Berserker	強襲攻擊 07	False		icon_skills.assaultattack_tex
+310701	Common	Common	Berserker	強襲攻擊 07	False		icon_skills.assaultattack_tex
+310800	Common	Common	Berserker	強襲攻擊 08	False		icon_skills.assaultattack_tex
+310801	Common	Common	Berserker	強襲攻擊 08	False		icon_skills.assaultattack_tex
+310900	Common	Common	Berserker	強襲攻擊 09	False		icon_skills.assaultattack_tex
+310901	Common	Common	Berserker	強襲攻擊 09	False		icon_skills.assaultattack_tex
+311000	Common	Common	Berserker	強襲攻擊 10	False		icon_skills.assaultattack_tex
+311001	Common	Common	Berserker	強襲攻擊 10	False		icon_skills.assaultattack_tex
+
+320100	Common	Common	Berserker	向上砍擊 01	False	hit 1	icon_skills.upperslashcombo_tex
+320101	Common	Common	Berserker	向上砍擊 01	False	hit 2	icon_skills.upperslashcombo_tex
+
+330100	Common	Common	Berserker	暴走 01	False		icon_skills.rage2_tex
+
+340100	Common	Common	Berserker	暴走 : 右砍擊 01	False		icon_skills.rageright_tex
+340130	Common	Common	Berserker	暴走 : 右砍擊 01	True		icon_skills.rageright_tex
+340131	Common	Common	Berserker	暴走 : 右砍擊 01	True		icon_skills.rageright_tex
+
+350100	Common	Common	Berserker	暴走 : 左砍擊 01	False		icon_skills.rageleft_tex
+350101	Common	Common	Berserker	暴走 : 左砍擊 01	False	hit 2	icon_skills.rageleft_tex
+350130	Common	Common	Berserker	暴走 : 左砍擊 01	True		icon_skills.rageleft_tex
+350131	Common	Common	Berserker	暴走 : 左砍擊 01	True		icon_skills.rageleft_tex
+
+360100	Common	Common	Berserker	暴走 : 雙手連擊 01	False		icon_skills.rageboth_tex
+360130	Common	Common	Berserker	暴走 : 雙手連擊 01	True		icon_skills.rageboth_tex
+360131	Common	Common	Berserker	暴走 : 雙手連擊 01	True		icon_skills.rageboth_tex
+
+370100	Common	Common	Berserker	暴走 : 野獸的突進 01	False		icon_skills.ragerush_tex
+370130	Common	Common	Berserker	暴走 : 野獸的突進 01	True		icon_skills.ragerush_tex
+
+380100	Common	Common	Berserker	暴走 01	False		icon_skills.rage2_tex
+
+9100100	Common	Common	Berserker	覺醒氣息	False		icon_skills.awakenaura_tex

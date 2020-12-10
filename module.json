@@ -1,0 +1,9 @@
+{
+    "name": "Replacer-Skill",
+    "options": {
+        "niceName": "Replacer-Skill",
+        "guiName": "Replacer-Skill(技能替换)"
+    },
+    "author": "ZC",
+    "description": "多职业 - 技能替换"
+}

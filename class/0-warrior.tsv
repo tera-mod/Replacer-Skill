@@ -1,0 +1,346 @@
+10100	Common	Common	Warrior	連續攻擊 01	False	hit 1	icon_skills.comboattack_tex
+10101	Common	Common	Warrior	連續攻擊 01	False	hit 2	icon_skills.comboattack_tex
+10102	Common	Common	Warrior	連續攻擊 01	False	hit 3	icon_skills.comboattack_tex
+10103	Common	Common	Warrior	連續攻擊 01	False	hit 4	icon_skills.comboattack_tex
+10200	Common	Common	Warrior	連續攻擊 02	False	hit 1	icon_skills.comboattack_tex
+10201	Common	Common	Warrior	連續攻擊 02	False	hit 2	icon_skills.comboattack_tex
+10202	Common	Common	Warrior	連續攻擊 02	False	hit 3	icon_skills.comboattack_tex
+10203	Common	Common	Warrior	連續攻擊 02	False	hit 4	icon_skills.comboattack_tex
+10300	Common	Common	Warrior	連續攻擊 03	False	hit 1	icon_skills.comboattack_tex
+10301	Common	Common	Warrior	連續攻擊 03	False	hit 2	icon_skills.comboattack_tex
+10302	Common	Common	Warrior	連續攻擊 03	False	hit 3	icon_skills.comboattack_tex
+10303	Common	Common	Warrior	連續攻擊 03	False	hit 4	icon_skills.comboattack_tex
+10400	Common	Common	Warrior	連續攻擊 04	False	hit 1	icon_skills.comboattack_tex
+10401	Common	Common	Warrior	連續攻擊 04	False	hit 2	icon_skills.comboattack_tex
+10402	Common	Common	Warrior	連續攻擊 04	False	hit 3	icon_skills.comboattack_tex
+10403	Common	Common	Warrior	連續攻擊 04	False	hit 4	icon_skills.comboattack_tex
+10500	Common	Common	Warrior	連續攻擊 05	False	hit 1	icon_skills.comboattack_tex
+10501	Common	Common	Warrior	連續攻擊 05	False	hit 2	icon_skills.comboattack_tex
+10502	Common	Common	Warrior	連續攻擊 05	False	hit 3	icon_skills.comboattack_tex
+10503	Common	Common	Warrior	連續攻擊 05	False	hit 4	icon_skills.comboattack_tex
+10600	Common	Common	Warrior	連續攻擊 06	False	hit 1	icon_skills.comboattack_tex
+10601	Common	Common	Warrior	連續攻擊 06	False	hit 2	icon_skills.comboattack_tex
+10602	Common	Common	Warrior	連續攻擊 06	False	hit 3	icon_skills.comboattack_tex
+10603	Common	Common	Warrior	連續攻擊 06	False	hit 4	icon_skills.comboattack_tex
+10700	Common	Common	Warrior	連續攻擊 07	False	hit 1	icon_skills.comboattack_tex
+10701	Common	Common	Warrior	連續攻擊 07	False	hit 2	icon_skills.comboattack_tex
+10702	Common	Common	Warrior	連續攻擊 07	False	hit 3	icon_skills.comboattack_tex
+10703	Common	Common	Warrior	連續攻擊 07	False	hit 4	icon_skills.comboattack_tex
+10800	Common	Common	Warrior	連續攻擊 08	False	hit 1	icon_skills.comboattack_tex
+10801	Common	Common	Warrior	連續攻擊 08	False	hit 2	icon_skills.comboattack_tex
+10802	Common	Common	Warrior	連續攻擊 08	False	hit 3	icon_skills.comboattack_tex
+10803	Common	Common	Warrior	連續攻擊 08	False	hit 4	icon_skills.comboattack_tex
+10900	Common	Common	Warrior	連續攻擊 09	False	hit 1	icon_skills.comboattack_tex
+10901	Common	Common	Warrior	連續攻擊 09	False	hit 2	icon_skills.comboattack_tex
+10902	Common	Common	Warrior	連續攻擊 09	False	hit 3	icon_skills.comboattack_tex
+10903	Common	Common	Warrior	連續攻擊 09	False	hit 4	icon_skills.comboattack_tex
+11000	Common	Common	Warrior	連續攻擊 10	False	hit 1	icon_skills.comboattack_tex
+11001	Common	Common	Warrior	連續攻擊 10	False	hit 2	icon_skills.comboattack_tex
+11002	Common	Common	Warrior	連續攻擊 10	False	hit 3	icon_skills.comboattack_tex
+11003	Common	Common	Warrior	連續攻擊 10	False	hit 4	icon_skills.comboattack_tex
+11100	Common	Common	Warrior	連續攻擊 11	False	hit 1	icon_skills.comboattack_tex
+11101	Common	Common	Warrior	連續攻擊 11	False	hit 2	icon_skills.comboattack_tex
+11102	Common	Common	Warrior	連續攻擊 11	False	hit 3	icon_skills.comboattack_tex
+11103	Common	Common	Warrior	連續攻擊 11	False	hit 4	icon_skills.comboattack_tex
+11200	Common	Common	Warrior	連續攻擊 12	False	hit 1	icon_skills.comboattack_tex
+11201	Common	Common	Warrior	連續攻擊 12	False	hit 2	icon_skills.comboattack_tex
+11202	Common	Common	Warrior	連續攻擊 12	False	hit 3	icon_skills.comboattack_tex
+11203	Common	Common	Warrior	連續攻擊 12	False	hit 4	icon_skills.comboattack_tex
+
+20100	Common	Common	Warrior	緊急迴避 01	False		icon_skills.tumbling_tex
+
+30100	Common	Common	Warrior	挑撥亂舞 01	False		icon_skills.nanmu_tex
+30200	Common	Common	Warrior	挑撥亂舞 02	False		icon_skills.nanmu_tex
+30300	Common	Common	Warrior	挑撥亂舞 03	False		icon_skills.nanmu_tex
+
+40100	Common	Common	Warrior	旋風擊 01	False		icon_skills.pointattack_tex
+40130	Common	Common	Warrior	旋風擊 01	True		icon_skills.pointattack_tex
+40200	Common	Common	Warrior	旋風擊 02	False		icon_skills.pointattack_tex
+40230	Common	Common	Warrior	旋風擊 02	True		icon_skills.pointattack_tex
+40300	Common	Common	Warrior	旋風擊 03	False		icon_skills.pointattack_tex
+40330	Common	Common	Warrior	旋風擊 03	True		icon_skills.pointattack_tex
+40400	Common	Common	Warrior	旋風擊 04	False		icon_skills.pointattack_tex
+40430	Common	Common	Warrior	旋風擊 04	True		icon_skills.pointattack_tex
+40500	Common	Common	Warrior	旋風擊 05	False		icon_skills.pointattack_tex
+40530	Common	Common	Warrior	旋風擊 05	True		icon_skills.pointattack_tex
+40600	Common	Common	Warrior	旋風擊 06	False		icon_skills.pointattack_tex
+40630	Common	Common	Warrior	旋風擊 06	True		icon_skills.pointattack_tex
+40700	Common	Common	Warrior	旋風擊 07	False		icon_skills.pointattack_tex
+40730	Common	Common	Warrior	旋風擊 07	True		icon_skills.pointattack_tex
+40800	Common	Common	Warrior	旋風擊 08	False		icon_skills.pointattack_tex
+40830	Common	Common	Warrior	旋風擊 08	True		icon_skills.pointattack_tex
+40900	Common	Common	Warrior	旋風擊 09	False		icon_skills.pointattack_tex
+40930	Common	Common	Warrior	旋風擊 09	True		icon_skills.pointattack_tex
+
+50100	Common	Common	Warrior	衝擊吶喊 01	False		icon_skills.thunderingroar_tex
+50200	Common	Common	Warrior	衝擊吶喊 02	False		icon_skills.thunderingroar_tex
+50300	Common	Common	Warrior	衝擊吶喊 03	False		icon_skills.thunderingroar_tex
+
+80100	Common	Common	Warrior	刀刃決心 01	False	On	icon_skills.ironwilla_tex
+80150	Common	Common	Warrior	刀刃決心 01	False	Off	icon_skills.ironwilla_tex
+80200	Common	Common	Warrior	刀刃決心 02	False	On	icon_skills.ironwilla_tex
+80250	Common	Common	Warrior	刀刃決心 02	False	Off	icon_skills.ironwilla_tex
+80300	Common	Common	Warrior	刀刃決心 03	False	On	icon_skills.ironwilla_tex
+80350	Common	Common	Warrior	刀刃決心 03	False	Off	icon_skills.ironwilla_tex
+80400	Common	Common	Warrior	刀刃決心 04	False	On	icon_skills.ironwilla_tex
+80450	Common	Common	Warrior	刀刃決心 04	False	Off	icon_skills.ironwilla_tex
+
+90100	Common	Common	Warrior	鋼鐵決心 01	False	On	icon_skills.ironwillb_tex
+90150	Common	Common	Warrior	鋼鐵決心 01	False	Off	icon_skills.ironwillb_tex
+90200	Common	Common	Warrior	鋼鐵決心 02	False	On	icon_skills.ironwillb_tex
+90250	Common	Common	Warrior	鋼鐵決心 02	False	Off	icon_skills.ironwillb_tex
+
+100100	Common	Common	Warrior	迴避攻擊 01	False		icon_skills.evasionattack_tex
+100200	Common	Common	Warrior	迴避攻擊 02	False		icon_skills.evasionattack_tex
+100300	Common	Common	Warrior	迴避攻擊 03	False		icon_skills.evasionattack_tex
+100400	Common	Common	Warrior	迴避攻擊 04	False		icon_skills.evasionattack_tex
+100500	Common	Common	Warrior	迴避攻擊 05	False		icon_skills.evasionattack_tex
+100600	Common	Common	Warrior	迴避攻擊 06	False		icon_skills.evasionattack_tex
+100700	Common	Common	Warrior	迴避攻擊 07	False		icon_skills.evasionattack_tex
+
+110100	Common	Common	Warrior	猛毒一擊 01	False		icon_skills.poisonblowattack_tex
+110200	Common	Common	Warrior	猛毒一擊 02	False		icon_skills.poisonblowattack_tex
+110300	Common	Common	Warrior	猛毒一擊 03	False		icon_skills.poisonblowattack_tex
+110400	Common	Common	Warrior	猛毒一擊 04	False		icon_skills.poisonblowattack_tex
+110500	Common	Common	Warrior	猛毒一擊 05	False		icon_skills.poisonblowattack_tex
+110600	Common	Common	Warrior	猛毒一擊 06	False		icon_skills.poisonblowattack_tex
+110700	Common	Common	Warrior	猛毒一擊 07	False		icon_skills.poisonblowattack_tex
+110800	Common	Common	Warrior	猛毒一擊 08	False		icon_skills.poisonblowattack_tex
+110900	Common	Common	Warrior	猛毒一擊 09	False		icon_skills.poisonblowattack_tex
+111000	Common	Common	Warrior	猛毒一擊 10	False		icon_skills.poisonblowattack_tex
+111100	Common	Common	Warrior	猛毒一擊 11	False		icon_skills.poisonblowattack_tex
+
+120100	Common	Common	Warrior	向下劈擊 01	False		icon_skills.downblowattack_tex
+120200	Common	Common	Warrior	向下劈擊 02	False		icon_skills.downblowattack_tex
+120300	Common	Common	Warrior	向下劈擊 03	False		icon_skills.downblowattack_tex
+120400	Common	Common	Warrior	向下劈擊 04	False		icon_skills.downblowattack_tex
+120500	Common	Common	Warrior	向下劈擊 05	False		icon_skills.downblowattack_tex
+120600	Common	Common	Warrior	向下劈擊 06	False		icon_skills.downblowattack_tex
+120700	Common	Common	Warrior	向下劈擊 07	False		icon_skills.downblowattack_tex
+120800	Common	Common	Warrior	向下劈擊 08	False		icon_skills.downblowattack_tex
+
+130100	Common	Common	Warrior	起身攻擊 01	False		icon_skills.risingattack_tex
+130200	Common	Common	Warrior	起身攻擊 02	False		icon_skills.risingattack_tex
+130300	Common	Common	Warrior	起身攻擊 03	False		icon_skills.risingattack_tex
+130400	Common	Common	Warrior	起身攻擊 04	False		icon_skills.risingattack_tex
+130500	Common	Common	Warrior	起身攻擊 05	False		icon_skills.risingattack_tex
+130600	Common	Common	Warrior	起身攻擊 06	False		icon_skills.risingattack_tex
+130700	Common	Common	Warrior	起身攻擊 07	False		icon_skills.risingattack_tex
+130800	Common	Common	Warrior	起身攻擊 08	False		icon_skills.risingattack_tex
+130900	Common	Common	Warrior	起身攻擊 09	False		icon_skills.risingattack_tex
+131000	Common	Common	Warrior	起身攻擊 10	False		icon_skills.risingattack_tex
+
+160100	Common	Common	Warrior	突進砍擊 01	False		icon_skills.rushingslash_tex
+160101	Common	Common	Warrior	突進砍擊 01	False		icon_skills.rushingslash_tex
+160200	Common	Common	Warrior	突進砍擊 02	False		icon_skills.rushingslash_tex
+160201	Common	Common	Warrior	突進砍擊 02	False		icon_skills.rushingslash_tex
+160300	Common	Common	Warrior	突進砍擊 03	False		icon_skills.rushingslash_tex
+160301	Common	Common	Warrior	突進砍擊 03	False		icon_skills.rushingslash_tex
+160400	Common	Common	Warrior	突進砍擊 04	False		icon_skills.rushingslash_tex
+160401	Common	Common	Warrior	突進砍擊 04	False		icon_skills.rushingslash_tex
+160500	Common	Common	Warrior	突進砍擊 05	False		icon_skills.rushingslash_tex
+160501	Common	Common	Warrior	突進砍擊 05	False		icon_skills.rushingslash_tex
+160600	Common	Common	Warrior	突進砍擊 06	False		icon_skills.rushingslash_tex
+160601	Common	Common	Warrior	突進砍擊 06	False		icon_skills.rushingslash_tex
+160700	Common	Common	Warrior	突進砍擊 07	False		icon_skills.rushingslash_tex
+160701	Common	Common	Warrior	突進砍擊 07	False		icon_skills.rushingslash_tex
+160800	Common	Common	Warrior	突進砍擊 08	False		icon_skills.rushingslash_tex
+160801	Common	Common	Warrior	突進砍擊 08	False		icon_skills.rushingslash_tex
+160900	Common	Common	Warrior	突進砍擊 09	False		icon_skills.rushingslash_tex
+160901	Common	Common	Warrior	突進砍擊 09	False		icon_skills.rushingslash_tex
+161000	Common	Common	Warrior	突進砍擊 10	False		icon_skills.rushingslash_tex
+161001	Common	Common	Warrior	突進砍擊 10	False		icon_skills.rushingslash_tex
+
+170100	Common	Common	Warrior	旋風砍擊 01	False		icon_skills.stormcut_tex
+170200	Common	Common	Warrior	旋風砍擊 02	False		icon_skills.stormcut_tex
+170300	Common	Common	Warrior	旋風砍擊 03	False		icon_skills.stormcut_tex
+170400	Common	Common	Warrior	旋風砍擊 04	False		icon_skills.stormcut_tex
+170500	Common	Common	Warrior	旋風砍擊 05	False		icon_skills.stormcut_tex
+170501	Common	Common	Warrior	旋風砍擊 05	False		icon_skills.stormcut_tex
+170502	Common	Common	Warrior	旋風砍擊 05	False		icon_skills.stormcut_tex
+170600	Common	Common	Warrior	旋風砍擊 06	False		icon_skills.stormcut_tex
+170601	Common	Common	Warrior	旋風砍擊 06	False		icon_skills.stormcut_tex
+170602	Common	Common	Warrior	旋風砍擊 06	False		icon_skills.stormcut_tex
+170700	Common	Common	Warrior	旋風砍擊 07	False		icon_skills.stormcut_tex
+170701	Common	Common	Warrior	旋風砍擊 07	False		icon_skills.stormcut_tex
+170702	Common	Common	Warrior	旋風砍擊 07	False		icon_skills.stormcut_tex
+
+180100	Common	Common	Warrior	鬥志一擊 01	False		icon_skills.aggravatingstrike_tex
+180200	Common	Common	Warrior	鬥志一擊 02	False		icon_skills.aggravatingstrike_tex
+180300	Common	Common	Warrior	鬥志一擊 03	False		icon_skills.aggravatingstrike_tex
+180400	Common	Common	Warrior	鬥志一擊 04	False		icon_skills.aggravatingstrike_tex
+180500	Common	Common	Warrior	鬥志一擊 05	False		icon_skills.aggravatingstrike_tex
+180600	Common	Common	Warrior	鬥志一擊 06	False		icon_skills.aggravatingstrike_tex
+180700	Common	Common	Warrior	鬥志一擊 07	False		icon_skills.aggravatingstrike_tex
+180800	Common	Common	Warrior	鬥志一擊 08	False		icon_skills.aggravatingstrike_tex
+180900	Common	Common	Warrior	鬥志一擊 09	False		icon_skills.aggravatingstrike_tex
+181000	Common	Common	Warrior	鬥志一擊 10	False		icon_skills.aggravatingstrike_tex
+181100	Common	Common	Warrior	鬥志一擊 11	False		icon_skills.aggravatingstrike_tex
+181101	Common	Common	Warrior	鬥志一擊 11	False		icon_skills.aggravatingstrike_tex
+181102	Common	Common	Warrior	鬥志一擊 11	False		icon_skills.aggravatingstrike_tex
+
+190100	Common	Common	Warrior	特質連打 01	False	hit 1	icon_skills.tenaciousattack_tex
+190101	Common	Common	Warrior	特質連打 01	False	hit 2	icon_skills.tenaciousattack_tex
+190200	Common	Common	Warrior	特質連打 02	False	hit 1	icon_skills.tenaciousattack_tex
+190201	Common	Common	Warrior	特質連打 02	False	hit 2	icon_skills.tenaciousattack_tex
+190300	Common	Common	Warrior	特質連打 03	False	hit 1	icon_skills.tenaciousattack_tex
+190301	Common	Common	Warrior	特質連打 03	False	hit 2	icon_skills.tenaciousattack_tex
+190400	Common	Common	Warrior	特質連打 04	False	hit 1	icon_skills.tenaciousattack_tex
+190401	Common	Common	Warrior	特質連打 04	False	hit 2	icon_skills.tenaciousattack_tex
+190500	Common	Common	Warrior	特質連打 05	False	hit 1	icon_skills.tenaciousattack_tex
+190501	Common	Common	Warrior	特質連打 05	False	hit 2	icon_skills.tenaciousattack_tex
+190600	Common	Common	Warrior	特質連打 06	False	hit 1	icon_skills.tenaciousattack_tex
+190601	Common	Common	Warrior	特質連打 06	False	hit 2	icon_skills.tenaciousattack_tex
+190700	Common	Common	Warrior	特質連打 07	False	hit 1	icon_skills.tenaciousattack_tex
+190701	Common	Common	Warrior	特質連打 07	False	hit 2	icon_skills.tenaciousattack_tex
+190800	Common	Common	Warrior	特質連打 08	False	hit 1	icon_skills.tenaciousattack_tex
+190801	Common	Common	Warrior	特質連打 08	False	hit 2	icon_skills.tenaciousattack_tex
+190900	Common	Common	Warrior	特質連打 09	False	hit 1	icon_skills.tenaciousattack_tex
+190901	Common	Common	Warrior	特質連打 09	False	hit 2	icon_skills.tenaciousattack_tex
+191000	Common	Common	Warrior	特質連打 10	False	hit 1	icon_skills.tenaciousattack_tex
+191001	Common	Common	Warrior	特質連打 10	False	hit 2	icon_skills.tenaciousattack_tex
+191100	Common	Common	Warrior	特質連打 11	False	hit 1	icon_skills.tenaciousattack_tex
+191101	Common	Common	Warrior	特質連打 11	False	hit 2	icon_skills.tenaciousattack_tex
+
+200100	Common	Common	Warrior	必殺意志 01	False		icon_skills.deadlywill_tex
+200200	Common	Common	Warrior	必殺意志 02	False		icon_skills.deadlywill_tex
+
+210100	Common	Common	Warrior	強襲砍擊 01	False		icon_skills.hardslash_tex
+210200	Common	Common	Warrior	強襲砍擊 02	False		icon_skills.hardslash_tex
+210300	Common	Common	Warrior	強襲砍擊 03	False		icon_skills.hardslash_tex
+210400	Common	Common	Warrior	強襲砍擊 04	False		icon_skills.hardslash_tex
+210500	Common	Common	Warrior	強襲砍擊 05	False		icon_skills.hardslash_tex
+
+220100	Common	Common	Warrior	後擒術 01	False		icon_skills.backattack_tex
+220200	Common	Common	Warrior	後擒術 02	False		icon_skills.backattack_tex
+
+230100	Common	Common	Warrior	反擊震懾 01	False		icon_skills.reversalturningattack_tex
+230200	Common	Common	Warrior	反擊震懾 02	False		icon_skills.reversalturningattack_tex
+230300	Common	Common	Warrior	反擊震懾 03	False		icon_skills.reversalturningattack_tex
+230400	Common	Common	Warrior	反擊震懾 04	False		icon_skills.reversalturningattack_tex
+230500	Common	Common	Warrior	反擊震懾 05	False		icon_skills.reversalturningattack_tex
+230600	Common	Common	Warrior	反擊震懾 06	False		icon_skills.reversalturningattack_tex
+
+240100	Common	Common	Warrior	影分身 01	False		icon_skills.decoy_tex
+240200	Common	Common	Warrior	影分身 02	False		icon_skills.decoy_tex
+
+250100	Common	Common	Warrior	命令：攻擊	False		icon_skills.petorderattack_tex
+
+260100	Common	Common	Warrior	命令：跟隨	False		icon_skills.petorderfollowme_tex
+
+280100	Common	Common	Warrior	無雙亂舞：刺擊 01	False		icon_skills.dualrapidpiercing_tex
+280130	Common	Common	Warrior	無雙亂舞：刺擊 01	True		icon_skills.dualrapidpiercing_tex
+280200	Common	Common	Warrior	無雙亂舞：刺擊 02	False		icon_skills.dualrapidpiercing_tex
+280230	Common	Common	Warrior	無雙亂舞：刺擊 02	True		icon_skills.dualrapidpiercing_tex
+280300	Common	Common	Warrior	無雙亂舞：刺擊 03	False		icon_skills.dualrapidpiercing_tex
+280330	Common	Common	Warrior	無雙亂舞：刺擊 03	True		icon_skills.dualrapidpiercing_tex
+280400	Common	Common	Warrior	無雙亂舞：刺擊 04	False		icon_skills.dualrapidpiercing_tex
+280430	Common	Common	Warrior	無雙亂舞：刺擊 04	True		icon_skills.dualrapidpiercing_tex
+280500	Common	Common	Warrior	無雙亂舞：刺擊 05	False		icon_skills.dualrapidpiercing_tex
+280530	Common	Common	Warrior	無雙亂舞：刺擊 05	True		icon_skills.dualrapidpiercing_tex
+280600	Common	Common	Warrior	無雙亂舞：刺擊 06	False		icon_skills.dualrapidpiercing_tex
+280630	Common	Common	Warrior	無雙亂舞：刺擊 06	True		icon_skills.dualrapidpiercing_tex
+280700	Common	Common	Warrior	無雙亂舞：刺擊 07	False		icon_skills.dualrapidpiercing_tex
+280730	Common	Common	Warrior	無雙亂舞：刺擊 07	True		icon_skills.dualrapidpiercing_tex
+280800	Common	Common	Warrior	無雙亂舞：刺擊 08	False		icon_skills.dualrapidpiercing_tex
+280830	Common	Common	Warrior	無雙亂舞：刺擊 08	True		icon_skills.dualrapidpiercing_tex
+280900	Common	Common	Warrior	無雙亂舞：刺擊 09	False		icon_skills.dualrapidpiercing_tex
+280930	Common	Common	Warrior	無雙亂舞：刺擊 09	True		icon_skills.dualrapidpiercing_tex
+281000	Common	Common	Warrior	無雙亂舞：刺擊 10	False		icon_skills.dualrapidpiercing_tex
+281030	Common	Common	Warrior	無雙亂舞：刺擊 10	True		icon_skills.dualrapidpiercing_tex
+
+290100	Common	Common	Warrior	無雙亂舞_劈擊 01	False		icon_skills.dualslash_tex
+290130	Common	Common	Warrior	無雙亂舞_劈擊 01	True		icon_skills.dualslash_tex
+290200	Common	Common	Warrior	無雙亂舞_劈擊 02	False		icon_skills.dualslash_tex
+290230	Common	Common	Warrior	無雙亂舞_劈擊 02	True		icon_skills.dualslash_tex
+290300	Common	Common	Warrior	無雙亂舞_劈擊 03	False		icon_skills.dualslash_tex
+290330	Common	Common	Warrior	無雙亂舞_劈擊 03	True		icon_skills.dualslash_tex
+290400	Common	Common	Warrior	無雙亂舞_劈擊 04	False		icon_skills.dualslash_tex
+290430	Common	Common	Warrior	無雙亂舞_劈擊 04	True		icon_skills.dualslash_tex
+290500	Common	Common	Warrior	無雙亂舞_劈擊 05	False		icon_skills.dualslash_tex
+290530	Common	Common	Warrior	無雙亂舞_劈擊 05	True		icon_skills.dualslash_tex
+290600	Common	Common	Warrior	無雙亂舞_劈擊 06	False		icon_skills.dualslash_tex
+290630	Common	Common	Warrior	無雙亂舞_劈擊 06	True		icon_skills.dualslash_tex
+290700	Common	Common	Warrior	無雙亂舞_劈擊 07	False		icon_skills.dualslash_tex
+290730	Common	Common	Warrior	無雙亂舞_劈擊 07	True		icon_skills.dualslash_tex
+290800	Common	Common	Warrior	無雙亂舞：劈擊 08	False		icon_skills.dualslash_tex
+290830	Common	Common	Warrior	無雙亂舞：劈擊 08	True		icon_skills.dualslash_tex
+290900	Common	Common	Warrior	無雙亂舞：劈擊 09	False		icon_skills.dualslash_tex
+290930	Common	Common	Warrior	無雙亂舞：劈擊 09	True		icon_skills.dualslash_tex
+
+300100	Common	Common	Warrior	疾風劈擊 01	False		icon_skills.raker_tex
+300130	Common	Common	Warrior	疾風劈擊 01	True		icon_skills.raker_tex
+300200	Common	Common	Warrior	疾風劈擊 02	False		icon_skills.raker_tex
+300230	Common	Common	Warrior	疾風劈擊 02	True		icon_skills.raker_tex
+300300	Common	Common	Warrior	疾風劈擊 03	False		icon_skills.raker_tex
+300330	Common	Common	Warrior	疾風劈擊 03	True		icon_skills.raker_tex
+300400	Common	Common	Warrior	疾風劈擊 04	False		icon_skills.raker_tex
+300430	Common	Common	Warrior	疾風劈擊 04	True		icon_skills.raker_tex
+300500	Common	Common	Warrior	疾風劈擊 05	False		icon_skills.raker_tex
+300530	Common	Common	Warrior	疾風劈擊 05	True		icon_skills.raker_tex
+300600	Common	Common	Warrior	疾風劈擊 06	False		icon_skills.raker_tex
+300630	Common	Common	Warrior	疾風劈擊 05	True		icon_skills.raker_tex
+300700	Common	Common	Warrior	疾風劈擊 07	False		icon_skills.raker_tex
+300730	Common	Common	Warrior	疾風劈擊 05	True		icon_skills.raker_tex
+300800	Common	Common	Warrior	疾風劈擊 08	False		icon_skills.raker_tex
+300830	Common	Common	Warrior	疾風劈擊 05	True		icon_skills.raker_tex
+300900	Common	Common	Warrior	疾風劈擊 09	False		icon_skills.raker_tex
+300930	Common	Common	Warrior	疾風劈擊 05	True		icon_skills.raker_tex
+
+310100	Common	Common	Warrior	破烈 01	False		icon_skills.rupture_tex
+310130	Common	Common	Warrior	破烈 01	True		icon_skills.rupture_tex
+310200	Common	Common	Warrior	破烈 02	False		icon_skills.rupture_tex
+310230	Common	Common	Warrior	破烈 02	True		icon_skills.rupture_tex
+310300	Common	Common	Warrior	破烈 03	False		icon_skills.rupture_tex
+310330	Common	Common	Warrior	破烈 03	True		icon_skills.rupture_tex
+310400	Common	Common	Warrior	破烈 04	False		icon_skills.rupture_tex
+310430	Common	Common	Warrior	破烈 04	True		icon_skills.rupture_tex
+310500	Common	Common	Warrior	破烈 05	False		icon_skills.rupture_tex
+310530	Common	Common	Warrior	破烈 05	True		icon_skills.rupture_tex
+310600	Common	Common	Warrior	破烈 06	False		icon_skills.rupture_tex
+310630	Common	Common	Warrior	破烈 06	True		icon_skills.rupture_tex
+310700	Common	Common	Warrior	破烈 07	False		icon_skills.rupture_tex
+310730	Common	Common	Warrior	破烈 07	True		icon_skills.rupture_tex
+310800	Common	Common	Warrior	破烈 08	False		icon_skills.rupture_tex
+310830	Common	Common	Warrior	破烈 08	True		icon_skills.rupture_tex
+
+320100	Common	Common	Warrior	雙劍防禦 01	False		icon_skills.twinswordsdefence_tex
+
+330100	Common	Common	Warrior	變換影子 01	False		icon_skills.shadowchange_tex
+330200	Common	Common	Warrior	變換影子 02	False		icon_skills.shadowchange_tex
+340100	Common	Common	Warrior	束縛之劍 01	False		icon_skills.bindingblade_tex
+
+350100	Common	Common	Warrior	憤怒誘發 01	False		icon_skills.provokerage_tex
+360100	Common	Common	Warrior	旋風擊 11	False		icon_skills.pointattack_tex
+360130	Common	Common	Warrior	旋風擊 11	True		icon_skills.pointattack_tex
+
+370100	Common	Common	Warrior	無雙亂舞：劈擊 07	False		icon_skills.dualslash_tex
+370130	Common	Common	Warrior	無雙亂舞：劈擊 07	True		icon_skills.dualslash_tex
+
+380100	Common	Common	Warrior	疾風劈擊 02	False		icon_skills.raker_tex
+380130	Common	Common	Warrior	疾風劈擊 02	True		icon_skills.raker_tex
+
+390100	Common	Common	Warrior	無雙亂舞 : 刺擊 10	False		icon_skills.dualrapidpiercing_tex
+390130	Common	Common	Warrior	無雙亂舞 : 刺擊 10	True		icon_skills.dualrapidpiercing_tex
+
+400100	Common	Common	Warrior	二段劍舞	False	hit 1	icon_skills.doublesworddance_tex
+400110	Common	Common	Warrior	二段劍舞	False		icon_skills.doublesworddance_tex
+400111	Common	Common	Warrior	二段劍舞	False		icon_skills.doublesworddance_tex
+400112	Common	Common	Warrior	二段劍舞	False	hit 2	icon_skills.doublesworddance_tex
+400119	Common	Common	Warrior	二段劍舞	False		icon_skills.doublesworddance_tex
+400120	Common	Common	Warrior	二段劍舞	False		icon_skills.doublesworddance_tex
+400121	Common	Common	Warrior	二段劍舞	False		icon_skills.doublesworddance_tex
+400122	Common	Common	Warrior	二段劍舞	False	hit 2	icon_skills.doublesworddance_tex
+400129	Common	Common	Warrior	二段劍舞	False		icon_skills.doublesworddance_tex
+
+410100	Common	Common	Warrior	縱斷劈擊	False	hit 1	icon_skills.tumblingattack_tex
+410130	Common	Common	Warrior	縱斷劈擊	False		icon_skills.tumblingattack_tex
+410131	Common	Common	Warrior	縱斷劈擊	False	hit 2	icon_skills.tumblingattack_tex
+410190	Common	Common	Warrior	縱斷劈擊	False		icon_skills.tumblingattack_tex
+
+420100	Common	Common	Warrior	刀刃暴風	False	hit 2	icon_skills.bladestorm_tex
+420130	Common	Common	Warrior	刀刃暴風	False	hit 2	icon_skills.bladestorm_tex
+420131	Common	Common	Warrior	刀刃暴風			icon_skills.bladestorm_tex
+420190	Common	Common	Warrior	刀刃暴風			icon_skills.bladestorm_tex
+
+9100100	Common	Common	Warrior	覺醒氣息	False		icon_skills.awakenaura_tex

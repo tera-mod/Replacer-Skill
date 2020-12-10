@@ -1,0 +1,644 @@
+10100	Common	Common	Brawler	連打 01	False	hit 1	icon_skills.comboattack01_tex
+10101	Common	Common	Brawler	連打 01	False	hit 2	icon_skills.comboattack02_tex
+10102	Common	Common	Brawler	連打 01	False	hit 3	icon_skills.comboattack03_tex
+10103	Common	Common	Brawler	連打 01	False	hit 4	icon_skills.comboattack04_tex
+10130	Common	Common	Brawler	連打 01	True	hit 1	icon_skills.comboattack01_tex
+10131	Common	Common	Brawler	連打 01	True	hit 1	icon_skills.comboattack01_tex
+10132	Common	Common	Brawler	連打 01	True	hit 2	icon_skills.comboattack01_tex
+10200	Common	Common	Brawler	連打 02	False	hit 1	icon_skills.comboattack01_tex
+10201	Common	Common	Brawler	連打 02	False	hit 2	icon_skills.comboattack02_tex
+10202	Common	Common	Brawler	連打 02	False	hit 3	icon_skills.comboattack03_tex
+10203	Common	Common	Brawler	連打 02	False	hit 4	icon_skills.comboattack04_tex
+10230	Common	Common	Brawler	連打 02	True	hit 1	icon_skills.comboattack01_tex
+10231	Common	Common	Brawler	連打 02	True	hit 1	icon_skills.comboattack01_tex
+10232	Common	Common	Brawler	連打 02	True	hit 2	icon_skills.comboattack01_tex
+10300	Common	Common	Brawler	連打 03	False	hit 1	icon_skills.comboattack01_tex
+10301	Common	Common	Brawler	連打 03	False	hit 2	icon_skills.comboattack02_tex
+10302	Common	Common	Brawler	連打 03	False	hit 3	icon_skills.comboattack03_tex
+10303	Common	Common	Brawler	連打 03	False	hit 4	icon_skills.comboattack04_tex
+10330	Common	Common	Brawler	連打 03	True	hit 1	icon_skills.comboattack01_tex
+10331	Common	Common	Brawler	連打 03	True	hit 1	icon_skills.comboattack01_tex
+10332	Common	Common	Brawler	連打 03	True	hit 2	icon_skills.comboattack01_tex
+10400	Common	Common	Brawler	連打 04	False	hit 1	icon_skills.comboattack01_tex
+10401	Common	Common	Brawler	連打 04	False	hit 2	icon_skills.comboattack02_tex
+10402	Common	Common	Brawler	連打 04	False	hit 3	icon_skills.comboattack03_tex
+10403	Common	Common	Brawler	連打 04	False	hit 4	icon_skills.comboattack04_tex
+10430	Common	Common	Brawler	連打 04	True	hit 1	icon_skills.comboattack01_tex
+10431	Common	Common	Brawler	連打 04	True	hit 1	icon_skills.comboattack01_tex
+10432	Common	Common	Brawler	連打 04	True	hit 2	icon_skills.comboattack01_tex
+10500	Common	Common	Brawler	連打 05	False	hit 1	icon_skills.comboattack01_tex
+10501	Common	Common	Brawler	連打 05	False	hit 2	icon_skills.comboattack02_tex
+10502	Common	Common	Brawler	連打 05	False	hit 3	icon_skills.comboattack03_tex
+10503	Common	Common	Brawler	連打 05	False	hit 4	icon_skills.comboattack04_tex
+10530	Common	Common	Brawler	連打 05	True	hit 1	icon_skills.comboattack01_tex
+10531	Common	Common	Brawler	連打 05	True	hit 1	icon_skills.comboattack01_tex
+10532	Common	Common	Brawler	連打 05	True	hit 2	icon_skills.comboattack01_tex
+10600	Common	Common	Brawler	連打 06	False	hit 1	icon_skills.comboattack01_tex
+10601	Common	Common	Brawler	連打 06	False	hit 2	icon_skills.comboattack02_tex
+10602	Common	Common	Brawler	連打 06	False	hit 3	icon_skills.comboattack03_tex
+10603	Common	Common	Brawler	連打 06	False	hit 4	icon_skills.comboattack04_tex
+10630	Common	Common	Brawler	連打 06	True	hit 1	icon_skills.comboattack01_tex
+10631	Common	Common	Brawler	連打 06	True	hit 1	icon_skills.comboattack01_tex
+10632	Common	Common	Brawler	連打 06	True	hit 2	icon_skills.comboattack01_tex
+10700	Common	Common	Brawler	連打 07	False	hit 1	icon_skills.comboattack01_tex
+10701	Common	Common	Brawler	連打 07	False	hit 2	icon_skills.comboattack02_tex
+10702	Common	Common	Brawler	連打 07	False	hit 3	icon_skills.comboattack03_tex
+10703	Common	Common	Brawler	連打 07	False	hit 4	icon_skills.comboattack04_tex
+10730	Common	Common	Brawler	連打 07	True	hit 1	icon_skills.comboattack01_tex
+10731	Common	Common	Brawler	連打 07	True	hit 1	icon_skills.comboattack01_tex
+10732	Common	Common	Brawler	連打 07	True	hit 2	icon_skills.comboattack01_tex
+10800	Common	Common	Brawler	連打 08	False	hit 1	icon_skills.comboattack01_tex
+10801	Common	Common	Brawler	連打 08	False	hit 2	icon_skills.comboattack02_tex
+10802	Common	Common	Brawler	連打 08	False	hit 3	icon_skills.comboattack03_tex
+10803	Common	Common	Brawler	連打 08	False	hit 4	icon_skills.comboattack04_tex
+10830	Common	Common	Brawler	連打 08	True	hit 1	icon_skills.comboattack01_tex
+10831	Common	Common	Brawler	連打 08	True	hit 1	icon_skills.comboattack01_tex
+10832	Common	Common	Brawler	連打 08	True	hit 2	icon_skills.comboattack01_tex
+10900	Common	Common	Brawler	連打 09	False	hit 1	icon_skills.comboattack01_tex
+10901	Common	Common	Brawler	連打 09	False	hit 2	icon_skills.comboattack02_tex
+10902	Common	Common	Brawler	連打 09	False	hit 3	icon_skills.comboattack03_tex
+10903	Common	Common	Brawler	連打 09	False	hit 4	icon_skills.comboattack04_tex
+10930	Common	Common	Brawler	連打 09	True	hit 1	icon_skills.comboattack01_tex
+10931	Common	Common	Brawler	連打 09	True	hit 1	icon_skills.comboattack01_tex
+10932	Common	Common	Brawler	連打 09	True	hit 2	icon_skills.comboattack01_tex
+11000	Common	Common	Brawler	連打 10	False	hit 1	icon_skills.comboattack01_tex
+11001	Common	Common	Brawler	連打 10	False	hit 2	icon_skills.comboattack02_tex
+11002	Common	Common	Brawler	連打 10	False	hit 3	icon_skills.comboattack03_tex
+11003	Common	Common	Brawler	連打 10	False	hit 4	icon_skills.comboattack04_tex
+11030	Common	Common	Brawler	連打 10	True	hit 1	icon_skills.comboattack01_tex
+11031	Common	Common	Brawler	連打 10	True	hit 1	icon_skills.comboattack01_tex
+11032	Common	Common	Brawler	連打 10	True	hit 2	icon_skills.comboattack01_tex
+11100	Common	Common	Brawler	連打 11	False	hit 1	icon_skills.comboattack01_tex
+11101	Common	Common	Brawler	連打 11	False	hit 2	icon_skills.comboattack02_tex
+11102	Common	Common	Brawler	連打 11	False	hit 3	icon_skills.comboattack03_tex
+11103	Common	Common	Brawler	連打 11	False	hit 4	icon_skills.comboattack04_tex
+11130	Common	Common	Brawler	連打 11	True	hit 1	icon_skills.comboattack01_tex
+11131	Common	Common	Brawler	連打 11	True	hit 1	icon_skills.comboattack01_tex
+11132	Common	Common	Brawler	連打 11	True	hit 2	icon_skills.comboattack01_tex
+11200	Common	Common	Brawler	連打 12	False	hit 1	icon_skills.comboattack01_tex
+11201	Common	Common	Brawler	連打 12	False	hit 2	icon_skills.comboattack02_tex
+11202	Common	Common	Brawler	連打 12	False	hit 3	icon_skills.comboattack03_tex
+11203	Common	Common	Brawler	連打 12	False	hit 4	icon_skills.comboattack04_tex
+11230	Common	Common	Brawler	連打 12	True	hit 1	icon_skills.comboattack01_tex
+11231	Common	Common	Brawler	連打 12	True	hit 1	icon_skills.comboattack01_tex
+11232	Common	Common	Brawler	連打 12	True	hit 2	icon_skills.comboattack01_tex
+
+20100	Common	Common	Brawler	強打 01 (防禦)	False		icon_skills.smashattack02_tex
+20101	Common	Common	Brawler	強打 01 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20102	Common	Common	Brawler	強打 01 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20103	Common	Common	Brawler	強打 01 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20104	Common	Common	Brawler	強打 01 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20110	Common	Common	Brawler	強打 01 (防禦)	False		icon_skills.smashattack02_tex
+20111	Common	Common	Brawler	強打 01 (防禦)	False		icon_skills.smashattack02_tex
+20112	Common	Common	Brawler	強打 01 (防禦)	False		icon_skills.smashattack02_tex
+20200	Common	Common	Brawler	強打 02 (防禦)	False		icon_skills.smashattack02_tex
+20201	Common	Common	Brawler	強打 02 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20202	Common	Common	Brawler	強打 02 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20203	Common	Common	Brawler	強打 02 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20204	Common	Common	Brawler	強打 02 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20210	Common	Common	Brawler	強打 02 (防禦)	False		icon_skills.smashattack02_tex
+20211	Common	Common	Brawler	強打 02 (防禦)	False		icon_skills.smashattack02_tex
+20212	Common	Common	Brawler	強打 02 (防禦)	False		icon_skills.smashattack02_tex
+20300	Common	Common	Brawler	強打 03 (防禦)	False		icon_skills.smashattack02_tex
+20301	Common	Common	Brawler	強打 03 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20302	Common	Common	Brawler	強打 03 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20303	Common	Common	Brawler	強打 03 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20304	Common	Common	Brawler	強打 03 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20310	Common	Common	Brawler	強打 03 (防禦)	False		icon_skills.smashattack02_tex
+20311	Common	Common	Brawler	強打 03 (防禦)	False		icon_skills.smashattack02_tex
+20312	Common	Common	Brawler	強打 03 (防禦)	False		icon_skills.smashattack02_tex
+20400	Common	Common	Brawler	強打 04 (防禦)	False		icon_skills.smashattack02_tex
+20401	Common	Common	Brawler	強打 04 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20402	Common	Common	Brawler	強打 04 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20403	Common	Common	Brawler	強打 04 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20404	Common	Common	Brawler	強打 04 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20410	Common	Common	Brawler	強打 04 (防禦)	False		icon_skills.smashattack02_tex
+20411	Common	Common	Brawler	強打 04 (防禦)	False		icon_skills.smashattack02_tex
+20412	Common	Common	Brawler	強打 04 (防禦)	False		icon_skills.smashattack02_tex
+20500	Common	Common	Brawler	強打 05 (防禦)	False		icon_skills.smashattack02_tex
+20501	Common	Common	Brawler	強打 05 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20502	Common	Common	Brawler	強打 05 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20503	Common	Common	Brawler	強打 05 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20504	Common	Common	Brawler	強打 05 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20510	Common	Common	Brawler	強打 05 (防禦)	False		icon_skills.smashattack02_tex
+20511	Common	Common	Brawler	強打 05 (防禦)	False		icon_skills.smashattack02_tex
+20512	Common	Common	Brawler	強打 05 (防禦)	False		icon_skills.smashattack02_tex
+20600	Common	Common	Brawler	強打 06 (防禦)	False		icon_skills.smashattack02_tex
+20601	Common	Common	Brawler	強打 06 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20602	Common	Common	Brawler	強打 06 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20603	Common	Common	Brawler	強打 06 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20604	Common	Common	Brawler	強打 06 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20610	Common	Common	Brawler	強打 06 (防禦)	False		icon_skills.smashattack02_tex
+20611	Common	Common	Brawler	強打 06 (防禦)	False		icon_skills.smashattack02_tex
+20612	Common	Common	Brawler	強打 06 (防禦)	False		icon_skills.smashattack02_tex
+20700	Common	Common	Brawler	強打 07 (防禦)	False		icon_skills.smashattack02_tex
+20701	Common	Common	Brawler	強打 07 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20702	Common	Common	Brawler	強打 07 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20703	Common	Common	Brawler	強打 07 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20704	Common	Common	Brawler	強打 07 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20710	Common	Common	Brawler	強打 07 (防禦)	False		icon_skills.smashattack02_tex
+20711	Common	Common	Brawler	強打 07 (防禦)	False		icon_skills.smashattack02_tex
+20712	Common	Common	Brawler	強打 07 (防禦)	False		icon_skills.smashattack02_tex
+20800	Common	Common	Brawler	強打 08 (防禦)	False		icon_skills.smashattack02_tex
+20801	Common	Common	Brawler	強打 08 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20802	Common	Common	Brawler	強打 08 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20803	Common	Common	Brawler	強打 08 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20804	Common	Common	Brawler	強打 08 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20810	Common	Common	Brawler	強打 08 (防禦)	False		icon_skills.smashattack02_tex
+20811	Common	Common	Brawler	強打 08 (防禦)	False		icon_skills.smashattack02_tex
+20812	Common	Common	Brawler	強打 08 (防禦)	False		icon_skills.smashattack02_tex
+20900	Common	Common	Brawler	強打 09 (防禦)	False		icon_skills.smashattack02_tex
+20901	Common	Common	Brawler	強打 09 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+20902	Common	Common	Brawler	強打 09 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+20903	Common	Common	Brawler	強打 09 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+20904	Common	Common	Brawler	強打 09 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+20910	Common	Common	Brawler	強打 09 (防禦)	False		icon_skills.smashattack02_tex
+20911	Common	Common	Brawler	強打 09 (防禦)	False		icon_skills.smashattack02_tex
+20912	Common	Common	Brawler	強打 09 (防禦)	False		icon_skills.smashattack02_tex
+21000	Common	Common	Brawler	強打 10 (防禦)	False		icon_skills.smashattack02_tex
+21001	Common	Common	Brawler	強打 10 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+21002	Common	Common	Brawler	強打 10 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+21003	Common	Common	Brawler	強打 10 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+21004	Common	Common	Brawler	強打 10 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+21010	Common	Common	Brawler	強打 10 (防禦)	False		icon_skills.smashattack02_tex
+21011	Common	Common	Brawler	強打 10 (防禦)	False		icon_skills.smashattack02_tex
+21012	Common	Common	Brawler	強打 10 (防禦)	False		icon_skills.smashattack02_tex
+21100	Common	Common	Brawler	強打 11 (防禦)	False		icon_skills.smashattack02_tex
+21101	Common	Common	Brawler	強打 11 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+21102	Common	Common	Brawler	強打 11 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+21103	Common	Common	Brawler	強打 11 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+21104	Common	Common	Brawler	強打 11 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+21110	Common	Common	Brawler	強打 11 (防禦)	False		icon_skills.smashattack02_tex
+21111	Common	Common	Brawler	強打 11 (防禦)	False		icon_skills.smashattack02_tex
+21112	Common	Common	Brawler	強打 11 (防禦)	False		icon_skills.smashattack02_tex
+21200	Common	Common	Brawler	強打 12 (防禦)	False		icon_skills.smashattack02_tex
+21201	Common	Common	Brawler	強打 12 (防禦)	False	hit 1	icon_skills.smashattack01_tex
+21202	Common	Common	Brawler	強打 12 (防禦)	False	hit 2	icon_skills.smashattack02_tex
+21203	Common	Common	Brawler	強打 12 (防禦)	False	hit 3	icon_skills.smashattack03_tex
+21204	Common	Common	Brawler	強打 12 (防禦)	False	hit 4	icon_skills.smashattack04_tex
+21210	Common	Common	Brawler	強打 12 (防禦)	False		icon_skills.smashattack02_tex
+21211	Common	Common	Brawler	強打 12 (防禦)	False		icon_skills.smashattack02_tex
+21212	Common	Common	Brawler	強打 12 (防禦)	False		icon_skills.smashattack02_tex
+
+30100	Common	Common	Brawler	飛凰怒天 01 (防禦)	False		icon_skills.dragonrisingblow_tex
+30101	Common	Common	Brawler	飛凰怒天 01 (防禦)	False		icon_skills.dragonrisingblow_tex
+30120	Common	Common	Brawler	飛凰怒天 01 (防禦)	False		icon_skills.dragonrisingblow_tex
+30200	Common	Common	Brawler	飛凰怒天 02 (防禦)	False		icon_skills.dragonrisingblow_tex
+30201	Common	Common	Brawler	飛凰怒天 02 (防禦)	False		icon_skills.dragonrisingblow_tex
+
+40100	Common	Common	Brawler	地面強打 01 (防禦)	False		icon_skills.poundonground_tex
+40130	Common	Common	Brawler	地面強打 01 (防禦)	True		icon_skills.poundonground_tex
+40200	Common	Common	Brawler	地面強打 02 (防禦)	False		icon_skills.poundonground_tex
+40230	Common	Common	Brawler	地面強打 02 (防禦)	True		icon_skills.poundonground_tex
+40300	Common	Common	Brawler	地面強打 03 (防禦)	False		icon_skills.poundonground_tex
+40330	Common	Common	Brawler	地面強打 03 (防禦)	True		icon_skills.poundonground_tex
+40400	Common	Common	Brawler	地面強打 04 (防禦)	False		icon_skills.poundonground_tex
+40430	Common	Common	Brawler	地面強打 04 (防禦)	True		icon_skills.poundonground_tex
+40500	Common	Common	Brawler	地面強打 05 (防禦)	False		icon_skills.poundonground_tex
+40530	Common	Common	Brawler	地面強打 05 (防禦)	True		icon_skills.poundonground_tex
+40600	Common	Common	Brawler	地面強打 06 (防禦)	False		icon_skills.poundonground_tex
+40630	Common	Common	Brawler	地面強打 06 (防禦)	True		icon_skills.poundonground_tex
+40700	Common	Common	Brawler	地面強打 07 (防禦)	False		icon_skills.poundonground_tex
+40730	Common	Common	Brawler	地面強打 07 (防禦)	True		icon_skills.poundonground_tex
+40800	Common	Common	Brawler	地面強打 08 (防禦)	False		icon_skills.poundonground_tex
+40830	Common	Common	Brawler	地面強打 08 (防禦)	True		icon_skills.poundonground_tex
+40900	Common	Common	Brawler	地面強打 09 (防禦)	False		icon_skills.poundonground_tex
+40930	Common	Common	Brawler	地面強打 09 (防禦)	True		icon_skills.poundonground_tex
+41000	Common	Common	Brawler	地面強打 10 (防禦)	False		icon_skills.poundonground_tex
+41030	Common	Common	Brawler	地面強打 10 (防禦)	True		icon_skills.poundonground_tex
+41100	Common	Common	Brawler	地面強打 11 (防禦)	False		icon_skills.poundonground_tex
+41130	Common	Common	Brawler	地面強打 11 (防禦)	True		icon_skills.poundonground_tex
+
+50100	Common	Common	Brawler	狂暴突進 01	False		icon_skills.bulldozer_tex
+50200	Common	Common	Brawler	狂暴突進 02	False		icon_skills.bulldozer_tex
+50300	Common	Common	Brawler	狂暴突進 03	False		icon_skills.bulldozer_tex
+50400	Common	Common	Brawler	狂暴突進 04	False		icon_skills.bulldozer_tex
+50500	Common	Common	Brawler	狂暴突進 05	False		icon_skills.bulldozer_tex
+50600	Common	Common	Brawler	狂暴突進 06	False		icon_skills.bulldozer_tex
+50700	Common	Common	Brawler	狂暴突進 07	False		icon_skills.bulldozer_tex
+50800	Common	Common	Brawler	狂暴突進 08	False		icon_skills.bulldozer_tex
+50900	Common	Common	Brawler	狂暴突進 09	False		icon_skills.bulldozer_tex
+
+60100	Common	Common	Brawler	衝擊波 01	False		icon_skills.blowattack_tex
+60101	Common	Common	Brawler	衝擊波 01	False		icon_skills.blowattack_tex
+60102	Common	Common	Brawler	衝擊波 01	False		icon_skills.blowattack_tex
+60130	Common	Common	Brawler	衝擊波 01	True		icon_skills.blowattack_tex
+60131	Common	Common	Brawler	衝擊波 01	True	SA	icon_skills.blowattack_tex
+60200	Common	Common	Brawler	衝擊波 02	False		icon_skills.blowattack_tex
+60201	Common	Common	Brawler	衝擊波 02	False		icon_skills.blowattack_tex
+60202	Common	Common	Brawler	衝擊波 02	False		icon_skills.blowattack_tex
+60230	Common	Common	Brawler	衝擊波 02	True		icon_skills.blowattack_tex
+60231	Common	Common	Brawler	衝擊波 02	True	SA	icon_skills.blowattack_tex
+60300	Common	Common	Brawler	衝擊波 03	False		icon_skills.blowattack_tex
+60301	Common	Common	Brawler	衝擊波 03	False		icon_skills.blowattack_tex
+60302	Common	Common	Brawler	衝擊波 03	False		icon_skills.blowattack_tex
+60330	Common	Common	Brawler	衝擊波 03	True		icon_skills.blowattack_tex
+60331	Common	Common	Brawler	衝擊波 03	True	SA	icon_skills.blowattack_tex
+60400	Common	Common	Brawler	衝擊波 04	False		icon_skills.blowattack_tex
+60401	Common	Common	Brawler	衝擊波 04	False		icon_skills.blowattack_tex
+60402	Common	Common	Brawler	衝擊波 04	False		icon_skills.blowattack_tex
+60430	Common	Common	Brawler	衝擊波 04	True		icon_skills.blowattack_tex
+60431	Common	Common	Brawler	衝擊波 04	True	SA	icon_skills.blowattack_tex
+60500	Common	Common	Brawler	衝擊波 05	False		icon_skills.blowattack_tex
+60501	Common	Common	Brawler	衝擊波 05	False		icon_skills.blowattack_tex
+60502	Common	Common	Brawler	衝擊波 05	False		icon_skills.blowattack_tex
+60530	Common	Common	Brawler	衝擊波 05	True		icon_skills.blowattack_tex
+60531	Common	Common	Brawler	衝擊波 05	True	SA	icon_skills.blowattack_tex
+60600	Common	Common	Brawler	衝擊波 06	False		icon_skills.blowattack_tex
+60601	Common	Common	Brawler	衝擊波 06	False		icon_skills.blowattack_tex
+60602	Common	Common	Brawler	衝擊波 06	False		icon_skills.blowattack_tex
+60630	Common	Common	Brawler	衝擊波 06	True		icon_skills.blowattack_tex
+60631	Common	Common	Brawler	衝擊波 06	True	SA	icon_skills.blowattack_tex
+60700	Common	Common	Brawler	衝擊波 07	False		icon_skills.blowattack_tex
+60701	Common	Common	Brawler	衝擊波 07	False		icon_skills.blowattack_tex
+60702	Common	Common	Brawler	衝擊波 07	False		icon_skills.blowattack_tex
+60730	Common	Common	Brawler	衝擊波 07	True		icon_skills.blowattack_tex
+60731	Common	Common	Brawler	衝擊波 07	True	SA	icon_skills.blowattack_tex
+60800	Common	Common	Brawler	衝擊波 08	False		icon_skills.blowattack_tex
+60801	Common	Common	Brawler	衝擊波 08	False		icon_skills.blowattack_tex
+60802	Common	Common	Brawler	衝擊波 08	False		icon_skills.blowattack_tex
+60830	Common	Common	Brawler	衝擊波 08	True		icon_skills.blowattack_tex
+60831	Common	Common	Brawler	衝擊波 08	True	SA	icon_skills.blowattack_tex
+60900	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60901	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60902	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60930	Common	Common	Brawler	衝擊波 09	True		icon_skills.blowattack_tex
+60931	Common	Common	Brawler	衝擊波 09	True	SA	icon_skills.blowattack_tex
+60940	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60941	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60942	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60946	Common	Common	Brawler	衝擊波 09	True		icon_skills.blowattack_tex
+60947	Common	Common	Brawler	衝擊波 09	True	SA	icon_skills.blowattack_tex
+60950	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60951	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60952	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60956	Common	Common	Brawler	衝擊波 09	True		icon_skills.blowattack_tex
+60957	Common	Common	Brawler	衝擊波 09	True	SA	icon_skills.blowattack_tex
+60960	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60961	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60962	Common	Common	Brawler	衝擊波 09	False		icon_skills.blowattack_tex
+60966	Common	Common	Brawler	衝擊波 09	True		icon_skills.blowattack_tex
+60967	Common	Common	Brawler	衝擊波 09	True	SA	icon_skills.blowattack_tex
+61000	Common	Common	Brawler	衝擊波 10	False		icon_skills.blowattack_tex
+61001	Common	Common	Brawler	衝擊波 10	False		icon_skills.blowattack_tex
+61002	Common	Common	Brawler	衝擊波 10	False		icon_skills.blowattack_tex
+61030	Common	Common	Brawler	衝擊波 10	True		icon_skills.blowattack_tex
+61031	Common	Common	Brawler	衝擊波 10	True	SA	icon_skills.blowattack_tex
+61100	Common	Common	Brawler	衝擊波 11	False		icon_skills.blowattack_tex
+61101	Common	Common	Brawler	衝擊波 11	False		icon_skills.blowattack_tex
+61102	Common	Common	Brawler	衝擊波 11	False		icon_skills.blowattack_tex
+61130	Common	Common	Brawler	衝擊波 11	True		icon_skills.blowattack_tex
+61131	Common	Common	Brawler	衝擊波 11	True	SA	icon_skills.blowattack_tex
+
+70100	Common	Common	Brawler	迴旋踢 01	False		icon_skills.upperkick_tex
+70130	Common	Common	Brawler	迴旋踢 01	True		icon_skills.upperkick_tex
+70200	Common	Common	Brawler	迴旋踢 02	False		icon_skills.upperkick_tex
+70230	Common	Common	Brawler	迴旋踢 02	True		icon_skills.upperkick_tex
+70300	Common	Common	Brawler	迴旋踢 03	False		icon_skills.upperkick_tex
+70330	Common	Common	Brawler	迴旋踢 03	True		icon_skills.upperkick_tex
+70400	Common	Common	Brawler	迴旋踢 04	False		icon_skills.upperkick_tex
+70430	Common	Common	Brawler	迴旋踢 04	True		icon_skills.upperkick_tex
+70500	Common	Common	Brawler	迴旋踢 05	False		icon_skills.upperkick_tex
+70530	Common	Common	Brawler	迴旋踢 05	True		icon_skills.upperkick_tex
+70600	Common	Common	Brawler	迴旋踢 06	False		icon_skills.upperkick_tex
+70630	Common	Common	Brawler	迴旋踢 06	True		icon_skills.upperkick_tex
+70700	Common	Common	Brawler	迴旋踢 07	False		icon_skills.upperkick_tex
+70730	Common	Common	Brawler	迴旋踢 07	True		icon_skills.upperkick_tex
+70800	Common	Common	Brawler	迴旋踢 08	False		icon_skills.upperkick_tex
+70830	Common	Common	Brawler	迴旋踢 08	True		icon_skills.upperkick_tex
+70900	Common	Common	Brawler	迴旋踢 09	False		icon_skills.upperkick_tex
+70930	Common	Common	Brawler	迴旋踢 09	True		icon_skills.upperkick_tex
+71000	Common	Common	Brawler	迴旋踢 10	False		icon_skills.upperkick_tex
+71030	Common	Common	Brawler	迴旋踢 10	True		icon_skills.upperkick_tex
+71100	Common	Common	Brawler	迴旋踢 11	False		icon_skills.upperkick_tex
+71130	Common	Common	Brawler	迴旋踢 11	True		icon_skills.upperkick_tex
+71200	Common	Common	Brawler	迴旋踢 12	False		icon_skills.upperkick_tex
+71230	Common	Common	Brawler	迴旋踢 12	True		icon_skills.upperkick_tex
+
+80100	Common	Common	Brawler	昇天拳 01	False		icon_skills.risingblow_tex
+80101	Common	Common	Brawler	昇天拳 01	False		icon_skills.risingblow_tex
+80102	Common	Common	Brawler	昇天拳 01	False		icon_skills.risingblow_tex
+80130	Common	Common	Brawler	昇天拳 01	True		icon_skills.risingblow_tex
+80131	Common	Common	Brawler	昇天拳 01	True	SA	icon_skills.risingblow_tex
+80200	Common	Common	Brawler	昇天拳 02	False		icon_skills.risingblow_tex
+80201	Common	Common	Brawler	昇天拳 02	False		icon_skills.risingblow_tex
+80202	Common	Common	Brawler	昇天拳 02	False		icon_skills.risingblow_tex
+80230	Common	Common	Brawler	昇天拳 02	True		icon_skills.risingblow_tex
+80231	Common	Common	Brawler	昇天拳 02	True	SA	icon_skills.risingblow_tex
+80300	Common	Common	Brawler	昇天拳 03	False		icon_skills.risingblow_tex
+80301	Common	Common	Brawler	昇天拳 03	False		icon_skills.risingblow_tex
+80302	Common	Common	Brawler	昇天拳 03	False		icon_skills.risingblow_tex
+80330	Common	Common	Brawler	昇天拳 03	True		icon_skills.risingblow_tex
+80331	Common	Common	Brawler	昇天拳 03	True	SA	icon_skills.risingblow_tex
+80400	Common	Common	Brawler	昇天拳 04	False		icon_skills.risingblow_tex
+80401	Common	Common	Brawler	昇天拳 04	False		icon_skills.risingblow_tex
+80402	Common	Common	Brawler	昇天拳 04	False		icon_skills.risingblow_tex
+80430	Common	Common	Brawler	昇天拳 04	True		icon_skills.risingblow_tex
+80431	Common	Common	Brawler	昇天拳 04	True	SA	icon_skills.risingblow_tex
+80500	Common	Common	Brawler	昇天拳 05	False		icon_skills.risingblow_tex
+80501	Common	Common	Brawler	昇天拳 05	False		icon_skills.risingblow_tex
+80502	Common	Common	Brawler	昇天拳 05	False		icon_skills.risingblow_tex
+80530	Common	Common	Brawler	昇天拳 05	True		icon_skills.risingblow_tex
+80531	Common	Common	Brawler	昇天拳 05	True	SA	icon_skills.risingblow_tex
+80600	Common	Common	Brawler	昇天拳 06	False		icon_skills.risingblow_tex
+80601	Common	Common	Brawler	昇天拳 06	False		icon_skills.risingblow_tex
+80602	Common	Common	Brawler	昇天拳 06	False		icon_skills.risingblow_tex
+80630	Common	Common	Brawler	昇天拳 06	True		icon_skills.risingblow_tex
+80631	Common	Common	Brawler	昇天拳 06	True	SA	icon_skills.risingblow_tex
+80700	Common	Common	Brawler	昇天拳 07	False		icon_skills.risingblow_tex
+80701	Common	Common	Brawler	昇天拳 07	False		icon_skills.risingblow_tex
+80702	Common	Common	Brawler	昇天拳 07	False		icon_skills.risingblow_tex
+80730	Common	Common	Brawler	昇天拳 07	True		icon_skills.risingblow_tex
+80731	Common	Common	Brawler	昇天拳 07	True	SA	icon_skills.risingblow_tex
+80800	Common	Common	Brawler	昇天拳 08	False		icon_skills.risingblow_tex
+80801	Common	Common	Brawler	昇天拳 08	False		icon_skills.risingblow_tex
+80802	Common	Common	Brawler	昇天拳 08	False		icon_skills.risingblow_tex
+80830	Common	Common	Brawler	昇天拳 08	True		icon_skills.risingblow_tex
+80831	Common	Common	Brawler	昇天拳 08	True	SA	icon_skills.risingblow_tex
+80900	Common	Common	Brawler	昇天拳 09	False		icon_skills.risingblow_tex
+80901	Common	Common	Brawler	昇天拳 09	False		icon_skills.risingblow_tex
+80902	Common	Common	Brawler	昇天拳 09	False		icon_skills.risingblow_tex
+80930	Common	Common	Brawler	昇天拳 09	True		icon_skills.risingblow_tex
+80931	Common	Common	Brawler	昇天拳 09	True	SA	icon_skills.risingblow_tex
+81000	Common	Common	Brawler	昇天拳 10	False		icon_skills.risingblow_tex
+81001	Common	Common	Brawler	昇天拳 10	False		icon_skills.risingblow_tex
+81002	Common	Common	Brawler	昇天拳 10	False		icon_skills.risingblow_tex
+81030	Common	Common	Brawler	昇天拳 10	True		icon_skills.risingblow_tex
+81031	Common	Common	Brawler	昇天拳 10	True	SA	icon_skills.risingblow_tex
+81100	Common	Common	Brawler	昇天拳 11	False		icon_skills.risingblow_tex
+81101	Common	Common	Brawler	昇天拳 11	False		icon_skills.risingblow_tex
+81102	Common	Common	Brawler	昇天拳 11	False		icon_skills.risingblow_tex
+81130	Common	Common	Brawler	昇天拳 11	True		icon_skills.risingblow_tex
+81131	Common	Common	Brawler	昇天拳 11	True	SA	icon_skills.risingblow_tex
+
+90100	Common	Common	Brawler	狂暴連打 01	False		icon_skills.rapidattack_tex
+90101	Common	Common	Brawler	狂暴連打 01	False		icon_skills.rapidattack_tex
+90102	Common	Common	Brawler	狂暴連打 01	False		icon_skills.rapidattack_tex
+90130	Common	Common	Brawler	狂暴連打 01	True		icon_skills.rapidattack_tex
+90131	Common	Common	Brawler	狂暴連打 01	True	SA	icon_skills.rapidattack_tex
+90200	Common	Common	Brawler	狂暴連打 02	False		icon_skills.rapidattack_tex
+90201	Common	Common	Brawler	狂暴連打 02	False		icon_skills.rapidattack_tex
+90202	Common	Common	Brawler	狂暴連打 02	False		icon_skills.rapidattack_tex
+90230	Common	Common	Brawler	狂暴連打 02	True		icon_skills.rapidattack_tex
+90231	Common	Common	Brawler	狂暴連打 02	True	SA	icon_skills.rapidattack_tex
+90300	Common	Common	Brawler	狂暴連打 03	False		icon_skills.rapidattack_tex
+90301	Common	Common	Brawler	狂暴連打 03	False		icon_skills.rapidattack_tex
+90302	Common	Common	Brawler	狂暴連打 03	False		icon_skills.rapidattack_tex
+90330	Common	Common	Brawler	狂暴連打 03	True		icon_skills.rapidattack_tex
+90331	Common	Common	Brawler	狂暴連打 03	True	SA	icon_skills.rapidattack_tex
+90400	Common	Common	Brawler	狂暴連打 04	False		icon_skills.rapidattack_tex
+90401	Common	Common	Brawler	狂暴連打 04	False		icon_skills.rapidattack_tex
+90402	Common	Common	Brawler	狂暴連打 04	False		icon_skills.rapidattack_tex
+90430	Common	Common	Brawler	狂暴連打 04	True		icon_skills.rapidattack_tex
+90431	Common	Common	Brawler	狂暴連打 04	True	SA	icon_skills.rapidattack_tex
+90500	Common	Common	Brawler	狂暴連打 05	False		icon_skills.rapidattack_tex
+90501	Common	Common	Brawler	狂暴連打 05	False		icon_skills.rapidattack_tex
+90502	Common	Common	Brawler	狂暴連打 05	False		icon_skills.rapidattack_tex
+90530	Common	Common	Brawler	狂暴連打 05	True		icon_skills.rapidattack_tex
+90531	Common	Common	Brawler	狂暴連打 05	True	SA	icon_skills.rapidattack_tex
+90600	Common	Common	Brawler	狂暴連打 06	False		icon_skills.rapidattack_tex
+90601	Common	Common	Brawler	狂暴連打 06	False		icon_skills.rapidattack_tex
+90602	Common	Common	Brawler	狂暴連打 06	False		icon_skills.rapidattack_tex
+90630	Common	Common	Brawler	狂暴連打 06	True		icon_skills.rapidattack_tex
+90631	Common	Common	Brawler	狂暴連打 06	True	SA	icon_skills.rapidattack_tex
+90700	Common	Common	Brawler	狂暴連打 07	False		icon_skills.rapidattack_tex
+90701	Common	Common	Brawler	狂暴連打 07	False		icon_skills.rapidattack_tex
+90702	Common	Common	Brawler	狂暴連打 07	False		icon_skills.rapidattack_tex
+90730	Common	Common	Brawler	狂暴連打 07	True		icon_skills.rapidattack_tex
+90731	Common	Common	Brawler	狂暴連打 07	True	SA	icon_skills.rapidattack_tex
+90800	Common	Common	Brawler	狂暴連打 08	False		icon_skills.rapidattack_tex
+90801	Common	Common	Brawler	狂暴連打 08	False		icon_skills.rapidattack_tex
+90802	Common	Common	Brawler	狂暴連打 08	False		icon_skills.rapidattack_tex
+90830	Common	Common	Brawler	狂暴連打 08	True		icon_skills.rapidattack_tex
+90831	Common	Common	Brawler	狂暴連打 08	True	SA	icon_skills.rapidattack_tex
+90900	Common	Common	Brawler	狂暴連打 09	False		icon_skills.rapidattack_tex
+90901	Common	Common	Brawler	狂暴連打 09	False		icon_skills.rapidattack_tex
+90902	Common	Common	Brawler	狂暴連打 09	False		icon_skills.rapidattack_tex
+90930	Common	Common	Brawler	狂暴連打 09	True		icon_skills.rapidattack_tex
+90931	Common	Common	Brawler	狂暴連打 09	True	SA	icon_skills.rapidattack_tex
+91000	Common	Common	Brawler	狂暴連打 10	False		icon_skills.rapidattack_tex
+91001	Common	Common	Brawler	狂暴連打 10	False		icon_skills.rapidattack_tex
+91002	Common	Common	Brawler	狂暴連打 10	False		icon_skills.rapidattack_tex
+91030	Common	Common	Brawler	狂暴連打 10	True		icon_skills.rapidattack_tex
+91031	Common	Common	Brawler	狂暴連打 10	True	SA	icon_skills.rapidattack_tex
+91100	Common	Common	Brawler	狂暴連打 11	False		icon_skills.rapidattack_tex
+91101	Common	Common	Brawler	狂暴連打 11	False		icon_skills.rapidattack_tex
+91102	Common	Common	Brawler	狂暴連打 11	False		icon_skills.rapidattack_tex
+91130	Common	Common	Brawler	狂暴連打 11	True		icon_skills.rapidattack_tex
+91131	Common	Common	Brawler	狂暴連打 11	True	SA	icon_skills.rapidattack_tex
+91200	Common	Common	Brawler	狂暴連打 12	False		icon_skills.rapidattack_tex
+91201	Common	Common	Brawler	狂暴連打 12	False		icon_skills.rapidattack_tex
+91202	Common	Common	Brawler	狂暴連打 12	False		icon_skills.rapidattack_tex
+91230	Common	Common	Brawler	狂暴連打 12	True		icon_skills.rapidattack_tex
+91231	Common	Common	Brawler	狂暴連打 12	True	SA	icon_skills.rapidattack_tex
+
+100100	Common	Common	Brawler	反擊 01 (防禦)	False		icon_skills.counterattack2_tex
+100130	Common	Common	Brawler	反擊 01 (防禦)	True		icon_skills.counterattack2_tex
+100200	Common	Common	Brawler	反擊 02 (防禦)	False		icon_skills.counterattack2_tex
+100230	Common	Common	Brawler	反擊 02 (防禦)	True		icon_skills.counterattack2_tex
+100300	Common	Common	Brawler	反擊 03 (防禦)	False		icon_skills.counterattack2_tex
+100330	Common	Common	Brawler	反擊 03 (防禦)	True		icon_skills.counterattack2_tex
+100400	Common	Common	Brawler	反擊 04 (防禦)	False		icon_skills.counterattack2_tex
+100430	Common	Common	Brawler	反擊 04 (防禦)	True		icon_skills.counterattack2_tex
+100500	Common	Common	Brawler	反擊 05 (防禦)	False		icon_skills.counterattack2_tex
+100530	Common	Common	Brawler	反擊 05 (防禦)	True		icon_skills.counterattack2_tex
+100600	Common	Common	Brawler	反擊 06 (防禦)	False		icon_skills.counterattack2_tex
+100630	Common	Common	Brawler	反擊 06 (防禦)	True		icon_skills.counterattack2_tex
+100700	Common	Common	Brawler	反擊 07 (防禦)	False		icon_skills.counterattack2_tex
+100730	Common	Common	Brawler	反擊 07 (防禦)	True		icon_skills.counterattack2_tex
+100800	Common	Common	Brawler	反擊 08 (防禦)	False		icon_skills.counterattack2_tex
+100830	Common	Common	Brawler	反擊 08 (防禦)	True		icon_skills.counterattack2_tex
+100900	Common	Common	Brawler	反擊 09 (防禦)	False		icon_skills.counterattack2_tex
+100930	Common	Common	Brawler	反擊 09 (防禦)	True		icon_skills.counterattack2_tex
+
+120100	Common	Common	Brawler	起身攻擊 01	False		icon_skills.risingattack_tex
+120200	Common	Common	Brawler	起身攻擊 02	False		icon_skills.risingattack_tex
+120300	Common	Common	Brawler	起身攻擊 03	False		icon_skills.risingattack_tex
+120400	Common	Common	Brawler	起身攻擊 04	False		icon_skills.risingattack_tex
+120500	Common	Common	Brawler	起身攻擊 05	False		icon_skills.risingattack_tex
+120600	Common	Common	Brawler	起身攻擊 06	False		icon_skills.risingattack_tex
+120700	Common	Common	Brawler	起身攻擊 07	False		icon_skills.risingattack_tex
+120800	Common	Common	Brawler	起身攻擊 08	False		icon_skills.risingattack_tex
+120900	Common	Common	Brawler	起身攻擊 09	False		icon_skills.risingattack_tex
+121000	Common	Common	Brawler	起身攻擊 10	False		icon_skills.risingattack_tex
+
+130100	Common	Common	Brawler	挑釁 01	False		icon_skills.roar2_tex
+130101	Common	Common	Brawler	挑釁 01	False		icon_skills.roar2_tex
+130102	Common	Common	Brawler	挑釁 01	False		icon_skills.roar2_tex
+130200	Common	Common	Brawler	挑釁 02	False		icon_skills.roar2_tex
+130201	Common	Common	Brawler	挑釁 02	False		icon_skills.roar2_tex
+130202	Common	Common	Brawler	挑釁 02	False		icon_skills.roar2_tex
+130300	Common	Common	Brawler	挑釁 03	False		icon_skills.roar2_tex
+130301	Common	Common	Brawler	挑釁 03	False		icon_skills.roar2_tex
+130302	Common	Common	Brawler	挑釁 03	False		icon_skills.roar2_tex
+130400	Common	Common	Brawler	挑釁 04	False		icon_skills.roar2_tex
+130401	Common	Common	Brawler	挑釁 04	False		icon_skills.roar2_tex
+130402	Common	Common	Brawler	挑釁 04	False		icon_skills.roar2_tex
+130500	Common	Common	Brawler	挑釁 05	False		icon_skills.roar2_tex
+130501	Common	Common	Brawler	挑釁 05	False		icon_skills.roar2_tex
+130502	Common	Common	Brawler	挑釁 05	False		icon_skills.roar2_tex
+130600	Common	Common	Brawler	挑釁 06	False		icon_skills.roar2_tex
+130601	Common	Common	Brawler	挑釁 06	False		icon_skills.roar2_tex
+130602	Common	Common	Brawler	挑釁 06	False		icon_skills.roar2_tex
+130700	Common	Common	Brawler	挑釁 07	False		icon_skills.roar2_tex
+130701	Common	Common	Brawler	挑釁 07	False		icon_skills.roar2_tex
+130702	Common	Common	Brawler	挑釁 07	False		icon_skills.roar2_tex
+130800	Common	Common	Brawler	挑釁 08	False		icon_skills.roar2_tex
+130801	Common	Common	Brawler	挑釁 08	False		icon_skills.roar2_tex
+130802	Common	Common	Brawler	挑釁 08	False		icon_skills.roar2_tex
+130900	Common	Common	Brawler	挑釁 09	False		icon_skills.roar2_tex
+130901	Common	Common	Brawler	挑釁 09	False		icon_skills.roar2_tex
+130902	Common	Common	Brawler	挑釁 09	False		icon_skills.roar2_tex
+
+140100	Common	Common	Brawler	憤怒誘發	False		icon_skills.enrage_tex
+140101	Common	Common	Brawler	憤怒誘發	False		icon_skills.enrage_tex
+140102	Common	Common	Brawler	憤怒誘發	False		icon_skills.enrage_tex
+140130	Common	Common	Brawler	憤怒誘發	True		icon_skills.enrage_tex
+
+150100	Common	Common	Brawler	上踢 01	False		icon_skills.kick2_tex
+150130	Common	Common	Brawler	上踢 01	True		icon_skills.kick2_tex
+150200	Common	Common	Brawler	上踢 02	False		icon_skills.kick2_tex
+150230	Common	Common	Brawler	上踢 02	True		icon_skills.kick2_tex
+150300	Common	Common	Brawler	上踢 03	False		icon_skills.kick2_tex
+150330	Common	Common	Brawler	上踢 03	True		icon_skills.kick2_tex
+150400	Common	Common	Brawler	上踢 04	False		icon_skills.kick2_tex
+150430	Common	Common	Brawler	上踢 04	True		icon_skills.kick2_tex
+150500	Common	Common	Brawler	上踢 05	False		icon_skills.kick2_tex
+150530	Common	Common	Brawler	上踢 05	True		icon_skills.kick2_tex
+150600	Common	Common	Brawler	上踢 06	False		icon_skills.kick2_tex
+150630	Common	Common	Brawler	上踢 06	True		icon_skills.kick2_tex
+150700	Common	Common	Brawler	上踢 07	False		icon_skills.kick2_tex
+150730	Common	Common	Brawler	上踢 07	True		icon_skills.kick2_tex
+150800	Common	Common	Brawler	上踢 08	False		icon_skills.kick2_tex
+150830	Common	Common	Brawler	上踢 08	True		icon_skills.kick2_tex
+150900	Common	Common	Brawler	上踢 09	False		icon_skills.kick2_tex
+150930	Common	Common	Brawler	上踢 09	True		icon_skills.kick2_tex
+151000	Common	Common	Brawler	上踢 10	False		icon_skills.kick2_tex
+151030	Common	Common	Brawler	上踢 10	True		icon_skills.kick2_tex
+
+160100	Common	Common	Brawler	飛踢 01	False		icon_skills.airkick_tex
+160101	Common	Common	Brawler	飛踢 01	False		icon_skills.airkick_tex
+160102	Common	Common	Brawler	飛踢 01	False		icon_skills.airkick_tex
+160130	Common	Common	Brawler	飛踢 01	True		icon_skills.airkick_tex
+160200	Common	Common	Brawler	飛踢 02	False		icon_skills.airkick_tex
+160201	Common	Common	Brawler	飛踢 02	False		icon_skills.airkick_tex
+160202	Common	Common	Brawler	飛踢 02	False		icon_skills.airkick_tex
+160230	Common	Common	Brawler	飛踢 02	True		icon_skills.airkick_tex
+160300	Common	Common	Brawler	飛踢 03	False		icon_skills.airkick_tex
+160301	Common	Common	Brawler	飛踢 03	False		icon_skills.airkick_tex
+160302	Common	Common	Brawler	飛踢 03	False		icon_skills.airkick_tex
+160330	Common	Common	Brawler	飛踢 03	True		icon_skills.airkick_tex
+160400	Common	Common	Brawler	飛踢 04	False		icon_skills.airkick_tex
+160401	Common	Common	Brawler	飛踢 04	False		icon_skills.airkick_tex
+160402	Common	Common	Brawler	飛踢 04	False		icon_skills.airkick_tex
+160430	Common	Common	Brawler	飛踢 04	True		icon_skills.airkick_tex
+160500	Common	Common	Brawler	飛踢 05	False		icon_skills.airkick_tex
+160501	Common	Common	Brawler	飛踢 05	False		icon_skills.airkick_tex
+160502	Common	Common	Brawler	飛踢 05	False		icon_skills.airkick_tex
+160530	Common	Common	Brawler	飛踢 05	True		icon_skills.airkick_tex
+160600	Common	Common	Brawler	飛踢 06	False		icon_skills.airkick_tex
+160601	Common	Common	Brawler	飛踢 06	False		icon_skills.airkick_tex
+160602	Common	Common	Brawler	飛踢 06	False		icon_skills.airkick_tex
+160630	Common	Common	Brawler	飛踢 06	True		icon_skills.airkick_tex
+160700	Common	Common	Brawler	飛踢 07	False		icon_skills.airkick_tex
+160701	Common	Common	Brawler	飛踢 07	False		icon_skills.airkick_tex
+160702	Common	Common	Brawler	飛踢 07	False		icon_skills.airkick_tex
+160730	Common	Common	Brawler	飛踢 07	True		icon_skills.airkick_tex
+160800	Common	Common	Brawler	飛踢 08	False		icon_skills.airkick_tex
+160801	Common	Common	Brawler	飛踢 08	False		icon_skills.airkick_tex
+160802	Common	Common	Brawler	飛踢 08	False		icon_skills.airkick_tex
+160830	Common	Common	Brawler	飛踢 08	True		icon_skills.airkick_tex
+160900	Common	Common	Brawler	飛踢 09	False		icon_skills.airkick_tex
+160901	Common	Common	Brawler	飛踢 09	False		icon_skills.airkick_tex
+160902	Common	Common	Brawler	飛踢 09	False		icon_skills.airkick_tex
+160930	Common	Common	Brawler	飛踢 09	True		icon_skills.airkick_tex
+161000	Common	Common	Brawler	飛踢 10	False		icon_skills.airkick_tex
+161001	Common	Common	Brawler	飛踢 10	False		icon_skills.airkick_tex
+161002	Common	Common	Brawler	飛踢 10	False		icon_skills.airkick_tex
+161030	Common	Common	Brawler	飛踢 10	True		icon_skills.airkick_tex
+161100	Common	Common	Brawler	飛踢 11	False		icon_skills.airkick_tex
+161101	Common	Common	Brawler	飛踢 11	False		icon_skills.airkick_tex
+161102	Common	Common	Brawler	飛踢 11	False		icon_skills.airkick_tex
+161130	Common	Common	Brawler	飛踢 11	True		icon_skills.airkick_tex
+
+170100	Common	Common	Brawler	憤怒亂打 01 (防禦)	False		icon_skills.dashattack_tex
+170110	Common	Common	Brawler	憤怒亂打 01 (防禦)	False		icon_skills.dashattack_tex
+170200	Common	Common	Brawler	憤怒亂打 02 (防禦)	False		icon_skills.dashattack_tex
+170210	Common	Common	Brawler	憤怒亂打 02 (防禦)	False		icon_skills.dashattack_tex
+170300	Common	Common	Brawler	憤怒亂打 03 (防禦)	False		icon_skills.dashattack_tex
+170310	Common	Common	Brawler	憤怒亂打 03 (防禦)	False		icon_skills.dashattack_tex
+170400	Common	Common	Brawler	憤怒亂打 04 (防禦)	False		icon_skills.dashattack_tex
+170410	Common	Common	Brawler	憤怒亂打 04 (防禦)	False		icon_skills.dashattack_tex
+170500	Common	Common	Brawler	憤怒亂打 05 (防禦)	False		icon_skills.dashattack_tex
+170510	Common	Common	Brawler	憤怒亂打 05 (防禦)	False		icon_skills.dashattack_tex
+170600	Common	Common	Brawler	憤怒亂打 06 (防禦)	False		icon_skills.dashattack_tex
+170610	Common	Common	Brawler	憤怒亂打 06 (防禦)	False		icon_skills.dashattack_tex
+170700	Common	Common	Brawler	憤怒亂打 07 (防禦)	False		icon_skills.dashattack_tex
+170710	Common	Common	Brawler	憤怒亂打 07 (防禦)	False		icon_skills.dashattack_tex
+170800	Common	Common	Brawler	憤怒亂打 08 (防禦)	False		icon_skills.dashattack_tex
+170810	Common	Common	Brawler	憤怒亂打 08 (防禦)	False		icon_skills.dashattack_tex
+170900	Common	Common	Brawler	憤怒亂打 09 (防禦)	False		icon_skills.dashattack_tex
+170910	Common	Common	Brawler	憤怒亂打 09 (防禦)	False		icon_skills.dashattack_tex
+171000	Common	Common	Brawler	憤怒亂打 10 (防禦)	False		icon_skills.dashattack_tex
+171010	Common	Common	Brawler	憤怒亂打 10 (防禦)	False		icon_skills.dashattack_tex
+
+180100	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180101	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180102	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180130	Common	Common	Brawler	巨人之力 (防禦)	True		icon_skills.rampage_tex
+180140	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180141	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180142	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180143	Common	Common	Brawler	巨人之力 (防禦)	True		icon_skills.rampage_tex
+180160	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180161	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180162	Common	Common	Brawler	巨人之力 (防禦)	False		icon_skills.rampage_tex
+180163	Common	Common	Brawler	巨人之力 (防禦)	True		icon_skills.rampage_tex
+
+190100	Common	Common	Brawler	平靜	False		icon_skills.relax_tex
+190101	Common	Common	Brawler	平靜	False		icon_skills.relax_tex
+190102	Common	Common	Brawler	平靜	False		icon_skills.relax_tex
+
+200100	Common	Common	Brawler	空中連擊 01	False		icon_skills.catchair_tex
+200200	Common	Common	Brawler	空中連擊 02	False		icon_skills.catchair_tex
+200300	Common	Common	Brawler	空中連擊 03	False		icon_skills.catchair_tex
+200400	Common	Common	Brawler	空中連擊 04	False		icon_skills.catchair_tex
+200500	Common	Common	Brawler	空中連擊 05	False		icon_skills.catchair_tex
+200600	Common	Common	Brawler	空中連擊 06	False		icon_skills.catchair_tex
+200700	Common	Common	Brawler	空中連擊 07	False		icon_skills.catchair_tex
+200800	Common	Common	Brawler	空中連擊 08			icon_skills.catchair_tex
+200900	Common	Common	Brawler	空中連擊 09			icon_skills.catchair_tex
+201000	Common	Common	Brawler	空中連擊 10			icon_skills.catchair_tex
+
+210100	Common	Common	Brawler	怒氣累積	False		icon_skills.arouseangercancel_tex
+210101	Common	Common	Brawler	怒氣累積	False		icon_skills.arouseangercancel_tex
+210102	Common	Common	Brawler	怒氣累積	False		icon_skills.arouseangercancel_tex
+
+220100	Common	Common	Brawler	迴旋飛踢	False		icon_skills.kicker_tex
+220130	Common	Common	Brawler	迴旋飛踢	False		icon_skills.kicker_tex
+
+230100	Common	Common	Brawler	旋轉肘擊			icon_skills.pet_mushroom_tex
+
+240100	Common	Common	Brawler	原值暴擊	False		icon_skills.oneinchpunch_tex
+240101	Common	Common	Brawler	原值暴擊	False		icon_skills.oneinchpunch_tex
+240102	Common	Common	Brawler	原值暴擊	False		icon_skills.oneinchpunch_tex
+240130	Common	Common	Brawler	原值暴擊	True		icon_skills.oneinchpunch_tex
+240131	Common	Common	Brawler	原值暴擊	True	SA	icon_skills.oneinchpunch_tex
+
+250100	Common	Common	Brawler	輪擺式移位慢版			icon_skills.dampseyroll_tex
+
+260100	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260101	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260102	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260103	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260104	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260105	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260106	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+260107	Common	Common	Brawler	颱風連打	False		icon_skills.dampseyroll_tex
+
+270100	Common	Common	Brawler	原值暴擊範圍確認用	False		icon_skills.oneinchpunch_tex
+
+400100	Common	Common	Brawler	瞬閃 (迴避)	False	hit 1	icon_skills.instancerush_tex
+400130	Common	Common	Brawler	瞬閃 (迴避)	False	hit 2	icon_skills.instancerush_tex
+
+9100100	Common	Common	Brawler	覺醒氣息	False		icon_skills.awakenaura_tex

@@ -1,0 +1,585 @@
+10100	Common	Common	Mystic	精靈彈 01	False	hit 1	icon_skills.elementalshot_tex
+10101	Common	Common	Mystic	精靈彈 01	False	hit 2	icon_skills.elementalshot_tex
+10102	Common	Common	Mystic	精靈彈 01	False	hit 3	icon_skills.elementalshot_tex
+10103	Common	Common	Mystic	精靈彈 01	False	hit 4	icon_skills.elementalshot_tex
+10200	Common	Common	Mystic	精靈彈 02	False	hit 1	icon_skills.elementalshot_tex
+10201	Common	Common	Mystic	精靈彈 02	False	hit 2	icon_skills.elementalshot_tex
+10202	Common	Common	Mystic	精靈彈 02	False	hit 3	icon_skills.elementalshot_tex
+10203	Common	Common	Mystic	精靈彈 02	False	hit 4	icon_skills.elementalshot_tex
+10300	Common	Common	Mystic	精靈彈 03	False	hit 1	icon_skills.elementalshot_tex
+10301	Common	Common	Mystic	精靈彈 03	False	hit 2	icon_skills.elementalshot_tex
+10302	Common	Common	Mystic	精靈彈 03	False	hit 3	icon_skills.elementalshot_tex
+10303	Common	Common	Mystic	精靈彈 03	False	hit 4	icon_skills.elementalshot_tex
+10400	Common	Common	Mystic	精靈彈 04	False	hit 1	icon_skills.elementalshot_tex
+10401	Common	Common	Mystic	精靈彈 04	False	hit 2	icon_skills.elementalshot_tex
+10402	Common	Common	Mystic	精靈彈 04	False	hit 3	icon_skills.elementalshot_tex
+10403	Common	Common	Mystic	精靈彈 04	False	hit 4	icon_skills.elementalshot_tex
+10500	Common	Common	Mystic	精靈彈 05	False	hit 1	icon_skills.elementalshot_tex
+10501	Common	Common	Mystic	精靈彈 05	False	hit 2	icon_skills.elementalshot_tex
+10502	Common	Common	Mystic	精靈彈 05	False	hit 3	icon_skills.elementalshot_tex
+10503	Common	Common	Mystic	精靈彈 05	False	hit 4	icon_skills.elementalshot_tex
+10600	Common	Common	Mystic	精靈彈 06	False	hit 1	icon_skills.elementalshot_tex
+10601	Common	Common	Mystic	精靈彈 06	False	hit 2	icon_skills.elementalshot_tex
+10602	Common	Common	Mystic	精靈彈 06	False	hit 3	icon_skills.elementalshot_tex
+10603	Common	Common	Mystic	精靈彈 06	False	hit 4	icon_skills.elementalshot_tex
+10700	Common	Common	Mystic	精靈彈 07	False	hit 1	icon_skills.elementalshot_tex
+10701	Common	Common	Mystic	精靈彈 07	False	hit 2	icon_skills.elementalshot_tex
+10702	Common	Common	Mystic	精靈彈 07	False	hit 3	icon_skills.elementalshot_tex
+10703	Common	Common	Mystic	精靈彈 07	False	hit 4	icon_skills.elementalshot_tex
+10800	Common	Common	Mystic	精靈彈 08	False	hit 1	icon_skills.elementalshot_tex
+10801	Common	Common	Mystic	精靈彈 08	False	hit 2	icon_skills.elementalshot_tex
+10802	Common	Common	Mystic	精靈彈 08	False	hit 3	icon_skills.elementalshot_tex
+10803	Common	Common	Mystic	精靈彈 08	False	hit 4	icon_skills.elementalshot_tex
+10900	Common	Common	Mystic	精靈彈 09	False	hit 1	icon_skills.elementalshot_tex
+10901	Common	Common	Mystic	精靈彈 09	False	hit 2	icon_skills.elementalshot_tex
+10902	Common	Common	Mystic	精靈彈 09	False	hit 3	icon_skills.elementalshot_tex
+10903	Common	Common	Mystic	精靈彈 09	False	hit 4	icon_skills.elementalshot_tex
+11000	Common	Common	Mystic	精靈彈 10	False	hit 1	icon_skills.elementalshot_tex
+11001	Common	Common	Mystic	精靈彈 10	False	hit 2	icon_skills.elementalshot_tex
+11002	Common	Common	Mystic	精靈彈 10	False	hit 3	icon_skills.elementalshot_tex
+11003	Common	Common	Mystic	精靈彈 10	False	hit 4	icon_skills.elementalshot_tex
+11100	Common	Common	Mystic	精靈彈 11	False	hit 1	icon_skills.elementalshot_tex
+11101	Common	Common	Mystic	精靈彈 11	False	hit 2	icon_skills.elementalshot_tex
+11102	Common	Common	Mystic	精靈彈 11	False	hit 3	icon_skills.elementalshot_tex
+11103	Common	Common	Mystic	精靈彈 11	False	hit 4	icon_skills.elementalshot_tex
+11200	Common	Common	Mystic	精靈彈 12	False	hit 1	icon_skills.elementalshot_tex
+11201	Common	Common	Mystic	精靈彈 12	False	hit 2	icon_skills.elementalshot_tex
+11202	Common	Common	Mystic	精靈彈 12	False	hit 3	icon_skills.elementalshot_tex
+11203	Common	Common	Mystic	精靈彈 12	False	hit 4	icon_skills.elementalshot_tex
+11300	Common	Common	Mystic	精靈彈 13	False	hit 1	icon_skills.elementalshot_tex
+11301	Common	Common	Mystic	精靈彈 13	False	hit 2	icon_skills.elementalshot_tex
+11302	Common	Common	Mystic	精靈彈 13	False	hit 3	icon_skills.elementalshot_tex
+11303	Common	Common	Mystic	精靈彈 13	False	hit 4	icon_skills.elementalshot_tex
+11400	Common	Common	Mystic	精靈彈 14	False	hit 1	icon_skills.elementalshot_tex
+11401	Common	Common	Mystic	精靈彈 14	False	hit 2	icon_skills.elementalshot_tex
+11402	Common	Common	Mystic	精靈彈 14	False	hit 3	icon_skills.elementalshot_tex
+11403	Common	Common	Mystic	精靈彈 14	False	hit 4	icon_skills.elementalshot_tex
+11500	Common	Common	Mystic	精靈彈 15	False	hit 1	icon_skills.elementalshot_tex
+11501	Common	Common	Mystic	精靈彈 15	False	hit 2	icon_skills.elementalshot_tex
+11502	Common	Common	Mystic	精靈彈 15	False	hit 3	icon_skills.elementalshot_tex
+11503	Common	Common	Mystic	精靈彈 15	False	hit 4	icon_skills.elementalshot_tex
+
+20100	Common	Common	Mystic	精氣吸收 - 吸收 01	False		icon_skills.suckhp_tex
+20111	Common	Common	Mystic	精氣吸收 - 吸收 01	False		icon_skills.suckhp_tex
+20112	Common	Common	Mystic	精氣吸收 - 釋放 01	False	hit 2	icon_skills.mpsupplycharge_tex
+20200	Common	Common	Mystic	精氣吸收 - 吸收 02	False		icon_skills.suckhp_tex
+20211	Common	Common	Mystic	精氣吸收 - 吸收 02	False		icon_skills.suckhp_tex
+20212	Common	Common	Mystic	精氣吸收 - 釋放 02	False	hit 2	icon_skills.mpsupplycharge_tex
+20300	Common	Common	Mystic	精氣吸收 - 吸收 03	False		icon_skills.suckhp_tex
+20311	Common	Common	Mystic	精氣吸收 - 吸收 03	False		icon_skills.suckhp_tex
+20312	Common	Common	Mystic	精氣吸收 - 釋放 03	False	hit 2	icon_skills.mpsupplycharge_tex
+20400	Common	Common	Mystic	精氣吸收 - 吸收 04	False		icon_skills.suckhp_tex
+20411	Common	Common	Mystic	精氣吸收 - 吸收 04	False		icon_skills.suckhp_tex
+20412	Common	Common	Mystic	精氣吸收 - 釋放 04	False	hit 2	icon_skills.mpsupplycharge_tex
+20500	Common	Common	Mystic	精氣吸收 - 吸收 05	False		icon_skills.suckhp_tex
+20511	Common	Common	Mystic	精氣吸收 - 吸收 05	False		icon_skills.suckhp_tex
+20512	Common	Common	Mystic	精氣吸收 - 釋放 05	False	hit 2	icon_skills.mpsupplycharge_tex
+20600	Common	Common	Mystic	精氣吸收 - 吸收 06	False		icon_skills.suckhp_tex
+20611	Common	Common	Mystic	精氣吸收 - 吸收 06	False		icon_skills.suckhp_tex
+20612	Common	Common	Mystic	精氣吸收 - 釋放 06	False	hit 2	icon_skills.mpsupplycharge_tex
+20700	Common	Common	Mystic	精氣吸收 - 吸收 07	False		icon_skills.suckhp_tex
+20711	Common	Common	Mystic	精氣吸收 - 吸收 07	False		icon_skills.suckhp_tex
+20712	Common	Common	Mystic	精氣吸收 - 釋放 07	False	hit 2	icon_skills.mpsupplycharge_tex
+20800	Common	Common	Mystic	精氣吸收 - 吸收 08	False		icon_skills.suckhp_tex
+20811	Common	Common	Mystic	精氣吸收 - 吸收 08	False		icon_skills.suckhp_tex
+20812	Common	Common	Mystic	精氣吸收 - 釋放 08	False	hit 2	icon_skills.mpsupplycharge_tex
+20900	Common	Common	Mystic	精氣吸收 - 吸收 09	False		icon_skills.suckhp_tex
+20911	Common	Common	Mystic	精氣吸收 - 吸收 09	False		icon_skills.suckhp_tex
+20912	Common	Common	Mystic	精氣吸收 - 釋放 09	False	hit 2	icon_skills.mpsupplycharge_tex
+21000	Common	Common	Mystic	精氣吸收 - 吸收 10	False		icon_skills.suckhp_tex
+21011	Common	Common	Mystic	精氣吸收 - 吸收 10	False		icon_skills.suckhp_tex
+21012	Common	Common	Mystic	精氣吸收 - 釋放 10	False	hit 2	icon_skills.mpsupplycharge_tex
+21100	Common	Common	Mystic	精氣吸收 - 吸收 11	False		icon_skills.suckhp_tex
+21111	Common	Common	Mystic	精氣吸收 - 吸收 11	False		icon_skills.suckhp_tex
+21112	Common	Common	Mystic	精氣吸收 - 吸收 11	False	hit 2	icon_skills.suckhp_tex
+21200	Common	Common	Mystic	精氣吸收 - 吸收 12	False		icon_skills.suckhp_tex
+21211	Common	Common	Mystic	精氣吸收 - 吸收 12	False		icon_skills.suckhp_tex
+21212	Common	Common	Mystic	精氣吸收 - 吸收 12	False	hit 2	icon_skills.suckhp_tex
+21300	Common	Common	Mystic	精氣吸收 - 吸收 13	False		icon_skills.suckhp_tex
+21311	Common	Common	Mystic	精氣吸收 - 吸收 13	False		icon_skills.suckhp_tex
+21312	Common	Common	Mystic	精氣吸收 - 吸收 13	False	hit 2	icon_skills.suckhp_tex
+21400	Common	Common	Mystic	精氣吸收 - 吸收 14	False		icon_skills.suckhp_tex
+21411	Common	Common	Mystic	精氣吸收 - 吸收 14	False		icon_skills.suckhp_tex
+21412	Common	Common	Mystic	精氣吸收 - 吸收 14	False	hit 2	icon_skills.suckhp_tex
+
+30100	Common	Common	Mystic	狂氣庇護 01			icon_skills.rage_tex
+30200	Common	Common	Mystic	狂氣庇護 02			icon_skills.rage_tex
+30300	Common	Common	Mystic	狂氣庇護 03			icon_skills.rage_tex
+
+40100	Common	Common	Mystic	束縛彈 01	False		icon_skills.slowball_tex
+40120	Common	Common	Mystic	束縛彈 01	False		icon_skills.slowball_tex
+40200	Common	Common	Mystic	束縛彈 02	False		icon_skills.slowball_tex
+40220	Common	Common	Mystic	束縛彈 02	False		icon_skills.slowball_tex
+40300	Common	Common	Mystic	束縛彈 03	False		icon_skills.slowball_tex
+40320	Common	Common	Mystic	束縛彈 03	False		icon_skills.slowball_tex
+40400	Common	Common	Mystic	束縛彈 04	False		icon_skills.slowball_tex
+40420	Common	Common	Mystic	束縛彈 04	False		icon_skills.slowball_tex
+40500	Common	Common	Mystic	束縛彈 05	False		icon_skills.slowball_tex
+40520	Common	Common	Mystic	束縛彈 05	False		icon_skills.slowball_tex
+40600	Common	Common	Mystic	束縛彈 06	False		icon_skills.slowball_tex
+40620	Common	Common	Mystic	束縛彈 06	False		icon_skills.slowball_tex
+
+50100	Common	Common	Mystic	恢復彈 01	False		icon_skills.healshot_tex
+50110	Common	Common	Mystic	恢復彈 01	False		icon_skills.healshot_tex
+50200	Common	Common	Mystic	恢復彈 02	False		icon_skills.healshot_tex
+50210	Common	Common	Mystic	恢復彈 02	False		icon_skills.healshot_tex
+50300	Common	Common	Mystic	恢復彈 03	False		icon_skills.healshot_tex
+50310	Common	Common	Mystic	恢復彈 03	False		icon_skills.healshot_tex
+50400	Common	Common	Mystic	恢復彈 04	False		icon_skills.healshot_tex
+50410	Common	Common	Mystic	恢復彈 04	False		icon_skills.healshot_tex
+50500	Common	Common	Mystic	恢復彈 05	False		icon_skills.healshot_tex
+50510	Common	Common	Mystic	恢復彈 05	False		icon_skills.healshot_tex
+50600	Common	Common	Mystic	恢復彈 06	False		icon_skills.healshot_tex
+50610	Common	Common	Mystic	恢復彈 06	False		icon_skills.healshot_tex
+50700	Common	Common	Mystic	恢復彈 07	False		icon_skills.healshot_tex
+50710	Common	Common	Mystic	恢復彈 07	False		icon_skills.healshot_tex
+50800	Common	Common	Mystic	恢復彈 08	False		icon_skills.healshot_tex
+50810	Common	Common	Mystic	恢復彈 08	False		icon_skills.healshot_tex
+50900	Common	Common	Mystic	恢復彈 09	False		icon_skills.healshot_tex
+50910	Common	Common	Mystic	恢復彈 09	False		icon_skills.healshot_tex
+51000	Common	Common	Mystic	恢復彈 10	False		icon_skills.healshot_tex
+51010	Common	Common	Mystic	恢復彈 10	False		icon_skills.healshot_tex
+51100	Common	Common	Mystic	恢復彈 11	False		icon_skills.healshot_tex
+51110	Common	Common	Mystic	恢復彈 11	False		icon_skills.healshot_tex
+51200	Common	Common	Mystic	恢復彈 12	False		icon_skills.healshot_tex
+51210	Common	Common	Mystic	恢復彈 12	False		icon_skills.healshot_tex
+53000	Common	Common	Mystic	恢復彈 10	False		icon_skills.healshot_tex
+53010	Common	Common	Mystic	恢復彈 10	False		icon_skills.healshot_tex
+53100	Common	Common	Mystic	恢復彈 10	False		icon_skills.healshot_tex
+53110	Common	Common	Mystic	恢復彈 10	False		icon_skills.healshot_tex
+
+60100	Common	Common	Mystic	閃光彈 01	False		icon_skills.flashball_tex
+60120	Common	Common	Mystic	閃光彈 01	False		icon_skills.flashball_tex
+60200	Common	Common	Mystic	閃光彈 02	False		icon_skills.flashball_tex
+60220	Common	Common	Mystic	閃光彈 02	False		icon_skills.flashball_tex
+60300	Common	Common	Mystic	閃光彈 03	False		icon_skills.flashball_tex
+60320	Common	Common	Mystic	閃光彈 03	False		icon_skills.flashball_tex
+60400	Common	Common	Mystic	閃光彈 04	False		icon_skills.flashball_tex
+60420	Common	Common	Mystic	閃光彈 04	False		icon_skills.flashball_tex
+60500	Common	Common	Mystic	閃光彈 05	False		icon_skills.flashball_tex
+60520	Common	Common	Mystic	閃光彈 05	False		icon_skills.flashball_tex
+60600	Common	Common	Mystic	閃光彈 06	False		icon_skills.flashball_tex
+60620	Common	Common	Mystic	閃光彈 06	False		icon_skills.flashball_tex
+
+70100	Common	Common	Mystic	魔力恢復 01	False		icon_skills.mpcharge_tex
+70200	Common	Common	Mystic	魔力恢復 02	False		icon_skills.mpcharge_tex
+70300	Common	Common	Mystic	魔力恢復 03	False		icon_skills.mpcharge_tex
+70400	Common	Common	Mystic	魔力恢復 04	False		icon_skills.mpcharge_tex
+70500	Common	Common	Mystic	魔力恢復 05	False		icon_skills.mpcharge_tex
+
+80100	Common	Common	Mystic	懲罰帳幕 01	False		icon_skills.punishingshield_tex
+80130	Common	Common	Mystic	懲罰帳幕 01	True		icon_skills.punishingshield_tex
+80200	Common	Common	Mystic	懲罰帳幕 02	False		icon_skills.punishingshield_tex
+80230	Common	Common	Mystic	懲罰帳幕 02	True		icon_skills.punishingshield_tex
+80300	Common	Common	Mystic	懲罰帳幕 03	False		icon_skills.punishingshield_tex
+80330	Common	Common	Mystic	懲罰帳幕 03	True		icon_skills.punishingshield_tex
+80400	Common	Common	Mystic	懲罰帳幕 04	False		icon_skills.punishingshield_tex
+80430	Common	Common	Mystic	懲罰帳幕 04	True		icon_skills.punishingshield_tex
+80500	Common	Common	Mystic	懲罰帳幕 05	False		icon_skills.punishingshield_tex
+80530	Common	Common	Mystic	懲罰帳幕 05	True		icon_skills.punishingshield_tex
+80600	Common	Common	Mystic	懲罰帳幕 06	False		icon_skills.punishingshield_tex
+80630	Common	Common	Mystic	懲罰帳幕 06	True		icon_skills.punishingshield_tex
+80700	Common	Common	Mystic	懲罰帳幕 07	False		icon_skills.punishingshield_tex
+80730	Common	Common	Mystic	懲罰帳幕 07	True		icon_skills.punishingshield_tex
+80800	Common	Common	Mystic	懲罰帳幕 08	False		icon_skills.punishingshield_tex
+80830	Common	Common	Mystic	懲罰帳幕 08	True		icon_skills.punishingshield_tex
+80900	Common	Common	Mystic	懲罰帳幕 09	False		icon_skills.punishingshield_tex
+80930	Common	Common	Mystic	懲罰帳幕 09	True		icon_skills.punishingshield_tex
+81000	Common	Common	Mystic	懲罰帳幕 10	False		icon_skills.punishingshield_tex
+81030	Common	Common	Mystic	懲罰帳幕 10	True		icon_skills.punishingshield_tex
+81100	Common	Common	Mystic	懲罰帳幕 11	False		icon_skills.punishingshield_tex
+81130	Common	Common	Mystic	懲罰帳幕 11	True		icon_skills.punishingshield_tex
+
+90100	Common	Common	Mystic	淨化彈 01	False		icon_skills.purifyshot_tex
+90110	Common	Common	Mystic	淨化彈 01	False		icon_skills.purifyshot_tex
+90200	Common	Common	Mystic	淨化彈 02	False		icon_skills.purifyshot_tex
+90210	Common	Common	Mystic	淨化彈 02	False		icon_skills.purifyshot_tex
+90300	Common	Common	Mystic	淨化彈 03	False		icon_skills.purifyshot_tex
+90310	Common	Common	Mystic	淨化彈 03	False		icon_skills.purifyshot_tex
+90400	Common	Common	Mystic	淨化彈 04	False		icon_skills.purifyshot_tex
+90410	Common	Common	Mystic	淨化彈 04	False		icon_skills.purifyshot_tex
+90500	Common	Common	Mystic	淨化彈 05	False		icon_skills.purifyshot_tex
+90510	Common	Common	Mystic	淨化彈 05	False		icon_skills.purifyshot_tex
+
+100100	Common	Common	Mystic	復活 01	False		icon_skills.resurrect_tex
+100200	Common	Common	Mystic	復活 02	False		icon_skills.resurrect_tex
+100300	Common	Common	Mystic	復活 03	False		icon_skills.resurrect_tex
+100400	Common	Common	Mystic	復活 04	False		icon_skills.resurrect_tex
+100500	Common	Common	Mystic	復活 05	False		icon_skills.resurrect_tex
+
+110100	Common	Common	Mystic	同伴召喚 01	False		icon_skills.recallfriend_tex
+110200	Common	Common	Mystic	同伴召喚 02	False		icon_skills.recallfriend_tex
+
+120100	Common	Common	Mystic	轉生祝福 01	False		icon_skills.autoresurrect_tex
+120110	Common	Common	Mystic	轉生祝福 01	False		icon_skills.autoresurrect_tex
+120200	Common	Common	Mystic	轉生祝福 02	False		icon_skills.autoresurrect_tex
+120300	Common	Common	Mystic	轉生祝福 03	False		icon_skills.autoresurrect_tex
+120400	Common	Common	Mystic	轉生祝福 04	False		icon_skills.autoresurrect_tex
+120500	Common	Common	Mystic	轉生祝福 05	False		icon_skills.autoresurrect_tex
+
+130100	Common	Common	Mystic	憤怒結界 01	False	On	icon_skills.criticalupaura_tex
+130150	Common	Common	Mystic	憤怒結界 01	False	Off	icon_skills.criticalupaura_tex
+130200	Common	Common	Mystic	憤怒結界 02	False	On	icon_skills.criticalupaura_tex
+130250	Common	Common	Mystic	憤怒結界 02	False	Off	icon_skills.criticalupaura_tex
+130300	Common	Common	Mystic	憤怒的結界 03	False	On	icon_skills.criticalupaura_tex
+130350	Common	Common	Mystic	憤怒結界 03	False	Off	icon_skills.criticalupaura_tex
+130400	Common	Common	Mystic	憤怒的結界 04	False	On	icon_skills.criticalupaura_tex
+130450	Common	Common	Mystic	憤怒結界 04	False	Off	icon_skills.criticalupaura_tex
+130500	Common	Common	Mystic	憤怒結界 05	False	On	icon_skills.criticalupaura_tex
+130550	Common	Common	Mystic	憤怒結界 05	False	Off	icon_skills.criticalupaura_tex
+
+140100	Common	Common	Mystic	迅速結界 01	False	On	icon_skills.speedupaura_tex
+140150	Common	Common	Mystic	迅速結界 01	False	Off	icon_skills.speedupaura_tex
+140200	Common	Common	Mystic	迅速結界 02	False	On	icon_skills.speedupaura_tex
+140250	Common	Common	Mystic	迅速結界 02	False	Off	icon_skills.speedupaura_tex
+140300	Common	Common	Mystic	迅速結界 03	False	On	icon_skills.speedupaura_tex
+140350	Common	Common	Mystic	迅速結界 03	False	Off	icon_skills.speedupaura_tex
+140400	Common	Common	Mystic	迅速結界 04	False	On	icon_skills.speedupaura_tex
+140450	Common	Common	Mystic	迅速結界 04	False	Off	icon_skills.speedupaura_tex
+140500	Common	Common	Mystic	迅速結界 05	False	On	icon_skills.speedupaura_tex
+140550	Common	Common	Mystic	迅速結界 05	False	Off	icon_skills.speedupaura_tex
+
+150100	Common	Common	Mystic	迷霧結界 01	False	On	icon_skills.areahpgain_tex
+150150	Common	Common	Mystic	迷霧結界 01	False	Off	icon_skills.areahpgain_tex
+150200	Common	Common	Mystic	迷霧結界 02	False	On	icon_skills.areahpgain_tex
+150250	Common	Common	Mystic	迷霧結界 02	False	Off	icon_skills.areahpgain_tex
+150300	Common	Common	Mystic	迷霧結界 03	False	On	icon_skills.areahpgain_tex
+150350	Common	Common	Mystic	迷霧結界 03	False	Off	icon_skills.areahpgain_tex
+150400	Common	Common	Mystic	迷霧結界 04	False	On	icon_skills.areahpgain_tex
+150450	Common	Common	Mystic	迷霧結界 04	False	Off	icon_skills.areahpgain_tex
+150500	Common	Common	Mystic	迷霧結界 05	False	On	icon_skills.areahpgain_tex
+150550	Common	Common	Mystic	迷霧結界 05	False	Off	icon_skills.areahpgain_tex
+150600	Common	Common	Mystic	迷霧結界 06	False	On	icon_skills.areahpgain_tex
+150650	Common	Common	Mystic	迷霧結界 06	False	Off	icon_skills.areahpgain_tex
+
+160100	Common	Common	Mystic	精神結界 01	False	On	icon_skills.areampgain_tex
+160150	Common	Common	Mystic	精神結界 01	False	Off	icon_skills.areampgain_tex
+160200	Common	Common	Mystic	精神結界 02	False	On	icon_skills.areampgain_tex
+160250	Common	Common	Mystic	精神結界 02	False	Off	icon_skills.areampgain_tex
+160300	Common	Common	Mystic	精神結界 03	False	On	icon_skills.areampgain_tex
+160350	Common	Common	Mystic	精神結界 03	False	Off	icon_skills.areampgain_tex
+160400	Common	Common	Mystic	精神結界 04	False	On	icon_skills.areampgain_tex
+160450	Common	Common	Mystic	精神結界 04	False	Off	icon_skills.areampgain_tex
+160500	Common	Common	Mystic	精神結界 05	False	On	icon_skills.areampgain_tex
+160550	Common	Common	Mystic	精神結界 05	False	Off	icon_skills.areampgain_tex
+
+170100	Common	Common	Mystic	瞬間移動 01	False		icon_skills.shortteleport_tex
+170200	Common	Common	Mystic	瞬間移動 02	False		icon_skills.shortteleport_tex
+170300	Common	Common	Mystic	瞬間移動 03	False		icon_skills.shortteleport_tex
+170400	Common	Common	Mystic	瞬間移動 04	False		icon_skills.shortteleport_tex
+170500	Common	Common	Mystic	瞬間移動 05	False		icon_skills.shortteleport_tex
+170600	Common	Common	Mystic	瞬間移動 06	False		icon_skills.shortteleport_tex
+170700	Common	Common	Mystic	瞬間移動 07	False		icon_skills.shortteleport_tex
+170800	Common	Common	Mystic	瞬間移動 08	False		icon_skills.shortteleport_tex
+170900	Common	Common	Mystic	瞬間移動 09	False		icon_skills.shortteleport_tex
+171000	Common	Common	Mystic	瞬間移動 10	False		icon_skills.shortteleport_tex
+171100	Common	Common	Mystic	瞬間移動 11	False		icon_skills.shortteleport_tex
+
+180100	Common	Common	Mystic	恢復精氣 01	False		icon_skills.hprefresher_tex
+180110	Common	Common	Mystic	恢復精氣 01	False		icon_skills.hprefresher_tex
+180200	Common	Common	Mystic	恢復精氣 02	False		icon_skills.hprefresher_tex
+180210	Common	Common	Mystic	恢復精氣 02	False		icon_skills.hprefresher_tex
+180300	Common	Common	Mystic	恢復精氣 03	False		icon_skills.hprefresher_tex
+180310	Common	Common	Mystic	恢復精氣 03	False		icon_skills.hprefresher_tex
+180400	Common	Common	Mystic	恢復精氣 04	False		icon_skills.hprefresher_tex
+180410	Common	Common	Mystic	恢復精氣 04	False		icon_skills.hprefresher_tex
+180500	Common	Common	Mystic	恢復精氣 05	False		icon_skills.hprefresher_tex
+180510	Common	Common	Mystic	恢復精氣 05	False		icon_skills.hprefresher_tex
+180600	Common	Common	Mystic	恢復精氣 06	False		icon_skills.hprefresher_tex
+180610	Common	Common	Mystic	恢復精氣 06	False		icon_skills.hprefresher_tex
+180700	Common	Common	Mystic	恢復精氣 07	False		icon_skills.hprefresher_tex
+180710	Common	Common	Mystic	恢復精氣 07	False		icon_skills.hprefresher_tex
+180800	Common	Common	Mystic	恢復精氣 08	False		icon_skills.hprefresher_tex
+180810	Common	Common	Mystic	恢復精氣 08	False		icon_skills.hprefresher_tex
+180900	Common	Common	Mystic	恢復精氣 09	False		icon_skills.hprefresher_tex
+180910	Common	Common	Mystic	恢復精氣 09	False		icon_skills.hprefresher_tex
+181000	Common	Common	Mystic	恢復精氣 10	False		icon_skills.hprefresher_tex
+181010	Common	Common	Mystic	恢復精氣 10	False		icon_skills.hprefresher_tex
+181100	Common	Common	Mystic	恢復精氣 11	False		icon_skills.hprefresher_tex
+181110	Common	Common	Mystic	恢復精氣 11	False		icon_skills.hprefresher_tex
+181200	Common	Common	Mystic	恢復精氣 12	False		icon_skills.hprefresher_tex
+181210	Common	Common	Mystic	恢復精氣 12	False		icon_skills.hprefresher_tex
+181300	Common	Common	Mystic	恢復精氣 13	False		icon_skills.hprefresher_tex
+181310	Common	Common	Mystic	恢復精氣 13	False		icon_skills.hprefresher_tex
+181400	Common	Common	Mystic	恢復精氣 14	False		icon_skills.hprefresher_tex
+181410	Common	Common	Mystic	恢復精氣 14	False		icon_skills.hprefresher_tex
+181500	Common	Common	Mystic	恢復精氣 15	False		icon_skills.hprefresher_tex
+181510	Common	Common	Mystic	恢復精氣 15	False		icon_skills.hprefresher_tex
+
+210100	Common	Common	Mystic	起身攻擊 01	False		icon_skills.risingattack_tex
+210200	Common	Common	Mystic	起身攻擊 02	False		icon_skills.risingattack_tex
+210300	Common	Common	Mystic	起身攻擊 03	False		icon_skills.risingattack_tex
+210400	Common	Common	Mystic	起身攻擊 04	False		icon_skills.risingattack_tex
+210500	Common	Common	Mystic	起身攻擊 05	False		icon_skills.risingattack_tex
+210600	Common	Common	Mystic	起身攻擊 06	False		icon_skills.risingattack_tex
+210700	Common	Common	Mystic	起身攻擊 07	False		icon_skills.risingattack_tex
+210800	Common	Common	Mystic	起身攻擊 08	False		icon_skills.risingattack_tex
+210900	Common	Common	Mystic	起身攻擊 09	False		icon_skills.risingattack_tex
+211000	Common	Common	Mystic	起身攻擊 10	False		icon_skills.risingattack_tex
+211100	Common	Common	Mystic	起身攻擊 11	False		icon_skills.risingattack_tex
+211200	Common	Common	Mystic	起身攻擊 12	False		icon_skills.risingattack_tex
+
+220100	Common	Common	Mystic	魔力精氣 01	False		icon_skills.mprefresher_tex
+220110	Common	Common	Mystic	魔力精氣 01	False		icon_skills.mprefresher_tex
+220200	Common	Common	Mystic	魔力精氣 02	False		icon_skills.mprefresher_tex
+220210	Common	Common	Mystic	魔力精氣 02	False		icon_skills.mprefresher_tex
+
+230100	Common	Common	Mystic	大地之怒 01	False		icon_skills.rageofearth_tex
+230130	Common	Common	Mystic	大地之怒 01	True		icon_skills.rageofearth_tex
+230200	Common	Common	Mystic	大地之怒 02	False		icon_skills.rageofearth_tex
+230230	Common	Common	Mystic	大地之怒 02	True		icon_skills.rageofearth_tex
+230300	Common	Common	Mystic	大地之怒 03	False		icon_skills.rageofearth_tex
+230330	Common	Common	Mystic	大地之怒 03	True		icon_skills.rageofearth_tex
+230400	Common	Common	Mystic	大地之怒 04	False		icon_skills.rageofearth_tex
+230430	Common	Common	Mystic	大地之怒 04	True		icon_skills.rageofearth_tex
+230500	Common	Common	Mystic	大地之怒 05	False		icon_skills.rageofearth_tex
+230530	Common	Common	Mystic	大地之怒 05	True		icon_skills.rageofearth_tex
+230600	Common	Common	Mystic	大地之怒 06	False		icon_skills.rageofearth_tex
+230630	Common	Common	Mystic	大地之怒 06	True		icon_skills.rageofearth_tex
+230700	Common	Common	Mystic	大地之怒 07	False		icon_skills.rageofearth_tex
+230730	Common	Common	Mystic	大地之怒 07	True		icon_skills.rageofearth_tex
+230800	Common	Common	Mystic	大地之怒 08	False		icon_skills.rageofearth_tex
+230830	Common	Common	Mystic	大地之怒 08	True		icon_skills.rageofearth_tex
+230900	Common	Common	Mystic	大地之怒 09	False		icon_skills.rageofearth_tex
+230930	Common	Common	Mystic	大地之怒 09	True		icon_skills.rageofearth_tex
+231000	Common	Common	Mystic	大地之怒 10	False		icon_skills.rageofearth_tex
+231030	Common	Common	Mystic	大地之怒 10	True		icon_skills.rageofearth_tex
+231100	Common	Common	Mystic	大地之怒 11	False		icon_skills.rageofearth_tex
+231130	Common	Common	Mystic	大地之怒 11	True		icon_skills.rageofearth_tex
+
+240100	Common	Common	Mystic	痛苦咒縛 01	False		icon_skills.painfulshackle_tex
+240110	Common	Common	Mystic	痛苦咒縛 01	False		icon_skills.painfulshackle_tex
+240200	Common	Common	Mystic	痛苦咒縛 02	False		icon_skills.painfulshackle_tex
+240210	Common	Common	Mystic	痛苦咒縛 02	False		icon_skills.painfulshackle_tex
+240300	Common	Common	Mystic	痛苦咒縛 03	False		icon_skills.painfulshackle_tex
+240310	Common	Common	Mystic	痛苦咒縛 03	False		icon_skills.painfulshackle_tex
+240400	Common	Common	Mystic	痛苦咒縛 04	False		icon_skills.painfulshackle_tex
+240410	Common	Common	Mystic	痛苦咒縛 04	False		icon_skills.painfulshackle_tex
+240500	Common	Common	Mystic	痛苦咒縛 05	False		icon_skills.painfulshackle_tex
+240510	Common	Common	Mystic	痛苦咒縛 05	False		icon_skills.painfulshackle_tex
+240600	Common	Common	Mystic	痛苦咒縛 06	False		icon_skills.painfulshackle_tex
+240610	Common	Common	Mystic	痛苦咒縛 06	False		icon_skills.painfulshackle_tex
+240700	Common	Common	Mystic	痛苦咒縛 07	False		icon_skills.painfulshackle_tex
+240710	Common	Common	Mystic	痛苦咒縛 07	False		icon_skills.painfulshackle_tex
+240800	Common	Common	Mystic	痛苦咒縛 08	False		icon_skills.painfulshackle_tex
+240810	Common	Common	Mystic	痛苦咒縛 08	False		icon_skills.painfulshackle_tex
+240900	Common	Common	Mystic	痛苦咒縛 09	False		icon_skills.painfulshackle_tex
+240910	Common	Common	Mystic	痛苦咒縛 09	False		icon_skills.painfulshackle_tex
+241000	Common	Common	Mystic	痛苦咒縛 10	False		icon_skills.painfulshackle_tex
+241010	Common	Common	Mystic	痛苦咒縛 10	False		icon_skills.painfulshackle_tex
+241100	Common	Common	Mystic	痛苦咒縛 11	False		icon_skills.painfulshackle_tex
+241110	Common	Common	Mystic	痛苦咒縛 11	False		icon_skills.painfulshackle_tex
+241200	Common	Common	Mystic	痛苦咒縛 12	False		icon_skills.painfulshackle_tex
+241210	Common	Common	Mystic	痛苦咒縛 12	False		icon_skills.painfulshackle_tex
+
+250100	Common	Common	Mystic	精靈召喚：守護精靈 01	False		icon_skills.summonspiritofaggro_tex
+250200	Common	Common	Mystic	精靈召喚：守護精靈 02	False		icon_skills.summonspiritofaggro_tex
+250300	Common	Common	Mystic	精靈召喚：守護精靈 03	False		icon_skills.summonspiritofaggro_tex
+250310	Common	Common	Mystic	精靈召喚：守護精靈 03	False		icon_skills.summonspiritofaggro_tex
+250330	Common	Common	Mystic	精靈召喚：守護精靈 02	False		icon_skills.summonspiritofaggro_tex
+250400	Common	Common	Mystic	精靈召喚：守護精靈 04	False		icon_skills.summonspiritofaggro_tex
+250500	Common	Common	Mystic	精靈召喚：守護精靈 05	False		icon_skills.summonspiritofaggro_tex
+250600	Common	Common	Mystic	精靈召喚：守護精靈 06	False		icon_skills.summonspiritofaggro_tex
+250700	Common	Common	Mystic	精靈召喚：守護精靈 07	False		icon_skills.summonspiritofaggro_tex
+250800	Common	Common	Mystic	精靈召喚：守護精靈 08	False		icon_skills.summonspiritofaggro_tex
+250900	Common	Common	Mystic	精靈召喚：守護精靈 09	False		icon_skills.summonspiritofaggro_tex
+251000	Common	Common	Mystic	精靈召喚：守護精靈 10	False		icon_skills.summonspiritofaggro_tex
+251100	Common	Common	Mystic	精靈召喚：守護精靈 11	False		icon_skills.summonspiritofaggro_tex
+251200	Common	Common	Mystic	精靈召喚：守護精靈 12	False		icon_skills.summonspiritofaggro_tex
+251300	Common	Common	Mystic	精靈召喚：守護精靈 13	False		icon_skills.summonspiritofaggro_tex
+251400	Common	Common	Mystic	精靈召喚：守護精靈 14	False		icon_skills.summonspiritofaggro_tex
+251500	Common	Common	Mystic	精靈召喚：守護精靈 15	False		icon_skills.summonspiritofaggro_tex
+251600	Common	Common	Mystic	精靈召喚：守護精靈 XVI	False		icon_skills.summonspiritofaggro_tex
+251700	Common	Common	Mystic	精靈召喚：守護精靈 XVII	False		icon_skills.summonspiritofaggro_tex
+251800	Common	Common	Mystic	精靈召喚：守護精靈 XVIII	False		icon_skills.summonspiritofaggro_tex
+251900	Common	Common	Mystic	精靈召喚：守護精靈 XIX	False		icon_skills.summonspiritofaggro_tex
+
+270100	Common	Common	Mystic	精靈召喚：生命精靈 01	False		icon_skills.summonspiritofheal_tex
+270200	Common	Common	Mystic	精靈召喚：生命精靈 02	False		icon_skills.summonspiritofheal_tex
+270300	Common	Common	Mystic	精靈召喚：生命精靈 03	False		icon_skills.summonspiritofheal_tex
+270400	Common	Common	Mystic	精靈召喚：生命精靈 04	False		icon_skills.summonspiritofheal_tex
+270500	Common	Common	Mystic	精靈召喚：生命精靈 05	False		icon_skills.summonspiritofheal_tex
+270600	Common	Common	Mystic	精靈召喚：生命精靈 06	False		icon_skills.summonspiritofheal_tex
+270700	Common	Common	Mystic	精靈召喚：生命精靈 07	False		icon_skills.summonspiritofheal_tex
+270800	Common	Common	Mystic	精靈召喚：生命精靈 08	False		icon_skills.summonspiritofheal_tex
+270900	Common	Common	Mystic	精靈召喚：生命精靈 09	False		icon_skills.summonspiritofheal_tex
+271000	Common	Common	Mystic	精靈召喚：生命精靈 10	False		icon_skills.summonspiritofheal_tex
+271100	Common	Common	Mystic	精靈召喚：生命精靈 11	False		icon_skills.summonspiritofheal_tex
+271200	Common	Common	Mystic	精靈召喚：生命精靈 12	False		icon_skills.summonspiritofheal_tex
+271300	Common	Common	Mystic	精靈召喚：生命精靈 13	False		icon_skills.summonspiritofheal_tex
+271310	Common	Common	Mystic	精靈召喚：生命精靈 13	False		icon_skills.summonspiritofheal_tex
+271330	Common	Common	Mystic	精靈召喚：生命精靈 13	False		icon_skills.summonspiritofheal_tex
+271400	Common	Common	Mystic	精靈召喚：生命精靈 14	False		icon_skills.summonspiritofheal_tex
+271500	Common	Common	Mystic	精靈召喚：生命精靈 15	False		icon_skills.summonspiritofheal_tex
+271600	Common	Common	Mystic	精靈召喚：生命精靈 XVI	False		icon_skills.summonspiritofheal_tex
+
+280100	Common	Common	Mystic	流沙束縛 01	False		icon_skills.shackleofquicksand_tex
+280110	Common	Common	Mystic	流沙束縛 01	False		icon_skills.shackleofquicksand_tex
+280200	Common	Common	Mystic	流沙束縛 02	False		icon_skills.shackleofquicksand_tex
+280210	Common	Common	Mystic	流沙束縛 02	False		icon_skills.shackleofquicksand_tex
+280300	Common	Common	Mystic	流沙束縛 03	False		icon_skills.shackleofquicksand_tex
+280310	Common	Common	Mystic	流沙束縛 03	False		icon_skills.shackleofquicksand_tex
+280400	Common	Common	Mystic	流沙束縛 04	False		icon_skills.shackleofquicksand_tex
+280410	Common	Common	Mystic	流沙束縛 04	False		icon_skills.shackleofquicksand_tex
+280500	Common	Common	Mystic	流沙束縛 05	False		icon_skills.shackleofquicksand_tex
+280510	Common	Common	Mystic	流沙束縛 05	False		icon_skills.shackleofquicksand_tex
+280600	Common	Common	Mystic	流沙束縛 06	False		icon_skills.shackleofquicksand_tex
+280610	Common	Common	Mystic	流沙束縛 06	False		icon_skills.shackleofquicksand_tex
+
+290100	Common	Common	Mystic	解除祝福 01	False		icon_skills.dispell_tex
+290200	Common	Common	Mystic	解除祝福 02	False		icon_skills.dispell_tex
+290300	Common	Common	Mystic	解除祝福 03	False		icon_skills.dispell_tex
+290400	Common	Common	Mystic	解除祝福 04	False		icon_skills.dispell_tex
+290500	Common	Common	Mystic	解除祝福 05	False		icon_skills.dispell_tex
+290600	Common	Common	Mystic	解除祝福 06	False		icon_skills.dispell_tex
+
+300100	Common	Common	Mystic	慵懶詛咒 01	False		icon_skills.spiritoflassitude_tex
+300110	Common	Common	Mystic	慵懶詛咒 01	False		icon_skills.spiritoflassitude_tex
+300200	Common	Common	Mystic	慵懶詛咒 02	False		icon_skills.spiritoflassitude_tex
+300210	Common	Common	Mystic	慵懶詛咒 02	False		icon_skills.spiritoflassitude_tex
+300300	Common	Common	Mystic	慵懶詛咒 03	False		icon_skills.spiritoflassitude_tex
+300310	Common	Common	Mystic	慵懶詛咒 03	False		icon_skills.spiritoflassitude_tex
+300400	Common	Common	Mystic	慵懶詛咒 04	False		icon_skills.spiritoflassitude_tex
+300410	Common	Common	Mystic	慵懶詛咒 04	False		icon_skills.spiritoflassitude_tex
+300500	Common	Common	Mystic	慵懶詛咒 05	False		icon_skills.spiritoflassitude_tex
+300510	Common	Common	Mystic	慵懶詛咒 05	False		icon_skills.spiritoflassitude_tex
+300600	Common	Common	Mystic	慵懶詛咒 06	False		icon_skills.spiritoflassitude_tex
+300610	Common	Common	Mystic	慵懶詛咒 06	False		icon_skills.spiritoflassitude_tex
+
+310100	Common	Common	Mystic	混沌詛咒 01	False		icon_skills.spiritofconfusion_tex
+310110	Common	Common	Mystic	混沌詛咒 01	False		icon_skills.spiritofconfusion_tex
+310200	Common	Common	Mystic	混沌詛咒 02	False		icon_skills.spiritofconfusion_tex
+310210	Common	Common	Mystic	混沌詛咒 02	False		icon_skills.spiritofconfusion_tex
+310300	Common	Common	Mystic	混沌詛咒 03	False		icon_skills.spiritofconfusion_tex
+310310	Common	Common	Mystic	混沌詛咒 03	False		icon_skills.spiritofconfusion_tex
+310400	Common	Common	Mystic	混沌詛咒 04	False		icon_skills.spiritofconfusion_tex
+310410	Common	Common	Mystic	混沌詛咒 04	False		icon_skills.spiritofconfusion_tex
+310500	Common	Common	Mystic	混沌詛咒 05	False		icon_skills.spiritofconfusion_tex
+310510	Common	Common	Mystic	混沌詛咒 05	False		icon_skills.spiritofconfusion_tex
+
+320100	Common	Common	Mystic	岩石束縛 01	False		icon_skills.shackleofstone_tex
+320110	Common	Common	Mystic	岩石束縛 01	False		icon_skills.shackleofstone_tex
+320200	Common	Common	Mystic	岩石束縛 02	False		icon_skills.shackleofstone_tex
+320210	Common	Common	Mystic	岩石束縛 02	False		icon_skills.shackleofstone_tex
+320300	Common	Common	Mystic	岩石束縛 03	False		icon_skills.shackleofstone_tex
+320310	Common	Common	Mystic	岩石束縛 03	False		icon_skills.shackleofstone_tex
+320400	Common	Common	Mystic	岩石束縛 04	False		icon_skills.shackleofstone_tex
+320410	Common	Common	Mystic	岩石束縛 04	False		icon_skills.shackleofstone_tex
+320500	Common	Common	Mystic	岩石束縛 05	False		icon_skills.shackleofstone_tex
+320510	Common	Common	Mystic	岩石束縛 05	False		icon_skills.shackleofstone_tex
+320600	Common	Common	Mystic	岩石束縛 06	False		icon_skills.shackleofstone_tex
+320610	Common	Common	Mystic	岩石束縛 06	False		icon_skills.shackleofstone_tex
+
+330100	Common	Common	Mystic	召喚精靈：閃電精靈 01	False		icon_skills.summonspiritofrange_tex
+330200	Common	Common	Mystic	召喚精靈：閃電精靈 02	False		icon_skills.summonspiritofrange_tex
+330300	Common	Common	Mystic	召喚精靈：閃電精靈 03	False		icon_skills.summonspiritofrange_tex
+330400	Common	Common	Mystic	召喚精靈：閃電精靈 04	False		icon_skills.summonspiritofrange_tex
+330500	Common	Common	Mystic	召喚精靈：閃電精靈 05	False		icon_skills.summonspiritofrange_tex
+330600	Common	Common	Mystic	召喚精靈：閃電精靈 06	False		icon_skills.summonspiritofrange_tex
+330700	Common	Common	Mystic	召喚精靈：閃電精靈 07	False		icon_skills.summonspiritofrange_tex
+330800	Common	Common	Mystic	召喚精靈：閃電精靈 08	False		icon_skills.summonspiritofrange_tex
+330900	Common	Common	Mystic	召喚精靈：閃電精靈 09	False		icon_skills.summonspiritofrange_tex
+331000	Common	Common	Mystic	召喚精靈：閃電精靈 10	False		icon_skills.summonspiritofrange_tex
+331100	Common	Common	Mystic	召喚精靈：閃電精靈 11	False		icon_skills.summonspiritofrange_tex
+331200	Common	Common	Mystic	召喚精靈：閃電精靈 12	False		icon_skills.summonspiritofrange_tex
+331210	Common	Common	Mystic	召喚精靈：閃電精靈 12	False		icon_skills.summonspiritofrange_tex
+331230	Common	Common	Mystic	召喚精靈：閃電精靈 02	False		icon_skills.summonspiritofrange_tex
+331300	Common	Common	Mystic	召喚精靈：閃電精靈 13	False		icon_skills.summonspiritofrange_tex
+331400	Common	Common	Mystic	召喚精靈：閃電精靈 14	False		icon_skills.summonspiritofrange_tex
+331500	Common	Common	Mystic	召喚精靈：閃電精靈 15	False		icon_skills.summonspiritofrange_tex
+331600	Common	Common	Mystic	召喚精靈：閃電精靈 XVI	False		icon_skills.summonspiritofrange_tex
+331700	Common	Common	Mystic	召喚精靈：閃電精靈 XVII	False		icon_skills.summonspiritofrange_tex
+340100	Common	Common	Mystic	召喚精靈：破壞精靈 01	False		icon_skills.summonspiritofattack_tex
+340200	Common	Common	Mystic	召喚精靈：破壞精靈 02	False		icon_skills.summonspiritofattack_tex
+340300	Common	Common	Mystic	召喚精靈：破壞精靈 03	False		icon_skills.summonspiritofattack_tex
+340400	Common	Common	Mystic	召喚精靈：破壞精靈 04	False		icon_skills.summonspiritofattack_tex
+340500	Common	Common	Mystic	召喚精靈：破壞精靈 05	False		icon_skills.summonspiritofattack_tex
+340600	Common	Common	Mystic	召喚精靈：破壞精靈 06	False		icon_skills.summonspiritofattack_tex
+340700	Common	Common	Mystic	召喚精靈：破壞精靈 07	False		icon_skills.summonspiritofattack_tex
+340710	Common	Common	Mystic	召喚精靈：破壞精靈 07	False		icon_skills.summonspiritofattack_tex
+340730	Common	Common	Mystic	召喚精靈：破壞精靈 02	False		icon_skills.summonspiritofattack_tex
+340800	Common	Common	Mystic	召喚精靈：破壞精靈 08	False		icon_skills.summonspiritofattack_tex
+340900	Common	Common	Mystic	召喚精靈：破壞精靈 09	False		icon_skills.summonspiritofattack_tex
+341000	Common	Common	Mystic	召喚精靈：破壞精靈 10	False		icon_skills.summonspiritofattack_tex
+341100	Common	Common	Mystic	召喚精靈：破壞精靈 11	False		icon_skills.summonspiritofattack_tex
+341200	Common	Common	Mystic	召喚精靈：破壞精靈 12	False		icon_skills.summonspiritofattack_tex
+341300	Common	Common	Mystic	召喚精靈：破壞精靈 13	False		icon_skills.summonspiritofattack_tex
+341400	Common	Common	Mystic	召喚精靈：破壞精靈 14	False		icon_skills.summonspiritofattack_tex
+341500	Common	Common	Mystic	召喚精靈：破壞精靈 15	False		icon_skills.summonspiritofattack_tex
+341600	Common	Common	Mystic	召喚精靈：破壞精靈 XVI	False		icon_skills.summonspiritofattack_tex
+
+350100	Common	Common	Mystic	命令：攻擊	False		icon_skills.petorderattack_tex
+360100	Common	Common	Mystic	命令：跟隨	False		icon_skills.petorderfollowme_tex
+
+370100	Common	Common	Mystic	靈氣召喚 - 庇護 01	False		icon_skills.energiesofprotection_tex
+370200	Common	Common	Mystic	靈氣召喚 - 庇護 02	False		icon_skills.energiesofprotection_tex
+370300	Common	Common	Mystic	靈氣召喚 - 庇護 03	False		icon_skills.energiesofprotection_tex
+370400	Common	Common	Mystic	靈氣召喚 - 庇護 04	False		icon_skills.energiesofprotection_tex
+370500	Common	Common	Mystic	靈氣召喚 - 庇護 05	False		icon_skills.energiesofprotection_tex
+380100	Common	Common	Mystic	靈氣召喚 - 束縛 01	False		icon_skills.energiesofrestriction_tex
+380200	Common	Common	Mystic	靈氣召喚 - 束縛 02	False		icon_skills.energiesofrestriction_tex
+390100	Common	Common	Mystic	靈氣召喚 - 迅速 01	False		icon_skills.energiesofquickness_tex
+390200	Common	Common	Mystic	靈氣召喚 - 迅速 02	False		icon_skills.energiesofquickness_tex
+400100	Common	Common	Mystic	靈氣召喚 - 意志 01	False		icon_skills.energiesofwillpower_tex
+400200	Common	Common	Mystic	靈氣召喚 - 意志 02	False		icon_skills.energiesofwillpower_tex
+
+410100	Common	Common	Mystic	疫病長槍 01	False		icon_skills.plague_tex
+410110	Common	Common	Mystic	疫病長槍 01	False		icon_skills.plague_tex
+410200	Common	Common	Mystic	疫病猖獗 02	False		icon_skills.plague_tex
+410210	Common	Common	Mystic	疫病長槍 02	False		icon_skills.plague_tex
+410300	Common	Common	Mystic	疫病猖獗 03	False		icon_skills.plague_tex
+410310	Common	Common	Mystic	疫病長槍 03	False		icon_skills.plague_tex
+410400	Common	Common	Mystic	疫病猖獗 04	False		icon_skills.plague_tex
+410410	Common	Common	Mystic	疫病長槍 04	False		icon_skills.plague_tex
+410500	Common	Common	Mystic	疫病猖獗 05	False		icon_skills.plague_tex
+410510	Common	Common	Mystic	疫病長槍 05	False		icon_skills.plague_tex
+410600	Common	Common	Mystic	疫病猖獗 06	False		icon_skills.plague_tex
+410610	Common	Common	Mystic	疫病長槍 06	False		icon_skills.plague_tex
+410700	Common	Common	Mystic	疫病猖獗 07	False		icon_skills.plague_tex
+410710	Common	Common	Mystic	疫病長槍 07	False		icon_skills.plague_tex
+410800	Common	Common	Mystic	疫病猖獗 08	False		icon_skills.plague_tex
+410810	Common	Common	Mystic	疫病長槍 08	False		icon_skills.plague_tex
+410900	Common	Common	Mystic	疫病猖獗 09	False		icon_skills.plague_tex
+410910	Common	Common	Mystic	疫病長槍 09	False		icon_skills.plague_tex
+
+420100	Common	Common	Mystic	神秘晶球 01	False		icon_skills.mysticorb_tex
+420120	Common	Common	Mystic	神秘晶球 01	False		icon_skills.mysticorb_tex
+420200	Common	Common	Mystic	神秘晶球 02	False		icon_skills.mysticorb_tex
+420220	Common	Common	Mystic	神秘晶球 02	False		icon_skills.mysticorb_tex
+420300	Common	Common	Mystic	神秘晶球 03	False		icon_skills.mysticorb_tex
+420320	Common	Common	Mystic	神秘晶球 03	False		icon_skills.mysticorb_tex
+420400	Common	Common	Mystic	神秘晶球 04	False		icon_skills.mysticorb_tex
+420420	Common	Common	Mystic	神秘晶球 04	False		icon_skills.mysticorb_tex
+420500	Common	Common	Mystic	神秘晶球 05	False		icon_skills.mysticorb_tex
+420520	Common	Common	Mystic	神秘晶球 05	False		icon_skills.mysticorb_tex
+420600	Common	Common	Mystic	神秘晶球 06	False		icon_skills.mysticorb_tex
+420620	Common	Common	Mystic	神秘晶球 06	False		icon_skills.mysticorb_tex
+420700	Common	Common	Mystic	神秘晶球 07	False		icon_skills.mysticorb_tex
+420720	Common	Common	Mystic	神秘晶球 07	False		icon_skills.mysticorb_tex
+420800	Common	Common	Mystic	神秘晶球 08	False		icon_skills.mysticorb_tex
+420820	Common	Common	Mystic	神秘晶球 08	False		icon_skills.mysticorb_tex
+420900	Common	Common	Mystic	神秘晶球 09	False		icon_skills.mysticorb_tex
+420920	Common	Common	Mystic	神秘晶球 09	False		icon_skills.mysticorb_tex
+421000	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+421020	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+423000	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+423020	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+423100	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+423120	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+423200	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+423220	Common	Common	Mystic	神秘晶球 10	False		icon_skills.mysticorb_tex
+
+430100	Common	Common	Mystic	解除精靈	False		icon_skills.petskill_buff_tex
+
+440100	Common	Common	Mystic	瞬間移動	False		icon_skills.masstel_tex
+
+450100	Common	Common	Mystic	元素化	False	On	icon_skills.spiritedness_tex
+450150	Common	Common	Mystic	元素化	False	Off	icon_skills.spiritedness_tex
+
+460100	Common	Common	Mystic	召喚元素王			icon_skills.summonspiritking_tex
+
+470100	Common	Common	Mystic	魔力爆發	False		icon_skills.marbleexplosion_tex
+
+480100	Common	Common	Mystic	召喚元素王	False		icon_skills.summonspiritking_tex
+
+9100100	Common	Common	Mystic	覺醒氣息	False		icon_skills.awakenaura_tex

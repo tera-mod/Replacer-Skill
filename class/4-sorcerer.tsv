@@ -1,0 +1,612 @@
+10100	Common	Common	Sorcerer	火焰球 01	False		icon_skills.fireball_tex
+10200	Common	Common	Sorcerer	火焰球 02	False		icon_skills.fireball_tex
+10300	Common	Common	Sorcerer	火焰球 03	False		icon_skills.fireball_tex
+10400	Common	Common	Sorcerer	火焰球 04	False		icon_skills.fireball_tex
+10500	Common	Common	Sorcerer	火焰球 05	False		icon_skills.fireball_tex
+10600	Common	Common	Sorcerer	火焰球 06	False		icon_skills.fireball_tex
+10700	Common	Common	Sorcerer	火焰球 07	False		icon_skills.fireball_tex
+10800	Common	Common	Sorcerer	火焰球 08	False		icon_skills.fireball_tex
+10900	Common	Common	Sorcerer	火焰球 09	False		icon_skills.fireball_tex
+11000	Common	Common	Sorcerer	火焰球 10	False		icon_skills.fireball_tex
+11100	Common	Common	Sorcerer	火焰球 11	False		icon_skills.fireball_tex
+11200	Common	Common	Sorcerer	火焰球 12	False		icon_skills.fireball_tex
+11300	Common	Common	Sorcerer	火焰球 13	False		icon_skills.fireball_tex
+11400	Common	Common	Sorcerer	火焰球 14	False		icon_skills.fireball_tex
+11500	Common	Common	Sorcerer	火焰球 15	False		icon_skills.fireball_tex
+
+20100	Common	Common	Sorcerer	凝霜術 01	False		icon_skills.c5_iceorb
+20120	Common	Common	Sorcerer	凝霜術 01	False		icon_skills.c5_iceorb
+20121	Common	Common	Sorcerer	凝霜術 01	False	stopping	icon_skills.c5_iceorb
+20200	Common	Common	Sorcerer	凝霜術 02	False		icon_skills.c5_iceorb
+20220	Common	Common	Sorcerer	凝霜術 02	False		icon_skills.c5_iceorb
+20221	Common	Common	Sorcerer	凝霜術 02	False	stopping	icon_skills.c5_iceorb
+20300	Common	Common	Sorcerer	凝霜術 03	False		icon_skills.c5_iceorb
+20320	Common	Common	Sorcerer	凝霜術 03	False		icon_skills.c5_iceorb
+20321	Common	Common	Sorcerer	凝霜術 03	False	stopping	icon_skills.c5_iceorb
+20400	Common	Common	Sorcerer	凝霜術 04	False		icon_skills.c5_iceorb
+20420	Common	Common	Sorcerer	凝霜術 04	False		icon_skills.c5_iceorb
+20421	Common	Common	Sorcerer	凝霜術 04	False	stopping	icon_skills.c5_iceorb
+20500	Common	Common	Sorcerer	凝霜術 05	False		icon_skills.c5_iceorb
+20520	Common	Common	Sorcerer	凝霜術 05	False		icon_skills.c5_iceorb
+20521	Common	Common	Sorcerer	凝霜術 05	False	stopping	icon_skills.c5_iceorb
+20600	Common	Common	Sorcerer	凝霜術 06	False		icon_skills.c5_iceorb
+20620	Common	Common	Sorcerer	凝霜術 06	False		icon_skills.c5_iceorb
+20621	Common	Common	Sorcerer	凝霜術 06	False	stopping	icon_skills.c5_iceorb
+20700	Common	Common	Sorcerer	凝霜術 07	False		icon_skills.c5_iceorb
+20720	Common	Common	Sorcerer	凝霜術 07	False		icon_skills.c5_iceorb
+20721	Common	Common	Sorcerer	凝霜術 07	False	stopping	icon_skills.c5_iceorb
+20800	Common	Common	Sorcerer	凝霜術 08	False		icon_skills.c5_iceorb
+20820	Common	Common	Sorcerer	凝霜術 08	False		icon_skills.c5_iceorb
+20821	Common	Common	Sorcerer	凝霜術 08	False	stopping	icon_skills.c5_iceorb
+20900	Common	Common	Sorcerer	凝霜術 09	False		icon_skills.c5_iceorb
+20920	Common	Common	Sorcerer	凝霜術 09	False		icon_skills.c5_iceorb
+20921	Common	Common	Sorcerer	凝霜術 09	False	stopping	icon_skills.c5_iceorb
+
+21000	Common	Common	Sorcerer	凝霜術 10	False		icon_skills.c5_iceorb
+21020	Common	Common	Sorcerer	凝霜術 10	False		icon_skills.c5_iceorb
+21021	Common	Common	Sorcerer	凝霜術 10	False	stopping	icon_skills.c5_iceorb
+21100	Common	Common	Sorcerer	凝霜術 11	False		icon_skills.c5_iceorb
+21120	Common	Common	Sorcerer	凝霜術 11	False		icon_skills.c5_iceorb
+21121	Common	Common	Sorcerer	凝霜術 11	False	stopping	icon_skills.c5_iceorb
+21200	Common	Common	Sorcerer	凝霜術 12	False		icon_skills.c5_iceorb
+21220	Common	Common	Sorcerer	凝霜術 12	False		icon_skills.c5_iceorb
+21221	Common	Common	Sorcerer	凝霜術 12	False	stopping	icon_skills.c5_iceorb
+21300	Common	Common	Sorcerer	凝霜術 13	False		icon_skills.c5_iceorb
+21320	Common	Common	Sorcerer	凝霜術 13	False		icon_skills.c5_iceorb
+21321	Common	Common	Sorcerer	凝霜術 13	False	stopping	icon_skills.c5_iceorb
+21400	Common	Common	Sorcerer	凝霜術 14	False		icon_skills.c5_iceorb
+21420	Common	Common	Sorcerer	凝霜術 14	False		icon_skills.c5_iceorb
+21421	Common	Common	Sorcerer	凝霜術 14	False	stopping	icon_skills.c5_iceorb
+21500	Common	Common	Sorcerer	凝霜術 15	False		icon_skills.c5_iceorb
+21520	Common	Common	Sorcerer	凝霜術 15	False		icon_skills.c5_iceorb
+21521	Common	Common	Sorcerer	凝霜術 15	False	stopping	icon_skills.c5_iceorb
+
+30100	Common	Common	Sorcerer	雷電刻印 01	False		icon_skills.shocktrap_tex
+30120	Common	Common	Sorcerer	雷電刻印 01	False		icon_skills.shocktrap_tex
+30200	Common	Common	Sorcerer	雷電刻印 02	False		icon_skills.shocktrap_tex
+30220	Common	Common	Sorcerer	雷電刻印 02	False		icon_skills.shocktrap_tex
+30300	Common	Common	Sorcerer	雷電刻印 03	False		icon_skills.shocktrap_tex
+30320	Common	Common	Sorcerer	雷電刻印 03	False		icon_skills.shocktrap_tex
+
+40100	Common	Common	Sorcerer	爆裂球 01	False		icon_skills.blastball_tex
+40110	Common	Common	Sorcerer	爆裂球 01	False	hit 1	icon_skills.blastball_tex
+40111	Common	Common	Sorcerer	爆裂球 01	False	hit 2	icon_skills.blastball_tex
+40112	Common	Common	Sorcerer	爆裂球 01	False	hit 3	icon_skills.blastball_tex
+40113	Common	Common	Sorcerer	爆裂球 01	False	hit 4	icon_skills.blastball_tex
+40120	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40121	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40122	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40123	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40200	Common	Common	Sorcerer	爆裂球 02	False		icon_skills.blastball_tex
+40210	Common	Common	Sorcerer	爆裂球 02	False	hit 1	icon_skills.blastball_tex
+40211	Common	Common	Sorcerer	爆裂球 02	False	hit 2	icon_skills.blastball_tex
+40212	Common	Common	Sorcerer	爆裂球 02	False	hit 3	icon_skills.blastball_tex
+40213	Common	Common	Sorcerer	爆裂球 02	False	hit 4	icon_skills.blastball_tex
+40220	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40221	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40222	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40223	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40300	Common	Common	Sorcerer	爆裂球 03	False		icon_skills.blastball_tex
+40310	Common	Common	Sorcerer	爆裂球 03	False	hit 1	icon_skills.blastball_tex
+40311	Common	Common	Sorcerer	爆裂球 03	False	hit 2	icon_skills.blastball_tex
+40312	Common	Common	Sorcerer	爆裂球 03	False	hit 3	icon_skills.blastball_tex
+40313	Common	Common	Sorcerer	爆裂球 03	False	hit 4	icon_skills.blastball_tex
+40320	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40321	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40322	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40323	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40400	Common	Common	Sorcerer	爆裂球 04	False		icon_skills.blastball_tex
+40410	Common	Common	Sorcerer	爆裂球 04	False	hit 1	icon_skills.blastball_tex
+40411	Common	Common	Sorcerer	爆裂球 04	False	hit 2	icon_skills.blastball_tex
+40412	Common	Common	Sorcerer	爆裂球 04	False	hit 3	icon_skills.blastball_tex
+40413	Common	Common	Sorcerer	爆裂球 04	False	hit 4	icon_skills.blastball_tex
+40420	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40421	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40422	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40423	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40500	Common	Common	Sorcerer	爆裂球 05	False		icon_skills.blastball_tex
+40510	Common	Common	Sorcerer	爆裂球 05	False	hit 1	icon_skills.blastball_tex
+40511	Common	Common	Sorcerer	爆裂球 05	False	hit 2	icon_skills.blastball_tex
+40512	Common	Common	Sorcerer	爆裂球 05	False	hit 3	icon_skills.blastball_tex
+40513	Common	Common	Sorcerer	爆裂球 05	False	hit 4	icon_skills.blastball_tex
+40520	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40521	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40522	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40523	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40600	Common	Common	Sorcerer	爆裂球 06	False		icon_skills.blastball_tex
+40610	Common	Common	Sorcerer	爆裂球 06	False	hit 1	icon_skills.blastball_tex
+40611	Common	Common	Sorcerer	爆裂球 06	False	hit 2	icon_skills.blastball_tex
+40612	Common	Common	Sorcerer	爆裂球 06	False	hit 3	icon_skills.blastball_tex
+40613	Common	Common	Sorcerer	爆裂球 06	False	hit 4	icon_skills.blastball_tex
+40620	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40621	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40622	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40623	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40700	Common	Common	Sorcerer	爆裂球 07	False		icon_skills.blastball_tex
+40710	Common	Common	Sorcerer	爆裂球 07	False	hit 1	icon_skills.blastball_tex
+40711	Common	Common	Sorcerer	爆裂球 07	False	hit 2	icon_skills.blastball_tex
+40712	Common	Common	Sorcerer	爆裂球 07	False	hit 3	icon_skills.blastball_tex
+40713	Common	Common	Sorcerer	爆裂球 07	False	hit 4	icon_skills.blastball_tex
+40720	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40721	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40722	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40723	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40800	Common	Common	Sorcerer	爆裂球 08	False		icon_skills.blastball_tex
+40810	Common	Common	Sorcerer	爆裂球 08	False	hit 1	icon_skills.blastball_tex
+40811	Common	Common	Sorcerer	爆裂球 08	False	hit 2	icon_skills.blastball_tex
+40812	Common	Common	Sorcerer	爆裂球 08	False	hit 3	icon_skills.blastball_tex
+40813	Common	Common	Sorcerer	爆裂球 08	False	hit 4	icon_skills.blastball_tex
+40820	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40821	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40822	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40823	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40900	Common	Common	Sorcerer	爆裂球 09	False		icon_skills.blastball_tex
+40910	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40911	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40912	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40913	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+40920	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+40921	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+40922	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+40923	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+41000	Common	Common	Sorcerer	爆裂球 10	False		icon_skills.blastball_tex
+41010	Common	Common	Sorcerer	爆裂球 10	False	hit 1	icon_skills.blastball_tex
+41011	Common	Common	Sorcerer	爆裂球 10	False	hit 2	icon_skills.blastball_tex
+41012	Common	Common	Sorcerer	爆裂球 10	False	hit 3	icon_skills.blastball_tex
+41013	Common	Common	Sorcerer	爆裂球 10	False	hit 4	icon_skills.blastball_tex
+41020	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+41021	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+41022	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+41023	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+41100	Common	Common	Sorcerer	爆裂球 11	False		icon_skills.blastball_tex
+41110	Common	Common	Sorcerer	爆裂球 11	False	hit 1	icon_skills.blastball_tex
+41111	Common	Common	Sorcerer	爆裂球 11	False	hit 2	icon_skills.blastball_tex
+41112	Common	Common	Sorcerer	爆裂球 11	False	hit 3	icon_skills.blastball_tex
+41113	Common	Common	Sorcerer	爆裂球 11	False	hit 4	icon_skills.blastball_tex
+41120	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+41121	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+41122	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+41123	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+41200	Common	Common	Sorcerer	爆裂球 12	False		icon_skills.blastball_tex
+41210	Common	Common	Sorcerer	爆裂球 12	False	hit 1	icon_skills.blastball_tex
+41211	Common	Common	Sorcerer	爆裂球 12	False	hit 2	icon_skills.blastball_tex
+41212	Common	Common	Sorcerer	爆裂球 12	False	hit 3	icon_skills.blastball_tex
+41213	Common	Common	Sorcerer	爆裂球 12	False	hit 4	icon_skills.blastball_tex
+41220	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+41221	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+41222	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+41223	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+41300	Common	Common	Sorcerer	爆裂球 13	False		icon_skills.blastball_tex
+41310	Common	Common	Sorcerer	爆裂球 13	False	hit 1	icon_skills.blastball_tex
+41311	Common	Common	Sorcerer	爆裂球 13	False	hit 2	icon_skills.blastball_tex
+41312	Common	Common	Sorcerer	爆裂球 13	False	hit 3	icon_skills.blastball_tex
+41313	Common	Common	Sorcerer	爆裂球 13	False	hit 4	icon_skills.blastball_tex
+41320	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+41321	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+41322	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+41323	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+41400	Common	Common	Sorcerer	爆裂球 14	False		icon_skills.blastball_tex
+41410	Common	Common	Sorcerer	爆裂球 14	False	hit 1	icon_skills.blastball_tex
+41411	Common	Common	Sorcerer	爆裂球 14	False	hit 2	icon_skills.blastball_tex
+41412	Common	Common	Sorcerer	爆裂球 14	False	hit 3	icon_skills.blastball_tex
+41413	Common	Common	Sorcerer	爆裂球 14	False	hit 4	icon_skills.blastball_tex
+41420	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+41421	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+41422	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+41423	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+41500	Common	Common	Sorcerer	爆裂球 15	False		icon_skills.blastball_tex
+41510	Common	Common	Sorcerer	爆裂球 15	False	hit 1	icon_skills.blastball_tex
+41511	Common	Common	Sorcerer	爆裂球 15	False	hit 2	icon_skills.blastball_tex
+41512	Common	Common	Sorcerer	爆裂球 15	False	hit 3	icon_skills.blastball_tex
+41513	Common	Common	Sorcerer	爆裂球 15	False	hit 4	icon_skills.blastball_tex
+41520	Common	Common	Sorcerer	爆裂球 09	False	hit 1	icon_skills.blastball_tex
+41521	Common	Common	Sorcerer	爆裂球 09	False	hit 2	icon_skills.blastball_tex
+41522	Common	Common	Sorcerer	爆裂球 09	False	hit 3	icon_skills.blastball_tex
+41523	Common	Common	Sorcerer	爆裂球 09	False	hit 4	icon_skills.blastball_tex
+
+50100	Common	Common	Sorcerer	魔力凝集 01	False		icon_skills.mpcondensing_tex
+50200	Common	Common	Sorcerer	魔力凝集 02	False		icon_skills.mpcondensing_tex
+50300	Common	Common	Sorcerer	魔力凝集 03	False		icon_skills.mpcondensing_tex
+50400	Common	Common	Sorcerer	魔力凝集 04	False		icon_skills.mpcondensing_tex
+50500	Common	Common	Sorcerer	魔力凝集 05	False		icon_skills.mpcondensing_tex
+50600	Common	Common	Sorcerer	魔力凝集 06	False		icon_skills.mpcondensing_tex
+60100	Common	Common	Sorcerer	隕石墜落 01	False		icon_skills.hellfire_tex
+60110	Common	Common	Sorcerer	隕石墜落 01	False		icon_skills.hellfire_tex
+60120	Common	Common	Sorcerer	隕石墜落 01	False		icon_skills.hellfire_tex
+60200	Common	Common	Sorcerer	隕石墜落 02	False		icon_skills.hellfire_tex
+60210	Common	Common	Sorcerer	隕石墜落 02	False		icon_skills.hellfire_tex
+60220	Common	Common	Sorcerer	隕石墜落 02	False		icon_skills.hellfire_tex
+60300	Common	Common	Sorcerer	隕石墜落 03	False		icon_skills.hellfire_tex
+60310	Common	Common	Sorcerer	隕石墜落 03	False		icon_skills.hellfire_tex
+60320	Common	Common	Sorcerer	隕石墜落 03	False		icon_skills.hellfire_tex
+60400	Common	Common	Sorcerer	隕石墜落 04	False		icon_skills.hellfire_tex
+60410	Common	Common	Sorcerer	隕石墜落 04	False		icon_skills.hellfire_tex
+60420	Common	Common	Sorcerer	隕石墜落 04	False		icon_skills.hellfire_tex
+60500	Common	Common	Sorcerer	隕石墜落 05	False		icon_skills.hellfire_tex
+60510	Common	Common	Sorcerer	隕石墜落 05	False		icon_skills.hellfire_tex
+60520	Common	Common	Sorcerer	隕石墜落 05	False		icon_skills.hellfire_tex
+60600	Common	Common	Sorcerer	隕石墜落 06	False		icon_skills.hellfire_tex
+60610	Common	Common	Sorcerer	隕石墜落 06	False		icon_skills.hellfire_tex
+60620	Common	Common	Sorcerer	隕石墜落 06	False		icon_skills.hellfire_tex
+60700	Common	Common	Sorcerer	隕石墜落 07	False		icon_skills.hellfire_tex
+60710	Common	Common	Sorcerer	隕石墜落 07	False		icon_skills.hellfire_tex
+60720	Common	Common	Sorcerer	隕石墜落 07	False		icon_skills.hellfire_tex
+60800	Common	Common	Sorcerer	隕石墜落 08	False		icon_skills.hellfire_tex
+60810	Common	Common	Sorcerer	隕石墜落 08	False		icon_skills.hellfire_tex
+60820	Common	Common	Sorcerer	隕石墜落 08	False		icon_skills.hellfire_tex
+60900	Common	Common	Sorcerer	隕石墜落 09	False		icon_skills.hellfire_tex
+60910	Common	Common	Sorcerer	隕石墜落 09	False		icon_skills.hellfire_tex
+60920	Common	Common	Sorcerer	隕石墜落 09	False		icon_skills.hellfire_tex
+61000	Common	Common	Sorcerer	隕石墜落 10	False		icon_skills.hellfire_tex
+61010	Common	Common	Sorcerer	隕石墜落 10	False		icon_skills.hellfire_tex
+61020	Common	Common	Sorcerer	隕石墜落 10	False		icon_skills.hellfire_tex
+
+70100	Common	Common	Sorcerer	退避 01	False		icon_skills.backstep_tex
+
+80100	Common	Common	Sorcerer	火焰柱 01	False		icon_skills.auraburn_tex
+80200	Common	Common	Sorcerer	火焰柱 02	False		icon_skills.auraburn_tex
+80300	Common	Common	Sorcerer	火焰柱 03	False		icon_skills.auraburn_tex
+80400	Common	Common	Sorcerer	火焰柱 04	False		icon_skills.auraburn_tex
+80500	Common	Common	Sorcerer	火焰柱 05	False		icon_skills.auraburn_tex
+80600	Common	Common	Sorcerer	火焰柱 06	False		icon_skills.auraburn_tex
+80700	Common	Common	Sorcerer	火焰柱 07	False		icon_skills.auraburn_tex
+80800	Common	Common	Sorcerer	火焰柱 08	False		icon_skills.auraburn_tex
+80900	Common	Common	Sorcerer	火焰柱 09	False		icon_skills.auraburn_tex
+81000	Common	Common	Sorcerer	火焰柱 10	False		icon_skills.auraburn_tex
+81100	Common	Common	Sorcerer	火焰柱 11	False		icon_skills.auraburn_tex
+81200	Common	Common	Sorcerer	火焰柱 12	False		icon_skills.auraburn_tex
+81300	Common	Common	Sorcerer	火焰柱 13	False		icon_skills.auraburn_tex
+81400	Common	Common	Sorcerer	火焰柱 14	False		icon_skills.auraburn_tex
+
+100100	Common	Common	Sorcerer	魔力盾牌 01	False		icon_skills.manashield_tex
+100200	Common	Common	Sorcerer	魔力盾牌 02	False		icon_skills.manashield_tex
+100300	Common	Common	Sorcerer	魔力盾牌 03	False		icon_skills.manashield_tex
+100400	Common	Common	Sorcerer	魔力盾牌 04	False		icon_skills.manashield_tex
+100500	Common	Common	Sorcerer	魔力盾牌 05	False		icon_skills.manashield_tex
+100600	Common	Common	Sorcerer	魔力盾牌 06	False		icon_skills.manashield_tex
+100700	Common	Common	Sorcerer	魔力盾牌 07	False		icon_skills.manashield_tex
+100800	Common	Common	Sorcerer	魔力盾牌 08	False		icon_skills.manashield_tex
+
+110100	Common	Common	Sorcerer	打雷重擊 01	False		icon_skills.c5_lightningstruck
+110140	Common	Common	Sorcerer	打雷重擊 01	False		icon_skills.c5_lightningstruck
+110200	Common	Common	Sorcerer	打雷重擊 02	False		icon_skills.c5_lightningstruck
+110240	Common	Common	Sorcerer	打雷重擊 02	False		icon_skills.c5_lightningstruck
+110300	Common	Common	Sorcerer	打雷重擊 03	False		icon_skills.c5_lightningstruck
+110340	Common	Common	Sorcerer	打雷重擊 03	False		icon_skills.c5_lightningstruck
+110400	Common	Common	Sorcerer	打雷重擊 04	False		icon_skills.c5_lightningstruck
+110440	Common	Common	Sorcerer	打雷重擊 04	False		icon_skills.c5_lightningstruck
+110500	Common	Common	Sorcerer	打雷重擊 05	False		icon_skills.c5_lightningstruck
+110540	Common	Common	Sorcerer	打雷重擊 05	False		icon_skills.c5_lightningstruck
+110600	Common	Common	Sorcerer	打雷重擊 06	False		icon_skills.c5_lightningstruck
+110640	Common	Common	Sorcerer	打雷重擊 06	False		icon_skills.c5_lightningstruck
+110700	Common	Common	Sorcerer	打雷重擊 07	False		icon_skills.c5_lightningstruck
+110740	Common	Common	Sorcerer	打雷重擊 07	False		icon_skills.c5_lightningstruck
+110800	Common	Common	Sorcerer	打雷重擊 08	False		icon_skills.c5_lightningstruck
+110840	Common	Common	Sorcerer	打雷重擊 08	False		icon_skills.c5_lightningstruck
+110900	Common	Common	Sorcerer	打雷重擊 09	False		icon_skills.c5_lightningstruck
+110940	Common	Common	Sorcerer	打雷重擊 09	False		icon_skills.c5_lightningstruck
+111000	Common	Common	Sorcerer	打雷重擊 10	False		icon_skills.c5_lightningstruck
+111040	Common	Common	Sorcerer	打雷重擊 10	False		icon_skills.c5_lightningstruck
+111100	Common	Common	Sorcerer	打雷重擊 11	False		icon_skills.c5_lightningstruck
+111140	Common	Common	Sorcerer	打雷重擊 11	False		icon_skills.c5_lightningstruck
+111200	Common	Common	Sorcerer	打雷重擊 12	False		icon_skills.c5_lightningstruck
+111240	Common	Common	Sorcerer	打雷重擊 12	False		icon_skills.c5_lightningstruck
+111300	Common	Common	Sorcerer	打雷重擊 13	False		icon_skills.c5_lightningstruck
+111340	Common	Common	Sorcerer	打雷重擊 13	False		icon_skills.c5_lightningstruck
+111400	Common	Common	Sorcerer	打雷重擊 14	False		icon_skills.c5_lightningstruck
+111440	Common	Common	Sorcerer	打雷重擊 14	False		icon_skills.c5_lightningstruck
+
+120100	Common	Common	Sorcerer	破滅光彈 01	False		icon_skills.lightofruin_tex
+120120	Common	Common	Sorcerer	破滅光彈 01	False		icon_skills.lightofruin_tex
+120200	Common	Common	Sorcerer	破滅光彈 02	False		icon_skills.lightofruin_tex
+120220	Common	Common	Sorcerer	破滅光彈 02	False		icon_skills.lightofruin_tex
+120300	Common	Common	Sorcerer	破滅光彈 03	False		icon_skills.lightofruin_tex
+120320	Common	Common	Sorcerer	破滅光彈 03	False		icon_skills.lightofruin_tex
+120400	Common	Common	Sorcerer	破滅光彈 04	False		icon_skills.lightofruin_tex
+120420	Common	Common	Sorcerer	破滅光彈 04	False		icon_skills.lightofruin_tex
+120500	Common	Common	Sorcerer	破滅光彈 05	False		icon_skills.lightofruin_tex
+120520	Common	Common	Sorcerer	破滅光彈 05	False		icon_skills.lightofruin_tex
+120600	Common	Common	Sorcerer	破滅光彈 06	False		icon_skills.lightofruin_tex
+120620	Common	Common	Sorcerer	破滅光彈 06	False		icon_skills.lightofruin_tex
+120700	Common	Common	Sorcerer	破滅光彈 07	False		icon_skills.lightofruin_tex
+120720	Common	Common	Sorcerer	破滅光彈 07	False		icon_skills.lightofruin_tex
+120800	Common	Common	Sorcerer	破滅光彈 08	False		icon_skills.lightofruin_tex
+120820	Common	Common	Sorcerer	破滅光彈 08	False		icon_skills.lightofruin_tex
+120900	Common	Common	Sorcerer	破滅光彈 09	False		icon_skills.lightofruin_tex
+120920	Common	Common	Sorcerer	破滅光彈 09	False		icon_skills.lightofruin_tex
+
+130100	Common	Common	Sorcerer	睡眠之風 01	False		icon_skills.sleepwind_tex
+130200	Common	Common	Sorcerer	睡眠之風 02	False		icon_skills.sleepwind_tex
+130300	Common	Common	Sorcerer	睡眠之風 03	False		icon_skills.sleepwind_tex
+130400	Common	Common	Sorcerer	睡眠之風 04	False		icon_skills.sleepwind_tex
+
+140100	Common	Common	Sorcerer	起身攻擊 01	False		icon_skills.risingattack_tex
+140200	Common	Common	Sorcerer	起身攻擊 02	False		icon_skills.risingattack_tex
+140300	Common	Common	Sorcerer	起身攻擊 03	False		icon_skills.risingattack_tex
+140400	Common	Common	Sorcerer	起身攻擊 04	False		icon_skills.risingattack_tex
+140500	Common	Common	Sorcerer	起身攻擊 05	False		icon_skills.risingattack_tex
+140600	Common	Common	Sorcerer	起身攻擊 06	False		icon_skills.risingattack_tex
+140700	Common	Common	Sorcerer	起身攻擊 07	False		icon_skills.risingattack_tex
+140800	Common	Common	Sorcerer	起身攻擊 08	False		icon_skills.risingattack_tex
+140900	Common	Common	Sorcerer	起身攻擊 09	False		icon_skills.risingattack_tex
+141000	Common	Common	Sorcerer	起身攻擊 10	False		icon_skills.risingattack_tex
+141100	Common	Common	Sorcerer	起身攻擊 11	False		icon_skills.risingattack_tex
+141200	Common	Common	Sorcerer	起身攻擊 12	False		icon_skills.risingattack_tex
+141300	Common	Common	Sorcerer	起身攻擊 13	False		icon_skills.risingattack_tex
+
+160100	Common	Common	Sorcerer	污染詛咒 01	False		icon_skills.disease_tex
+160200	Common	Common	Sorcerer	污染詛咒 02	False		icon_skills.disease_tex
+160300	Common	Common	Sorcerer	污染詛咒 03	False		icon_skills.disease_tex
+160400	Common	Common	Sorcerer	污染詛咒 04	False		icon_skills.disease_tex
+160500	Common	Common	Sorcerer	污染詛咒 05	False		icon_skills.disease_tex
+160600	Common	Common	Sorcerer	污染詛咒 06	False		icon_skills.disease_tex
+160700	Common	Common	Sorcerer	污染詛咒 07	False		icon_skills.disease_tex
+160800	Common	Common	Sorcerer	污染詛咒 08	False		icon_skills.disease_tex
+160900	Common	Common	Sorcerer	污染詛咒 09	False		icon_skills.disease_tex
+161000	Common	Common	Sorcerer	污染詛咒 10	False		icon_skills.disease_tex
+161100	Common	Common	Sorcerer	污染詛咒 11	False		icon_skills.disease_tex
+161200	Common	Common	Sorcerer	污染詛咒 12	False		icon_skills.disease_tex
+
+170100	Common	Common	Sorcerer	痛苦刻印 01	False		icon_skills.blastmine_tex
+170120	Common	Common	Sorcerer	痛苦刻印 01	False		icon_skills.blastmine_tex
+170200	Common	Common	Sorcerer	痛苦刻印 02	False		icon_skills.blastmine_tex
+170220	Common	Common	Sorcerer	痛苦刻印 02	False		icon_skills.blastmine_tex
+170300	Common	Common	Sorcerer	痛苦刻印 03	False		icon_skills.blastmine_tex
+170320	Common	Common	Sorcerer	痛苦刻印 03	False		icon_skills.blastmine_tex
+170400	Common	Common	Sorcerer	痛苦刻印 04	False		icon_skills.blastmine_tex
+170420	Common	Common	Sorcerer	痛苦刻印 04	False		icon_skills.blastmine_tex
+170500	Common	Common	Sorcerer	痛苦刻印 05	False		icon_skills.blastmine_tex
+170520	Common	Common	Sorcerer	痛苦刻印 05	False		icon_skills.blastmine_tex
+170600	Common	Common	Sorcerer	痛苦刻印 06	False		icon_skills.blastmine_tex
+170620	Common	Common	Sorcerer	痛苦刻印 06	False		icon_skills.blastmine_tex
+170700	Common	Common	Sorcerer	痛苦刻印 07	False		icon_skills.blastmine_tex
+170720	Common	Common	Sorcerer	痛苦刻印 07	False		icon_skills.blastmine_tex
+170800	Common	Common	Sorcerer	痛苦刻印 08	False		icon_skills.blastmine_tex
+170820	Common	Common	Sorcerer	痛苦刻印 08	False		icon_skills.blastmine_tex
+170900	Common	Common	Sorcerer	痛苦刻印 09	False		icon_skills.blastmine_tex
+170920	Common	Common	Sorcerer	痛苦刻印 09	False		icon_skills.blastmine_tex
+
+180100	Common	Common	Sorcerer	結冰大地 01	False		icon_skills.freezingtheearth_tex
+180200	Common	Common	Sorcerer	結冰大地 02	False		icon_skills.freezingtheearth_tex
+180300	Common	Common	Sorcerer	結冰大地 03	False		icon_skills.freezingtheearth_tex
+180400	Common	Common	Sorcerer	結冰大地 04	False		icon_skills.freezingtheearth_tex
+180500	Common	Common	Sorcerer	結冰大地 05	False		icon_skills.freezingtheearth_tex
+180600	Common	Common	Sorcerer	結冰大地 06	False		icon_skills.freezingtheearth_tex
+180700	Common	Common	Sorcerer	結冰大地 07	False		icon_skills.freezingtheearth_tex
+180800	Common	Common	Sorcerer	結冰大地 08	False		icon_skills.freezingtheearth_tex
+180900	Common	Common	Sorcerer	結冰大地 09	False		icon_skills.freezingtheearth_tex
+181000	Common	Common	Sorcerer	結冰大地 10	False		icon_skills.freezingtheearth_tex
+181100	Common	Common	Sorcerer	結冰大地 11	False		icon_skills.freezingtheearth_tex
+181200	Common	Common	Sorcerer	結冰大地 12	False		icon_skills.freezingtheearth_tex
+
+190100	Common	Common	Sorcerer	魔力奪取 01	False		icon_skills.manaextortion_tex
+190110	Common	Common	Sorcerer	魔力奪取 01	False	hit 1	icon_skills.manaextortion_tex
+190111	Common	Common	Sorcerer	魔力奪取 01	False	hit 2	icon_skills.manaextortion_tex
+190112	Common	Common	Sorcerer	魔力奪取 01	False	hit 3	icon_skills.manaextortion_tex
+190113	Common	Common	Sorcerer	魔力奪取 01	False	hit 4	icon_skills.manaextortion_tex
+190200	Common	Common	Sorcerer	魔力奪取 02	False		icon_skills.manaextortion_tex
+190210	Common	Common	Sorcerer	魔力奪取 02	False	hit 1	icon_skills.manaextortion_tex
+190211	Common	Common	Sorcerer	魔力奪取 02	False	hit 2	icon_skills.manaextortion_tex
+190212	Common	Common	Sorcerer	魔力奪取 02	False	hit 3	icon_skills.manaextortion_tex
+190213	Common	Common	Sorcerer	魔力奪取 02	False	hit 4	icon_skills.manaextortion_tex
+190300	Common	Common	Sorcerer	魔力奪取 03	False		icon_skills.manaextortion_tex
+190310	Common	Common	Sorcerer	魔力奪取 03	False	hit 1	icon_skills.manaextortion_tex
+190311	Common	Common	Sorcerer	魔力奪取 03	False	hit 2	icon_skills.manaextortion_tex
+190312	Common	Common	Sorcerer	魔力奪取 03	False	hit 3	icon_skills.manaextortion_tex
+190313	Common	Common	Sorcerer	魔力奪取 03	False	hit 4	icon_skills.manaextortion_tex
+190400	Common	Common	Sorcerer	魔力奪取 04	False		icon_skills.manaextortion_tex
+190410	Common	Common	Sorcerer	魔力奪取 04	False	hit 1	icon_skills.manaextortion_tex
+190411	Common	Common	Sorcerer	魔力奪取 04	False	hit 2	icon_skills.manaextortion_tex
+190412	Common	Common	Sorcerer	魔力奪取 04	False	hit 3	icon_skills.manaextortion_tex
+190413	Common	Common	Sorcerer	魔力奪取 04	False	hit 4	icon_skills.manaextortion_tex
+190500	Common	Common	Sorcerer	魔力奪取 05	False		icon_skills.manaextortion_tex
+190510	Common	Common	Sorcerer	魔力奪取 05	False	hit 1	icon_skills.manaextortion_tex
+190511	Common	Common	Sorcerer	魔力奪取 05	False	hit 2	icon_skills.manaextortion_tex
+190512	Common	Common	Sorcerer	魔力奪取 05	False	hit 3	icon_skills.manaextortion_tex
+190513	Common	Common	Sorcerer	魔力奪取 05	False	hit 4	icon_skills.manaextortion_tex
+190600	Common	Common	Sorcerer	魔力奪取 06	False		icon_skills.manaextortion_tex
+190610	Common	Common	Sorcerer	魔力奪取 06	False	hit 1	icon_skills.manaextortion_tex
+190611	Common	Common	Sorcerer	魔力奪取 06	False	hit 2	icon_skills.manaextortion_tex
+190612	Common	Common	Sorcerer	魔力奪取 06	False	hit 3	icon_skills.manaextortion_tex
+190613	Common	Common	Sorcerer	魔力奪取 06	False	hit 4	icon_skills.manaextortion_tex
+
+200100	Common	Common	Sorcerer	追蹤業火 01	False		icon_skills.trackinginferno_tex
+200110	Common	Common	Sorcerer	追蹤業火 01	False		icon_skills.trackinginferno_tex
+200200	Common	Common	Sorcerer	追蹤業火 02	False		icon_skills.trackinginferno_tex
+200210	Common	Common	Sorcerer	追蹤業火 02	False		icon_skills.trackinginferno_tex
+200300	Common	Common	Sorcerer	追蹤業火 03	False		icon_skills.trackinginferno_tex
+200310	Common	Common	Sorcerer	追蹤業火 03	False		icon_skills.trackinginferno_tex
+200400	Common	Common	Sorcerer	追蹤業火 04	False		icon_skills.trackinginferno_tex
+200410	Common	Common	Sorcerer	追蹤業火 04	False		icon_skills.trackinginferno_tex
+200500	Common	Common	Sorcerer	追蹤業火 05	False		icon_skills.trackinginferno_tex
+200510	Common	Common	Sorcerer	追蹤業火V	False		icon_skills.trackinginferno_tex
+200600	Common	Common	Sorcerer	追蹤業火 06	False		icon_skills.trackinginferno_tex
+200610	Common	Common	Sorcerer	追蹤業火 06	False		icon_skills.trackinginferno_tex
+200700	Common	Common	Sorcerer	追蹤業火 07	False		icon_skills.trackinginferno_tex
+200710	Common	Common	Sorcerer	追蹤業火 07	False		icon_skills.trackinginferno_tex
+200800	Common	Common	Sorcerer	追蹤業火 08	False		icon_skills.trackinginferno_tex
+200810	Common	Common	Sorcerer	追蹤業火 08	False		icon_skills.trackinginferno_tex
+
+210100	Common	Common	Sorcerer	神經衰弱 01	False		icon_skills.neurasthenia_tex
+210110	Common	Common	Sorcerer	神經衰弱 01	False		icon_skills.neurasthenia_tex
+210200	Common	Common	Sorcerer	神經衰弱 02	False		icon_skills.neurasthenia_tex
+210210	Common	Common	Sorcerer	神經衰弱 02	False		icon_skills.neurasthenia_tex
+210300	Common	Common	Sorcerer	神經衰弱 03	False		icon_skills.neurasthenia_tex
+210310	Common	Common	Sorcerer	神經衰弱 03	False		icon_skills.neurasthenia_tex
+210400	Common	Common	Sorcerer	神經衰弱 04	False		icon_skills.neurasthenia_tex
+210410	Common	Common	Sorcerer	神經衰弱 04	False		icon_skills.neurasthenia_tex
+
+220100	Common	Common	Sorcerer	燃燒氣息 01	False		icon_skills.burningbreath_tex
+220110	Common	Common	Sorcerer	燃燒氣息 01	False		icon_skills.burningbreath_tex
+220200	Common	Common	Sorcerer	燃燒氣息 02	False		icon_skills.burningbreath_tex
+220210	Common	Common	Sorcerer	燃燒氣息 02	False		icon_skills.burningbreath_tex
+220300	Common	Common	Sorcerer	燃燒氣息 03	False		icon_skills.burningbreath_tex
+220310	Common	Common	Sorcerer	燃燒氣息 03	False		icon_skills.burningbreath_tex
+220400	Common	Common	Sorcerer	燃燒氣息 04	False		icon_skills.burningbreath_tex
+220410	Common	Common	Sorcerer	燃燒氣息 04	False		icon_skills.burningbreath_tex
+220500	Common	Common	Sorcerer	燃燒氣息 05	False		icon_skills.burningbreath_tex
+220510	Common	Common	Sorcerer	燃燒氣息 05	False		icon_skills.burningbreath_tex
+220600	Common	Common	Sorcerer	燃燒氣息 06	False		icon_skills.burningbreath_tex
+220610	Common	Common	Sorcerer	燃燒氣息 06	False		icon_skills.burningbreath_tex
+220700	Common	Common	Sorcerer	燃燒氣息 07	False		icon_skills.burningbreath_tex
+220710	Common	Common	Sorcerer	燃燒氣息 07	False		icon_skills.burningbreath_tex
+
+230100	Common	Common	Sorcerer	精神耗竭 01	False		icon_skills.mpsink_tex
+230110	Common	Common	Sorcerer	精神耗竭 01	False		icon_skills.mpsink_tex
+230200	Common	Common	Sorcerer	精神耗竭 02	False		icon_skills.mpsink_tex
+230210	Common	Common	Sorcerer	精神耗竭 02	False		icon_skills.mpsink_tex
+230300	Common	Common	Sorcerer	精神耗竭 03	False		icon_skills.mpsink_tex
+230310	Common	Common	Sorcerer	精神耗竭 03	False		icon_skills.mpsink_tex
+230400	Common	Common	Sorcerer	精神耗竭 04	False		icon_skills.mpsink_tex
+230410	Common	Common	Sorcerer	精神耗竭 04	False		icon_skills.mpsink_tex
+
+240100	Common	Common	Sorcerer	迅速契約 01			icon_skills.contractofquickness_tex
+
+250100	Common	Common	Sorcerer	束縛詛咒 01	False		icon_skills.curseofshackle_tex
+250110	Common	Common	Sorcerer	束縛詛咒 01	False		icon_skills.curseofshackle_tex
+250200	Common	Common	Sorcerer	束縛詛咒 02	False		icon_skills.curseofshackle_tex
+250210	Common	Common	Sorcerer	束縛詛咒 02	False		icon_skills.curseofshackle_tex
+250300	Common	Common	Sorcerer	束縛詛咒 03	False		icon_skills.curseofshackle_tex
+250310	Common	Common	Sorcerer	束縛詛咒 03	False		icon_skills.curseofshackle_tex
+250400	Common	Common	Sorcerer	束縛詛咒 04	False		icon_skills.curseofshackle_tex
+250410	Common	Common	Sorcerer	束縛詛咒 04	False		icon_skills.curseofshackle_tex
+250500	Common	Common	Sorcerer	束縛詛咒 05	False		icon_skills.curseofshackle_tex
+250510	Common	Common	Sorcerer	束縛詛咒 05	False		icon_skills.curseofshackle_tex
+250600	Common	Common	Sorcerer	束縛詛咒 06	False		icon_skills.curseofshackle_tex
+250610	Common	Common	Sorcerer	束縛詛咒 06	False		icon_skills.curseofshackle_tex
+
+260100	Common	Common	Sorcerer	瞬間移動 01	False		icon_skills.shortteleport_tex
+
+270100	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270120	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270200	Common	Common	Sorcerer	寒冰暴風II	False		icon_skills.icestorm_tex
+270220	Common	Common	Sorcerer	寒冰暴風II	False		icon_skills.icestorm_tex
+270300	Common	Common	Sorcerer	寒冰暴風III	False		icon_skills.icestorm_tex
+270320	Common	Common	Sorcerer	寒冰暴風III	False		icon_skills.icestorm_tex
+270400	Common	Common	Sorcerer	寒冰暴風IV	False		icon_skills.icestorm_tex
+270420	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270500	Common	Common	Sorcerer	寒冰暴風 05	False		icon_skills.icestorm_tex
+270520	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270600	Common	Common	Sorcerer	寒冰暴風 06	False		icon_skills.icestorm_tex
+270620	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270700	Common	Common	Sorcerer	寒冰暴風 07	False		icon_skills.icestorm_tex
+270720	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270800	Common	Common	Sorcerer	寒冰暴風 08	False		icon_skills.icestorm_tex
+270820	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270900	Common	Common	Sorcerer	寒冰暴風 09	False		icon_skills.icestorm_tex
+270920	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270930	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+270931	Common	Common	Sorcerer	寒冰暴風I	False	hit 2	icon_skills.icestorm_tex
+271000	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+271020	Common	Common	Sorcerer	寒冰暴風I	False		icon_skills.icestorm_tex
+
+280100	Common	Common	Sorcerer	石化 01	False	On	icon_skills.stoneshape_tex
+280150	Common	Common	Sorcerer	石化 01	False	Off	icon_skills.stoneshape_tex
+280200	Common	Common	Sorcerer	石化 02	False	On	icon_skills.stoneshape_tex
+280250	Common	Common	Sorcerer	石化 02	False	Off	icon_skills.stoneshape_tex
+280300	Common	Common	Sorcerer	石化 03	False	On	icon_skills.stoneshape_tex
+280350	Common	Common	Sorcerer	石化 03	False	Off	icon_skills.stoneshape_tex
+280400	Common	Common	Sorcerer	石化 04	False	On	icon_skills.stoneshape_tex
+280450	Common	Common	Sorcerer	石化 04	False	Off	icon_skills.stoneshape_tex
+
+290100	Common	Common	Sorcerer	旋風牢籠 01	False		icon_skills.tornadoprison_tex
+290120	Common	Common	Sorcerer	旋風牢籠 01	False		icon_skills.tornadoprison_tex
+290200	Common	Common	Sorcerer	旋風牢籠 02	False		icon_skills.tornadoprison_tex
+290220	Common	Common	Sorcerer	旋風牢籠 02	False		icon_skills.tornadoprison_tex
+
+300100	Common	Common	Sorcerer	魔力爆發 01	False		icon_skills.manaburst_tex
+300200	Common	Common	Sorcerer	魔力爆發 02	False		icon_skills.manaburst_tex
+300300	Common	Common	Sorcerer	魔力爆發 03	False		icon_skills.manaburst_tex
+300400	Common	Common	Sorcerer	魔力爆發 04	False		icon_skills.manaburst_tex
+300500	Common	Common	Sorcerer	魔力爆發 05	False		icon_skills.manaburst_tex
+300600	Common	Common	Sorcerer	魔力爆發 06	False		icon_skills.manaburst_tex
+300700	Common	Common	Sorcerer	魔力爆發 07	False		icon_skills.manaburst_tex
+300800	Common	Common	Sorcerer	魔力爆發 08	False		icon_skills.manaburst_tex
+300900	Common	Common	Sorcerer	魔力爆發 09	False		icon_skills.manaburst_tex
+301000	Common	Common	Sorcerer	魔力爆發 01	False		icon_skills.manaburst_tex
+
+310100	Common	Common	Sorcerer	空間扭曲 01	False		icon_skills.distortionfield_tex
+310110	Common	Common	Sorcerer	空間扭曲 01	False		icon_skills.distortionfield_tex
+310120	Common	Common	Sorcerer	空間扭曲 01	False		icon_skills.distortionfield_tex
+
+320100	Common	Common	Sorcerer	隕石墜落 01	False	MB	icon_skills.hellfire_tex
+320110	Common	Common	Sorcerer	隕石墜落 01	False	MB	icon_skills.hellfire_tex
+320120	Common	Common	Sorcerer	隕石墜落 01	False	MB	icon_skills.hellfire_tex
+320150	Common	Common	Sorcerer	隕石墜落 01	False	MB FD	icon_skills.hellfire_tex
+320151	Common	Common	Sorcerer	隕石墜落 01	False	MB	icon_skills.hellfire_tex
+320152	Common	Common	Sorcerer	隕石墜落 01	False	MB FD	icon_skills.hellfire_tex
+
+330100	Common	Common	Sorcerer	爆裂球 01	False		icon_skills.blastball_tex
+330110	Common	Common	Sorcerer	爆裂球 01	False	hit 1	icon_skills.blastball_tex
+330111	Common	Common	Sorcerer	爆裂球 01	False	hit 2	icon_skills.blastball_tex
+330112	Common	Common	Sorcerer	爆裂球 01	False	hit 2	icon_skills.blastball_tex
+330120	Common	Common	Sorcerer	爆裂球 01	False	hit 1	icon_skills.blastball_tex
+330121	Common	Common	Sorcerer	爆裂球 01	False	hit 1	icon_skills.blastball_tex
+330122	Common	Common	Sorcerer	爆裂球 01	False	hit 2	icon_skills.blastball_tex
+330123	Common	Common	Sorcerer	爆裂球 01	False	hit 2	icon_skills.blastball_tex
+330124	Common	Common	Sorcerer	爆裂球 01	False	hit 3	icon_skills.blastball_tex
+330125	Common	Common	Sorcerer	爆裂球 01	False	hit 3	icon_skills.blastball_tex
+330126	Common	Common	Sorcerer	爆裂球 01	False	hit 3	icon_skills.blastball_tex
+330127	Common	Common	Sorcerer	爆裂球 01	False	hit 3	icon_skills.blastball_tex
+330140	Common	Common	Sorcerer	爆裂球 01	False	 FD	icon_skills.blastball_tex
+330150	Common	Common	Sorcerer	爆裂球 01	False	hit 1 FD	icon_skills.blastball_tex
+330151	Common	Common	Sorcerer	爆裂球 01	False	hit 2 FD	icon_skills.blastball_tex
+330152	Common	Common	Sorcerer	爆裂球 01	False	hit 3 FD	icon_skills.blastball_tex
+330153	Common	Common	Sorcerer	爆裂球 01	False	hit 4 FD	icon_skills.blastball_tex
+330160	Common	Common	Sorcerer	爆裂球 01	False	hit 1 FD	icon_skills.blastball_tex
+330161	Common	Common	Sorcerer	爆裂球 01	False	hit 2 FD	icon_skills.blastball_tex
+330162	Common	Common	Sorcerer	爆裂球 01	False	hit 3 FD	icon_skills.blastball_tex
+330163	Common	Common	Sorcerer	爆裂球 01	False	hit 4 FD	icon_skills.blastball_tex
+
+340100	Common	Common	Sorcerer	魔力強化 01	False		icon_skills.c5_strengthenmana
+340200	Common	Common	Sorcerer	魔力強化 02	False		icon_skills.c5_strengthenmana
+340230	Common	Common	Sorcerer	魔力強化 02	False		icon_skills.c5_strengthenmana
+340240	Common	Common	Sorcerer	魔力強化 02	False		icon_skills.c5_strengthenmana
+340300	Common	Common	Sorcerer	魔力強化 03	False		icon_skills.c5_strengthenmana
+340400	Common	Common	Sorcerer	魔力強化 04	False		icon_skills.c5_strengthenmana
+340500	Common	Common	Sorcerer	魔力強化 05	False		icon_skills.c5_strengthenmana
+340600	Common	Common	Sorcerer	魔力強化 06	False		icon_skills.c5_strengthenmana
+340700	Common	Common	Sorcerer	魔力強化 07	False		icon_skills.c5_strengthenmana
+340800	Common	Common	Sorcerer	魔力強化 08	False		icon_skills.c5_strengthenmana
+340900	Common	Common	Sorcerer	魔力強化 09	False		icon_skills.c5_strengthenmana
+
+350100	Common	Common	Sorcerer	冰槍	False		icon_skills.icespear_tex
+350116	Common	Common	Sorcerer	冰槍	False	hit 1	icon_skills.icespear_tex
+350120	Common	Common	Sorcerer	冰槍	False	hit 1	icon_skills.icespear_tex
+
+360100	Common	Common	Sorcerer	融合	False		icon_skills.fusion_tex
+360120	Common	Common	Sorcerer	融合	False	hit 2	icon_skills.fusion_tex
+360200	Common	Common	Sorcerer	太初的火花	False		icon_skills.primalfire_tex
+360221	Common	Common	Sorcerer	融合	False	hit 2	icon_skills.fusion_tex
+360222	Common	Common	Sorcerer	融合	False	hit 2	icon_skills.fusion_tex
+360224	Common	Common	Sorcerer	融合	False	hit 2	icon_skills.fusion_tex
+360300	Common	Common	Sorcerer	秘傳暴風	False		icon_skills.visionfirestorm_tex
+360400	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360420	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360430	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360440	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360450	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360460	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360470	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360480	Common	Common	Sorcerer	冰河隆起	False		icon_skills.upliftedglacier_tex
+360600	Common	Common	Sorcerer	元素融合	False		icon_skills.elementfusion_tex
+
+390100	Common	Common	Sorcerer	衰變	False		icon_skills.collapse_tex
+390120	Common	Common	Sorcerer	衰變	False		icon_skills.collapse_tex
+
+410105	Common	Common	Sorcerer	打雷重擊 01	True		icon_skills.c5_lightningstruck
+410205	Common	Common	Sorcerer	打雷重擊 02	True		icon_skills.c5_lightningstruck
+410305	Common	Common	Sorcerer	打雷重擊 03	True		icon_skills.c5_lightningstruck
+410405	Common	Common	Sorcerer	打雷重擊 04	True		icon_skills.c5_lightningstruck
+410505	Common	Common	Sorcerer	打雷重擊 05	True		icon_skills.c5_lightningstruck
+410605	Common	Common	Sorcerer	打雷重擊 06	True		icon_skills.c5_lightningstruck
+410705	Common	Common	Sorcerer	打雷重擊 07	True		icon_skills.c5_lightningstruck
+410805	Common	Common	Sorcerer	打雷重擊 08	True		icon_skills.c5_lightningstruck
+410905	Common	Common	Sorcerer	打雷重擊 09	True		icon_skills.c5_lightningstruck
+411005	Common	Common	Sorcerer	打雷重擊 10	True		icon_skills.c5_lightningstruck
+411105	Common	Common	Sorcerer	打雷重擊 11	True		icon_skills.c5_lightningstruck
+411205	Common	Common	Sorcerer	打雷重擊 12	True		icon_skills.c5_lightningstruck
+411305	Common	Common	Sorcerer	打雷重擊 13	True		icon_skills.c5_lightningstruck
+411405	Common	Common	Sorcerer	打雷重擊 14	True		icon_skills.c5_lightningstruck
+
+9100100	Common	Common	Sorcerer	覺醒氣息	False		icon_skills.awakenaura_tex

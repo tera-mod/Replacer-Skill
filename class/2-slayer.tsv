@@ -1,0 +1,375 @@
+10100	Common	Common	Slayer	連續攻擊 01	False	hit 1	icon_skills.comboattack_tex
+10101	Common	Common	Slayer	連續攻擊 01	False	hit 2	icon_skills.comboattack_tex
+10102	Common	Common	Slayer	連續攻擊 01	False	hit 3	icon_skills.comboattack_tex
+10103	Common	Common	Slayer	連續攻擊 01	False	hit 4	icon_skills.comboattack_tex
+10200	Common	Common	Slayer	連續攻擊 02	False	hit 1	icon_skills.comboattack_tex
+10201	Common	Common	Slayer	連續攻擊 02	False	hit 2	icon_skills.comboattack_tex
+10202	Common	Common	Slayer	連續攻擊 02	False	hit 3	icon_skills.comboattack_tex
+10203	Common	Common	Slayer	連續攻擊 02	False	hit 4	icon_skills.comboattack_tex
+10300	Common	Common	Slayer	連續攻擊 03	False	hit 1	icon_skills.comboattack_tex
+10301	Common	Common	Slayer	連續攻擊 03	False	hit 2	icon_skills.comboattack_tex
+10302	Common	Common	Slayer	連續攻擊 03	False	hit 3	icon_skills.comboattack_tex
+10303	Common	Common	Slayer	連續攻擊 03	False	hit 4	icon_skills.comboattack_tex
+10400	Common	Common	Slayer	連續攻擊 04	False	hit 1	icon_skills.comboattack_tex
+10401	Common	Common	Slayer	連續攻擊 04	False	hit 2	icon_skills.comboattack_tex
+10402	Common	Common	Slayer	連續攻擊 04	False	hit 3	icon_skills.comboattack_tex
+10403	Common	Common	Slayer	連續攻擊 04	False	hit 4	icon_skills.comboattack_tex
+10500	Common	Common	Slayer	連續攻擊 05	False	hit 1	icon_skills.comboattack_tex
+10501	Common	Common	Slayer	連續攻擊 05	False	hit 2	icon_skills.comboattack_tex
+10502	Common	Common	Slayer	連續攻擊 05	False	hit 3	icon_skills.comboattack_tex
+10503	Common	Common	Slayer	連續攻擊 05	False	hit 4	icon_skills.comboattack_tex
+10600	Common	Common	Slayer	連續攻擊 06	False	hit 1	icon_skills.comboattack_tex
+10601	Common	Common	Slayer	連續攻擊 06	False	hit 2	icon_skills.comboattack_tex
+10602	Common	Common	Slayer	連續攻擊 06	False	hit 3	icon_skills.comboattack_tex
+10603	Common	Common	Slayer	連續攻擊 06	False	hit 4	icon_skills.comboattack_tex
+10700	Common	Common	Slayer	連續攻擊 07	False	hit 1	icon_skills.comboattack_tex
+10701	Common	Common	Slayer	連續攻擊 07	False	hit 2	icon_skills.comboattack_tex
+10702	Common	Common	Slayer	連續攻擊 07	False	hit 3	icon_skills.comboattack_tex
+10703	Common	Common	Slayer	連續攻擊 07	False	hit 4	icon_skills.comboattack_tex
+10800	Common	Common	Slayer	連續攻擊 08	False	hit 1	icon_skills.comboattack_tex
+10801	Common	Common	Slayer	連續攻擊 08	False	hit 2	icon_skills.comboattack_tex
+10802	Common	Common	Slayer	連續攻擊 08	False	hit 3	icon_skills.comboattack_tex
+10803	Common	Common	Slayer	連續攻擊 08	False	hit 4	icon_skills.comboattack_tex
+10900	Common	Common	Slayer	連續攻擊 09	False	hit 1	icon_skills.comboattack_tex
+10901	Common	Common	Slayer	連續攻擊 09	False	hit 2	icon_skills.comboattack_tex
+10902	Common	Common	Slayer	連續攻擊 09	False	hit 3	icon_skills.comboattack_tex
+10903	Common	Common	Slayer	連續攻擊 09	False	hit 4	icon_skills.comboattack_tex
+11000	Common	Common	Slayer	連續攻擊 10	False	hit 1	icon_skills.comboattack_tex
+11001	Common	Common	Slayer	連續攻擊 10	False	hit 2	icon_skills.comboattack_tex
+11002	Common	Common	Slayer	連續攻擊 10	False	hit 3	icon_skills.comboattack_tex
+11003	Common	Common	Slayer	連續攻擊 10	False	hit 4	icon_skills.comboattack_tex
+11100	Common	Common	Slayer	連續攻擊 11	False	hit 1	icon_skills.comboattack_tex
+11101	Common	Common	Slayer	連續攻擊 11	False	hit 2	icon_skills.comboattack_tex
+11102	Common	Common	Slayer	連續攻擊 11	False	hit 3	icon_skills.comboattack_tex
+11103	Common	Common	Slayer	連續攻擊 11	False	hit 4	icon_skills.comboattack_tex
+11200	Common	Common	Slayer	連續攻擊 12	False	hit 1	icon_skills.comboattack_tex
+11201	Common	Common	Slayer	連續攻擊 12	False	hit 2	icon_skills.comboattack_tex
+11202	Common	Common	Slayer	連續攻擊 12	False	hit 3	icon_skills.comboattack_tex
+11203	Common	Common	Slayer	連續攻擊 12	False	hit 4	icon_skills.comboattack_tex
+11300	Common	Common	Slayer	連續攻擊 13	False	hit 1	icon_skills.comboattack_tex
+11301	Common	Common	Slayer	連續攻擊 13	False	hit 2	icon_skills.comboattack_tex
+11302	Common	Common	Slayer	連續攻擊 13	False	hit 3	icon_skills.comboattack_tex
+11303	Common	Common	Slayer	連續攻擊 13	False	hit 4	icon_skills.comboattack_tex
+11400	Common	Common	Slayer	連續攻擊 14	False	hit 1	icon_skills.comboattack_tex
+11401	Common	Common	Slayer	連續攻擊 14	False	hit 2	icon_skills.comboattack_tex
+11402	Common	Common	Slayer	連續攻擊 14	False	hit 3	icon_skills.comboattack_tex
+11403	Common	Common	Slayer	連續攻擊 14	False	hit 4	icon_skills.comboattack_tex
+11500	Common	Common	Slayer	連續攻擊 15	False	hit 1	icon_skills.comboattack_tex
+11501	Common	Common	Slayer	連續攻擊 15	False	hit 2	icon_skills.comboattack_tex
+11502	Common	Common	Slayer	連續攻擊 15	False	hit 3	icon_skills.comboattack_tex
+11503	Common	Common	Slayer	連續攻擊 15	False	hit 4	icon_skills.comboattack_tex
+
+20100	Common	Common	Slayer	重擊斬 01	False		icon_skills.handyslash_tex
+20101	Common	Common	Slayer	重擊斬 01	False		icon_skills.handyslash_tex
+20102	Common	Common	Slayer	重擊斬 01	False		icon_skills.handyslash_tex
+20130	Common	Common	Slayer	重擊斬 01	True		icon_skills.handyslash_tex
+20200	Common	Common	Slayer	重擊斬 02	False		icon_skills.handyslash_tex
+20201	Common	Common	Slayer	重擊斬 02	False		icon_skills.handyslash_tex
+20202	Common	Common	Slayer	重擊斬 02	False		icon_skills.handyslash_tex
+20230	Common	Common	Slayer	重擊斬 02	True		icon_skills.handyslash_tex
+20300	Common	Common	Slayer	重擊斬 03	False		icon_skills.handyslash_tex
+20301	Common	Common	Slayer	重擊斬 03	False		icon_skills.handyslash_tex
+20302	Common	Common	Slayer	重擊斬 03	False		icon_skills.handyslash_tex
+20330	Common	Common	Slayer	重擊斬 03	True		icon_skills.handyslash_tex
+20400	Common	Common	Slayer	重擊斬 04	False		icon_skills.handyslash_tex
+20401	Common	Common	Slayer	重擊斬 04	False		icon_skills.handyslash_tex
+20402	Common	Common	Slayer	重擊斬 04	False		icon_skills.handyslash_tex
+20430	Common	Common	Slayer	重擊斬 04	True		icon_skills.handyslash_tex
+20500	Common	Common	Slayer	重擊斬 05	False		icon_skills.handyslash_tex
+20501	Common	Common	Slayer	重擊斬 05	False		icon_skills.handyslash_tex
+20502	Common	Common	Slayer	重擊斬 05	False		icon_skills.handyslash_tex
+20530	Common	Common	Slayer	重擊斬 05	True		icon_skills.handyslash_tex
+20600	Common	Common	Slayer	重擊斬 06	False		icon_skills.handyslash_tex
+20601	Common	Common	Slayer	重擊斬 06	False		icon_skills.handyslash_tex
+20602	Common	Common	Slayer	重擊斬 06	False		icon_skills.handyslash_tex
+20630	Common	Common	Slayer	重擊斬 06	True		icon_skills.handyslash_tex
+20700	Common	Common	Slayer	重擊斬 07	False		icon_skills.handyslash_tex
+20701	Common	Common	Slayer	重擊斬 07	False		icon_skills.handyslash_tex
+20702	Common	Common	Slayer	重擊斬 07	False		icon_skills.handyslash_tex
+20730	Common	Common	Slayer	重擊斬 07	True		icon_skills.handyslash_tex
+20800	Common	Common	Slayer	重擊斬 08	False		icon_skills.handyslash_tex
+20801	Common	Common	Slayer	重擊斬 08	False		icon_skills.handyslash_tex
+20802	Common	Common	Slayer	重擊斬 08	False		icon_skills.handyslash_tex
+20830	Common	Common	Slayer	重擊斬 08	True		icon_skills.handyslash_tex
+20900	Common	Common	Slayer	重擊斬 09	False		icon_skills.handyslash_tex
+20901	Common	Common	Slayer	重擊斬 09	False		icon_skills.handyslash_tex
+20902	Common	Common	Slayer	重擊斬 09	False		icon_skills.handyslash_tex
+20930	Common	Common	Slayer	重擊斬 09	True		icon_skills.handyslash_tex
+21000	Common	Common	Slayer	重擊斬 10	False		icon_skills.handyslash_tex
+21001	Common	Common	Slayer	重擊斬 10	False		icon_skills.handyslash_tex
+21002	Common	Common	Slayer	重擊斬 10	False		icon_skills.handyslash_tex
+21030	Common	Common	Slayer	重擊斬 10	True		icon_skills.handyslash_tex
+21100	Common	Common	Slayer	重擊斬 11	False		icon_skills.handyslash_tex
+21101	Common	Common	Slayer	重擊斬 11	False		icon_skills.handyslash_tex
+21102	Common	Common	Slayer	重擊斬 11	False		icon_skills.handyslash_tex
+21130	Common	Common	Slayer	重擊斬 11	True		icon_skills.handyslash_tex
+21200	Common	Common	Slayer	重擊斬 12	False		icon_skills.handyslash_tex
+21201	Common	Common	Slayer	重擊斬 12	False		icon_skills.handyslash_tex
+21202	Common	Common	Slayer	重擊斬 12	False		icon_skills.handyslash_tex
+21230	Common	Common	Slayer	重擊斬 12	True		icon_skills.handyslash_tex
+21300	Common	Common	Slayer	重擊斬 13	False		icon_skills.handyslash_tex
+21301	Common	Common	Slayer	重擊斬 13	False		icon_skills.handyslash_tex
+21302	Common	Common	Slayer	重擊斬 13	False		icon_skills.handyslash_tex
+21330	Common	Common	Slayer	重擊斬 13	True		icon_skills.handyslash_tex
+21400	Common	Common	Slayer	重擊斬 14	False		icon_skills.handyslash_tex
+21401	Common	Common	Slayer	重擊斬 14	False		icon_skills.handyslash_tex
+21402	Common	Common	Slayer	重擊斬 14	False		icon_skills.handyslash_tex
+21430	Common	Common	Slayer	重擊斬 14	True		icon_skills.handyslash_tex
+
+30100	Common	Common	Slayer	迴旋砍擊 01	False		icon_skills.sworddance_tex
+30200	Common	Common	Slayer	迴旋砍擊 02	False		icon_skills.sworddance_tex
+30300	Common	Common	Slayer	迴旋砍擊 03	False		icon_skills.sworddance_tex
+30400	Common	Common	Slayer	迴旋砍擊 04	False		icon_skills.sworddance_tex
+30500	Common	Common	Slayer	迴旋砍擊 05	False		icon_skills.sworddance_tex
+30600	Common	Common	Slayer	迴旋砍擊 06	False		icon_skills.sworddance_tex
+30700	Common	Common	Slayer	迴旋砍擊 07	False		icon_skills.sworddance_tex
+30800	Common	Common	Slayer	迴旋砍擊 08	False		icon_skills.sworddance_tex
+30900	Common	Common	Slayer	迴旋砍擊 09	False		icon_skills.sworddance_tex
+31000	Common	Common	Slayer	迴旋砍擊 10	False		icon_skills.sworddance_tex
+31100	Common	Common	Slayer	迴旋砍擊 11	False		icon_skills.sworddance_tex
+31101	Common	Common	Slayer	迴旋砍擊 11	False		icon_skills.sworddance_tex
+31102	Common	Common	Slayer	迴旋砍擊 11	False		icon_skills.sworddance_tex
+31130	Common	Common	Slayer	迴旋砍擊 11	False		icon_skills.sworddance_tex
+
+40100	Common	Common	Slayer	緊急迴避 01	False		icon_skills.tumbling_tex
+40200	Common	Common	Slayer	緊急迴避 02	False		icon_skills.tumbling_tex
+40230	Common	Common	Slayer	緊急迴避 02	False	hit 2	icon_skills.tumbling_tex
+40300	Common	Common	Slayer	緊急迴避 03	False		icon_skills.tumbling_tex
+
+50100	Common	Common	Slayer	疾走 01	False		icon_skills.dash_tex
+50200	Common	Common	Slayer	疾走 02	False		icon_skills.dash_tex
+50300	Common	Common	Slayer	疾走 03	False		icon_skills.dash_tex
+50400	Common	Common	Slayer	疾走 04	False		icon_skills.dash_tex
+50500	Common	Common	Slayer	疾走 05	False		icon_skills.dash_tex
+
+60100	Common	Common	Slayer	後擒術 01	False		icon_skills.turnaroundattack_tex
+60200	Common	Common	Slayer	後擒術 02	False		icon_skills.turnaroundattack_tex
+60300	Common	Common	Slayer	後擒術 03	False		icon_skills.turnaroundattack_tex
+60400	Common	Common	Slayer	後擒術 04	False		icon_skills.turnaroundattack_tex
+60500	Common	Common	Slayer	後擒術 05	False		icon_skills.turnaroundattack_tex
+60600	Common	Common	Slayer	後擒術 06	False		icon_skills.turnaroundattack_tex
+
+80100	Common	Common	Slayer	一刀兩斷 01	False		icon_skills.cuttingslash_tex
+80130	Common	Common	Slayer	一刀兩斷 01	True		icon_skills.cuttingslash_tex
+80200	Common	Common	Slayer	一刀兩斷 02	False		icon_skills.cuttingslash_tex
+80230	Common	Common	Slayer	一刀兩斷 02	True		icon_skills.cuttingslash_tex
+80300	Common	Common	Slayer	一刀兩斷 03	False		icon_skills.cuttingslash_tex
+80330	Common	Common	Slayer	一刀兩斷 03	True		icon_skills.cuttingslash_tex
+80400	Common	Common	Slayer	一刀兩斷 04	False		icon_skills.cuttingslash_tex
+80430	Common	Common	Slayer	一刀兩斷 04	True		icon_skills.cuttingslash_tex
+80500	Common	Common	Slayer	一刀兩斷 05	False		icon_skills.cuttingslash_tex
+80530	Common	Common	Slayer	一刀兩斷 05	True		icon_skills.cuttingslash_tex
+80600	Common	Common	Slayer	一刀兩斷 06	False		icon_skills.cuttingslash_tex
+80630	Common	Common	Slayer	一刀兩斷 06	True		icon_skills.cuttingslash_tex
+80700	Common	Common	Slayer	一刀兩斷 07	False		icon_skills.cuttingslash_tex
+80730	Common	Common	Slayer	一刀兩斷 07	True		icon_skills.cuttingslash_tex
+80800	Common	Common	Slayer	一刀兩斷 08	False		icon_skills.cuttingslash_tex
+80830	Common	Common	Slayer	一刀兩斷 08	True		icon_skills.cuttingslash_tex
+80900	Common	Common	Slayer	一刀兩斷 09	False		icon_skills.cuttingslash_tex
+80930	Common	Common	Slayer	一刀兩斷 09	True		icon_skills.cuttingslash_tex
+81000	Common	Common	Slayer	一刀兩斷 10	False		icon_skills.cuttingslash_tex
+81030	Common	Common	Slayer	一刀兩斷 10	True		icon_skills.cuttingslash_tex
+81100	Common	Common	Slayer	一刀兩斷 11	False		icon_skills.cuttingslash_tex
+81130	Common	Common	Slayer	一刀兩斷 11	True		icon_skills.cuttingslash_tex
+81200	Common	Common	Slayer	一刀兩斷 12	False		icon_skills.cuttingslash_tex
+81230	Common	Common	Slayer	一刀兩斷 12	True		icon_skills.cuttingslash_tex
+
+90100	Common	Common	Slayer	向下劈擊 01	False		icon_skills.downblow_tex
+90200	Common	Common	Slayer	向下劈擊 02	False		icon_skills.downblow_tex
+90300	Common	Common	Slayer	向下劈擊 03	False		icon_skills.downblow_tex
+90400	Common	Common	Slayer	向下劈擊 04	False		icon_skills.downblow_tex
+90500	Common	Common	Slayer	向下劈擊 05	False		icon_skills.downblow_tex
+90600	Common	Common	Slayer	向下劈擊 06	False		icon_skills.downblow_tex
+90700	Common	Common	Slayer	向下劈擊 07	False		icon_skills.downblow_tex
+90800	Common	Common	Slayer	向下劈擊 08	False		icon_skills.downblow_tex
+90900	Common	Common	Slayer	向下劈擊 09	False		icon_skills.downblow_tex
+91000	Common	Common	Slayer	向下劈擊 10	False		icon_skills.downblow_tex
+91100	Common	Common	Slayer	向下劈擊 11	False		icon_skills.downblow_tex
+
+100100	Common	Common	Slayer	起身攻擊 01	False		icon_skills.risingattack_tex
+100200	Common	Common	Slayer	起身攻擊 02	False		icon_skills.risingattack_tex
+100300	Common	Common	Slayer	起身攻擊 03	False		icon_skills.risingattack_tex
+100400	Common	Common	Slayer	起身攻擊 04	False		icon_skills.risingattack_tex
+100500	Common	Common	Slayer	起身攻擊 05	False		icon_skills.risingattack_tex
+100600	Common	Common	Slayer	起身攻擊 06	False		icon_skills.risingattack_tex
+100700	Common	Common	Slayer	起身攻擊 07	False		icon_skills.risingattack_tex
+100800	Common	Common	Slayer	起身攻擊 08	False		icon_skills.risingattack_tex
+100900	Common	Common	Slayer	起身攻擊 09	False		icon_skills.risingattack_tex
+101000	Common	Common	Slayer	起身攻擊 10	False		icon_skills.risingattack_tex
+101100	Common	Common	Slayer	起身攻擊 11	False		icon_skills.risingattack_tex
+101200	Common	Common	Slayer	起身攻擊 12	False		icon_skills.risingattack_tex
+
+120100	Common	Common	Slayer	要害攻擊 01	False		icon_skills.stingerblade_tex
+120200	Common	Common	Slayer	要害攻擊 02	False		icon_skills.stingerblade_tex
+120300	Common	Common	Slayer	要害攻擊 03	False		icon_skills.stingerblade_tex
+120400	Common	Common	Slayer	要害攻擊 04	False		icon_skills.stingerblade_tex
+120500	Common	Common	Slayer	要害攻擊 05	False		icon_skills.stingerblade_tex
+120600	Common	Common	Slayer	要害攻擊 06	False		icon_skills.stingerblade_tex
+120700	Common	Common	Slayer	要害攻擊 07	False		icon_skills.stingerblade_tex
+120800	Common	Common	Slayer	要害攻擊 08	False		icon_skills.stingerblade_tex
+120900	Common	Common	Slayer	要害攻擊 09	False		icon_skills.stingerblade_tex
+121000	Common	Common	Slayer	要害攻擊 10	False		icon_skills.stingerblade_tex
+121100	Common	Common	Slayer	要害攻擊 11	False		icon_skills.stingerblade_tex
+121101	Common	Common	Slayer	要害攻擊 11	False		icon_skills.stingerblade_tex
+121102	Common	Common	Slayer	要害攻擊 11	False		icon_skills.stingerblade_tex
+121130	Common	Common	Slayer	要害攻擊 11	False		icon_skills.stingerblade_tex
+
+130100	Common	Common	Slayer	刀背打擊 01	False		icon_skills.flatblade_tex
+130200	Common	Common	Slayer	刀背打擊 02	False		icon_skills.flatblade_tex
+130300	Common	Common	Slayer	刀背打擊 03	False		icon_skills.flatblade_tex
+130400	Common	Common	Slayer	刀背打擊 04	False		icon_skills.flatblade_tex
+130500	Common	Common	Slayer	刀背打擊 05	False		icon_skills.flatblade_tex
+130600	Common	Common	Slayer	刀背打擊 06	False		icon_skills.flatblade_tex
+130700	Common	Common	Slayer	刀背打擊 07	False		icon_skills.flatblade_tex
+130800	Common	Common	Slayer	刀背打擊 08	False		icon_skills.flatblade_tex
+130900	Common	Common	Slayer	刀背打擊 09	False		icon_skills.flatblade_tex
+131000	Common	Common	Slayer	刀背打擊 10	False		icon_skills.flatblade_tex
+
+140100	Common	Common	Slayer	真空三段斬 01	False	hit 1	icon_skills.tripleslash_tex
+140101	Common	Common	Slayer	真空三段斬 01	False	hit 2	icon_skills.tripleslash_tex
+140102	Common	Common	Slayer	真空三段斬 01	False	hit 3	icon_skills.tripleslash_tex
+140200	Common	Common	Slayer	真空三段斬 02	False	hit 1	icon_skills.tripleslash_tex
+140201	Common	Common	Slayer	真空三段斬 02	False	hit 2	icon_skills.tripleslash_tex
+140202	Common	Common	Slayer	真空三段斬 02	False	hit 3	icon_skills.tripleslash_tex
+140300	Common	Common	Slayer	真空三段斬 03	False	hit 1	icon_skills.tripleslash_tex
+140301	Common	Common	Slayer	真空三段斬 03	False	hit 2	icon_skills.tripleslash_tex
+140302	Common	Common	Slayer	真空三段斬 03	False	hit 3	icon_skills.tripleslash_tex
+140400	Common	Common	Slayer	真空三段斬 04	False	hit 1	icon_skills.tripleslash_tex
+140401	Common	Common	Slayer	真空三段斬 04	False	hit 2	icon_skills.tripleslash_tex
+140402	Common	Common	Slayer	真空三段斬 04	False	hit 3	icon_skills.tripleslash_tex
+140500	Common	Common	Slayer	真空三段斬 05	False	hit 1	icon_skills.tripleslash_tex
+140501	Common	Common	Slayer	真空三段斬 05	False	hit 2	icon_skills.tripleslash_tex
+140502	Common	Common	Slayer	真空三段斬 05	False	hit 3	icon_skills.tripleslash_tex
+140600	Common	Common	Slayer	真空三段斬 06	False	hit 1	icon_skills.tripleslash_tex
+140601	Common	Common	Slayer	真空三段斬 06	False	hit 2	icon_skills.tripleslash_tex
+140602	Common	Common	Slayer	真空三段斬 06	False	hit 3	icon_skills.tripleslash_tex
+140700	Common	Common	Slayer	真空三段斬 07	False	hit 1	icon_skills.tripleslash_tex
+140701	Common	Common	Slayer	真空三段斬 07	False	hit 2	icon_skills.tripleslash_tex
+140702	Common	Common	Slayer	真空三段斬 07	False	hit 3	icon_skills.tripleslash_tex
+140800	Common	Common	Slayer	真空三段斬 08	False	hit 1	icon_skills.tripleslash_tex
+140801	Common	Common	Slayer	真空三段斬 08	False	hit 2	icon_skills.tripleslash_tex
+140802	Common	Common	Slayer	真空三段斬 08	False	hit 3	icon_skills.tripleslash_tex
+140900	Common	Common	Slayer	真空三段斬 09	False	hit 1	icon_skills.tripleslash_tex
+140901	Common	Common	Slayer	真空三段斬 09	False	hit 2	icon_skills.tripleslash_tex
+140902	Common	Common	Slayer	真空三段斬 09	False	hit 3	icon_skills.tripleslash_tex
+141000	Common	Common	Slayer	真空三段斬 10	False	hit 1	icon_skills.tripleslash_tex
+141001	Common	Common	Slayer	真空三段斬 10	False	hit 2	icon_skills.tripleslash_tex
+141002	Common	Common	Slayer	真空三段斬 10	False	hit 3	icon_skills.tripleslash_tex
+141100	Common	Common	Slayer	真空三段斬 11	False	hit 1	icon_skills.tripleslash_tex
+141101	Common	Common	Slayer	真空三段斬 11	False	hit 2	icon_skills.tripleslash_tex
+141102	Common	Common	Slayer	真空三段斬 11	False	hit 3	icon_skills.tripleslash_tex
+
+150100	Common	Common	Slayer	後退踢擊 01	False		icon_skills.retreatingkick_tex
+150200	Common	Common	Slayer	後退踢擊 02	False		icon_skills.retreatingkick_tex
+150300	Common	Common	Slayer	後退踢擊 03	False		icon_skills.retreatingkick_tex
+150400	Common	Common	Slayer	後退踢擊 04	False		icon_skills.retreatingkick_tex
+150500	Common	Common	Slayer	後退踢擊 05	False		icon_skills.retreatingkick_tex
+150600	Common	Common	Slayer	後退踢擊 06	False		icon_skills.retreatingkick_tex
+150700	Common	Common	Slayer	後退踢擊 07	False		icon_skills.retreatingkick_tex
+150800	Common	Common	Slayer	後退踢擊 08	False		icon_skills.retreatingkick_tex
+150900	Common	Common	Slayer	後退踢擊 09	False		icon_skills.retreatingkick_tex
+151000	Common	Common	Slayer	後退踢擊 10	False		icon_skills.retreatingkick_tex
+151100	Common	Common	Slayer	後退踢擊 11	False		icon_skills.retreatingkick_tex
+
+160100	Common	Common	Slayer	憤怒一擊 01	False		icon_skills.ragingstrike_tex
+160200	Common	Common	Slayer	憤怒一擊 02	False		icon_skills.ragingstrike_tex
+160300	Common	Common	Slayer	憤怒一擊 03	False		icon_skills.ragingstrike_tex
+160400	Common	Common	Slayer	憤怒一擊 04	False		icon_skills.ragingstrike_tex
+160500	Common	Common	Slayer	憤怒一擊 05	False		icon_skills.ragingstrike_tex
+160600	Common	Common	Slayer	憤怒一擊 06	False		icon_skills.ragingstrike_tex
+160700	Common	Common	Slayer	憤怒一擊 07	False		icon_skills.ragingstrike_tex
+
+170100	Common	Common	Slayer	跳躍奮進 01	False		icon_skills.advancingleap_tex
+170200	Common	Common	Slayer	跳躍奮進 02	False		icon_skills.advancingleap_tex
+170300	Common	Common	Slayer	跳躍奮進 03	False		icon_skills.advancingleap_tex
+170400	Common	Common	Slayer	跳躍奮進 04	False		icon_skills.advancingleap_tex
+170500	Common	Common	Slayer	跳躍奮進 05	False		icon_skills.advancingleap_tex
+170600	Common	Common	Slayer	跳躍奮進 06	False		icon_skills.advancingleap_tex
+
+180100	Common	Common	Slayer	凝聚力量 01	False		icon_skills.gatheringstrength_tex
+180200	Common	Common	Slayer	凝聚力量 02	False	On	icon_skills.gatheringstrength_tex
+180250	Common	Common	Slayer	凝聚力量 01	False	Off	icon_skills.gatheringstrength_tex
+180300	Common	Common	Slayer	凝聚力量 03	False		icon_skills.gatheringstrength_tex
+180400	Common	Common	Slayer	凝聚力量 04	False		icon_skills.gatheringstrength_tex
+
+190100	Common	Common	Slayer	執念 01	False		icon_skills.tenacity_tex
+190200	Common	Common	Slayer	執念 02	False		icon_skills.tenacity_tex
+190300	Common	Common	Slayer	執念 03	False		icon_skills.tenacity_tex
+190400	Common	Common	Slayer	執念 04	False		icon_skills.tenacity_tex
+190500	Common	Common	Slayer	執念 05	False		icon_skills.tenacity_tex
+193100	Common	Common	Slayer	執念 03	False		icon_skills.tenacity_tex
+193200	Common	Common	Slayer	執念 03	False		icon_skills.tenacity_tex
+193300	Common	Common	Slayer	執念 03	False		icon_skills.tenacity_tex
+
+200100	Common	Common	Slayer	破壞氣魄 01	False		icon_skills.destructionvigor_tex
+200200	Common	Common	Slayer	破壞氣魄 02	False		icon_skills.destructionvigor_tex
+200300	Common	Common	Slayer	破壞氣魄 02	False		icon_skills.destructionvigor_tex
+200400	Common	Common	Slayer	破壞氣魄 04	False		icon_skills.destructionvigor_tex
+203100	Common	Common	Slayer	破壞氣魄 02	False		icon_skills.destructionvigor_tex
+203200	Common	Common	Slayer	破壞氣魄 02	False		icon_skills.destructionvigor_tex
+203300	Common	Common	Slayer	破壞氣魄 02	False		icon_skills.destructionvigor_tex
+
+210100	Common	Common	Slayer	神經劈擊  01	False		icon_skills.veinslash_tex
+210200	Common	Common	Slayer	神經劈擊  02	False		icon_skills.veinslash_tex
+210300	Common	Common	Slayer	神經劈擊  03	False		icon_skills.veinslash_tex
+210400	Common	Common	Slayer	神經劈擊  04	False		icon_skills.veinslash_tex
+210500	Common	Common	Slayer	神經劈擊  05	False		icon_skills.veinslash_tex
+
+220100	Common	Common	Slayer	下巴粉碎 01	False		icon_skills.jawbreaker_tex
+220200	Common	Common	Slayer	下巴粉碎 02	False		icon_skills.jawbreaker_tex
+
+230100	Common	Common	Slayer	瞬閃 01	False		icon_skills.cuthead_tex
+230130	Common	Common	Slayer	瞬閃 01	True		icon_skills.cuthead_tex
+230200	Common	Common	Slayer	瞬閃 02	False		icon_skills.cuthead_tex
+230230	Common	Common	Slayer	瞬閃 02	True		icon_skills.cuthead_tex
+230300	Common	Common	Slayer	瞬閃 03	False		icon_skills.cuthead_tex
+230330	Common	Common	Slayer	瞬閃 03	True		icon_skills.cuthead_tex
+230400	Common	Common	Slayer	瞬閃 04	False		icon_skills.cuthead_tex
+230430	Common	Common	Slayer	瞬閃 04	True		icon_skills.cuthead_tex
+230500	Common	Common	Slayer	瞬閃 05	False		icon_skills.cuthead_tex
+230530	Common	Common	Slayer	瞬閃 05	True		icon_skills.cuthead_tex
+230600	Common	Common	Slayer	瞬閃 06	False		icon_skills.cuthead_tex
+230630	Common	Common	Slayer	瞬閃 06	True		icon_skills.cuthead_tex
+230700	Common	Common	Slayer	瞬閃 07	False		icon_skills.cuthead_tex
+230730	Common	Common	Slayer	瞬閃 07	True		icon_skills.cuthead_tex
+230800	Common	Common	Slayer	瞬閃 08	False		icon_skills.cuthead_tex
+230830	Common	Common	Slayer	瞬閃 08	True		icon_skills.cuthead_tex
+230900	Common	Common	Slayer	瞬閃 09	False		icon_skills.cuthead_tex
+230930	Common	Common	Slayer	瞬閃 09	True		icon_skills.cuthead_tex
+
+240100	Common	Common	Slayer	下巴粉碎 01	False		icon_skills.jawbreaker_tex
+240130	Common	Common	Slayer	下巴粉碎 01	True		icon_skills.jawbreaker_tex
+240200	Common	Common	Slayer	下巴粉碎 02	False		icon_skills.jawbreaker_tex
+240230	Common	Common	Slayer	下巴粉碎 02	True		icon_skills.jawbreaker_tex
+240300	Common	Common	Slayer	下巴粉碎 03	False		icon_skills.jawbreaker_tex
+240330	Common	Common	Slayer	下巴粉碎 03	True		icon_skills.jawbreaker_tex
+240400	Common	Common	Slayer	下巴粉碎 04	False		icon_skills.jawbreaker_tex
+240430	Common	Common	Slayer	下巴粉碎 04	True		icon_skills.jawbreaker_tex
+240500	Common	Common	Slayer	下巴粉碎 05	False		icon_skills.jawbreaker_tex
+240530	Common	Common	Slayer	下巴粉碎 05	True		icon_skills.jawbreaker_tex
+240600	Common	Common	Slayer	下巴粉碎 06	False		icon_skills.jawbreaker_tex
+240630	Common	Common	Slayer	下巴粉碎 06	True		icon_skills.jawbreaker_tex
+240700	Common	Common	Slayer	下巴粉碎 07	False		icon_skills.jawbreaker_tex
+240730	Common	Common	Slayer	下巴粉碎 07	True		icon_skills.jawbreaker_tex
+240800	Common	Common	Slayer	下巴粉碎 08	False		icon_skills.jawbreaker_tex
+240830	Common	Common	Slayer	下巴粉碎 08	True		icon_skills.jawbreaker_tex
+240900	Common	Common	Slayer	下巴粉碎 09	False		icon_skills.jawbreaker_tex
+240930	Common	Common	Slayer	下巴粉碎 09	True		icon_skills.jawbreaker_tex
+
+250100	Common	Common	Slayer	真•一刀兩斷 01	False		icon_skills.cuttingslash_tex
+250130	Common	Common	Slayer	真•一刀兩斷 01	True		icon_skills.cuttingslash_tex
+
+260100	Common	Common	Slayer	斬擊	False		icon_skills.gaiacrucsh_tex
+260130	Common	Common	Slayer	斬擊	True		icon_skills.gaiacrucsh_tex
+
+270100	Common	Common	Slayer	三斬	False	hit 1	icon_skills.slidingslash_tex
+270130	Common	Common	Slayer	三斬	False		icon_skills.slidingslash_tex
+270131	Common	Common	Slayer	三斬	False		icon_skills.slidingslash_tex
+270190	Common	Common	Slayer	三斬	False		icon_skills.slidingslash_tex
+
+280100	Common	Common	Slayer	氣斬	False		icon_skills.drawsword_tex
+280101	Common	Common	Slayer	氣斬	False		icon_skills.drawsword_tex
+280102	Common	Common	Slayer	氣斬	False		icon_skills.drawsword_tex
+280103	Common	Common	Slayer	氣斬	False		icon_skills.drawsword_tex
+
+9100100	Common	Common	Slayer	覺醒氣息	False		icon_skills.awakenaura_tex

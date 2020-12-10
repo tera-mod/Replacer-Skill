@@ -1,0 +1,159 @@
+10100	Common	Common	Reaper	飛劍連打 01	False		icon_skills.comboattack2_tex
+10101	Common	Common	Reaper	飛劍連打 01	False		icon_skills.comboattack2_tex
+10102	Common	Common	Reaper	飛劍連打 01	False	hit 2	icon_skills.comboattack2_tex
+10103	Common	Common	Reaper	飛劍連打 01	False	hit 3	icon_skills.comboattack2_tex
+10104	Common	Common	Reaper	飛劍連打 01	False	hit 4	icon_skills.comboattack2_tex
+10105	Common	Common	Reaper	飛劍連打 01	False	hit 5	icon_skills.comboattack2_tex
+10200	Common	Common	Reaper	飛劍連打 02	False		icon_skills.comboattack2_tex
+10201	Common	Common	Reaper	飛劍連打 02	False		icon_skills.comboattack2_tex
+10202	Common	Common	Reaper	飛劍連打 02	False	hit 2	icon_skills.comboattack2_tex
+10203	Common	Common	Reaper	飛劍連打 02	False	hit 3	icon_skills.comboattack2_tex
+10204	Common	Common	Reaper	飛劍連打 02	False	hit 4	icon_skills.comboattack2_tex
+10205	Common	Common	Reaper	飛劍連打 02	False	hit 5	icon_skills.comboattack2_tex
+10300	Common	Common	Reaper	飛劍連打 03	False		icon_skills.comboattack2_tex
+10301	Common	Common	Reaper	飛劍連打 03	False		icon_skills.comboattack2_tex
+10302	Common	Common	Reaper	飛劍連打 03	False	hit 2	icon_skills.comboattack2_tex
+10303	Common	Common	Reaper	飛劍連打 03	False	hit 3	icon_skills.comboattack2_tex
+10304	Common	Common	Reaper	飛劍連打 03	False	hit 4	icon_skills.comboattack2_tex
+10305	Common	Common	Reaper	飛劍連打 03	False	hit 5	icon_skills.comboattack2_tex
+
+30100	Common	Common	Reaper	飛劍劈擊 01	False		icon_skills.chainsmash_tex
+30130	Common	Common	Reaper	飛劍劈擊 01	True		icon_skills.chainsmash_tex
+30200	Common	Common	Reaper	飛劍劈擊 02	False		icon_skills.chainsmash_tex
+30230	Common	Common	Reaper	飛劍劈擊 02	True		icon_skills.chainsmash_tex
+30300	Common	Common	Reaper	飛劍劈擊 03	False		icon_skills.chainsmash_tex
+30330	Common	Common	Reaper	飛劍劈擊 03	True		icon_skills.chainsmash_tex
+30340	Common	Common	Reaper	飛劍劈擊 03	False		icon_skills.chainsmash_tex
+30341	Common	Common	Reaper	飛劍劈擊 03	True		icon_skills.chainsmash_tex
+
+40100	Common	Common	Reaper	飛劍最後的一擊 01	False		icon_skills.chainblow_tex
+40120	Common	Common	Reaper	飛劍最後的一擊 01	False		icon_skills.chainblow_tex
+40130	Common	Common	Reaper	飛劍最後的一擊 01	True		icon_skills.chainblow_tex
+40200	Common	Common	Reaper	飛劍最後的一擊 02	False		icon_skills.chainblow_tex
+40220	Common	Common	Reaper	飛劍最後的一擊 02	False		icon_skills.chainblow_tex
+40230	Common	Common	Reaper	飛劍最後的一擊 02	True		icon_skills.chainblow_tex
+40300	Common	Common	Reaper	飛劍最後的一擊 03	False		icon_skills.chainblow_tex
+40320	Common	Common	Reaper	飛劍最後的一擊 03	False		icon_skills.chainblow_tex
+40330	Common	Common	Reaper	飛劍最後的一擊 03	True		icon_skills.chainblow_tex
+40331	Common	Common	Reaper	強化飛劍最後的一擊	True		icon_skills.chainblow_awaken_tex
+40340	Common	Common	Reaper	飛劍最後的一擊 03	False		icon_skills.chainblow_tex
+40350	Common	Common	Reaper	飛劍最後的一擊 03	False		icon_skills.chainblow_tex
+40360	Common	Common	Reaper	飛劍最後的一擊 03	True		icon_skills.chainblow_tex
+40361	Common	Common	Reaper	強化飛劍最後的一擊	True		icon_skills.chainblow_awaken_tex
+
+50100	Common	Common	Reaper	飛劍重擊斬 01	False		icon_skills.chainsuperblow_tex
+50130	Common	Common	Reaper	飛劍重擊斬 01	True		icon_skills.chainsuperblow_tex
+50200	Common	Common	Reaper	飛劍重擊斬 02	False		icon_skills.chainsuperblow_tex
+50230	Common	Common	Reaper	飛劍重擊斬 02	True		icon_skills.chainsuperblow_tex
+50300	Common	Common	Reaper	飛劍重擊斬 03	False		icon_skills.chainsuperblow_tex
+50330	Common	Common	Reaper	飛劍重擊斬 03	True		icon_skills.chainsuperblow_tex
+50331	Common	Common	Reaper	飛劍重擊斬 03	False		icon_skills.chainsuperblow_tex
+50332	Common	Common	Reaper	飛劍重擊斬 03	True		icon_skills.chainsuperblow_tex
+
+60100	Common	Common	Reaper	飛劍揮舞 01	False	hit 1	icon_skills.chainbrandish_tex
+60130	Common	Common	Reaper	飛劍揮舞 01	False		icon_skills.chainbrandish_tex
+60131	Common	Common	Reaper	飛劍揮舞 01	False	hit 2	icon_skills.chainbrandish_tex
+60190	Common	Common	Reaper	飛劍揮舞 01	False		icon_skills.chainbrandish_tex
+60200	Common	Common	Reaper	飛劍揮舞 02	False	hit 1	icon_skills.chainbrandish_tex
+60230	Common	Common	Reaper	飛劍揮舞 02	False		icon_skills.chainbrandish_tex
+60231	Common	Common	Reaper	飛劍揮舞 02	False	hit 2	icon_skills.chainbrandish_tex
+60240	Common	Common	Reaper	飛劍揮舞 02	False	hit 1	icon_skills.chainbrandish_tex
+60241	Common	Common	Reaper	飛劍揮舞 02	False		icon_skills.chainbrandish_tex
+60242	Common	Common	Reaper	飛劍揮舞 02	False	hit 2	icon_skills.chainbrandish_tex
+60290	Common	Common	Reaper	飛劍揮舞 02	False		icon_skills.chainbrandish_tex
+
+70100	Common	Common	Reaper	飛劍亂打 01	False		icon_skills.shieldattack_tex
+70101	Common	Common	Reaper	飛劍亂打 01	False	hit 2	icon_skills.shieldattack_tex
+70110	Common	Common	Reaper	飛劍亂打 01	False		icon_skills.shieldattack_tex
+70130	Common	Common	Reaper	飛劍亂打 01			icon_skills.shieldattack_tex
+70131	Common	Common	Reaper	飛劍亂打 01			icon_skills.shieldattack_tex
+70200	Common	Common	Reaper	飛劍亂打 02	False		icon_skills.shieldattack_tex
+70201	Common	Common	Reaper	飛劍亂打 02	False	hit 2	icon_skills.shieldattack_tex
+70210	Common	Common	Reaper	飛劍亂打 02	False		icon_skills.shieldattack_tex
+70230	Common	Common	Reaper	飛劍亂打 02			icon_skills.shieldattack_tex
+70231	Common	Common	Reaper	飛劍亂打 02			icon_skills.shieldattack_tex
+80100	Common	Common	Reaper	飛劍迴旋刀刃 01	False		icon_skills.chainblade_tex
+80130	Common	Common	Reaper	飛劍迴旋刀刃 01	True		icon_skills.chainblade_tex
+80200	Common	Common	Reaper	飛劍迴旋刀刃 02	False		icon_skills.chainblade_tex
+80230	Common	Common	Reaper	飛劍迴旋刀刃 02	True		icon_skills.chainblade_tex
+80240	Common	Common	Reaper	飛劍迴旋刀刃 02	False		icon_skills.chainblade_tex
+80241	Common	Common	Reaper	飛劍迴旋刀刃 02	True		icon_skills.chainblade_tex
+
+90100	Common	Common	Reaper	飛劍強擊 01	False		icon_skills.chainstrike_tex
+90130	Common	Common	Reaper	飛劍強擊 01	True		icon_skills.chainstrike_tex
+93100	Common	Common	Reaper	飛劍強擊 01	False		icon_skills.chainstrike_tex
+93200	Common	Common	Reaper	飛劍強擊 01	False		icon_skills.chainstrike_tex
+93300	Common	Common	Reaper	飛劍強擊 01	False		icon_skills.chainstrike_tex
+
+100100	Common	Common	Reaper	飛劍向上揮擊 01	False		icon_skills.chainuppercut_tex
+100130	Common	Common	Reaper	飛劍向上揮擊 01	True		icon_skills.chainuppercut_tex
+100200	Common	Common	Reaper	飛劍向上揮擊 02	False		icon_skills.chainuppercut_tex
+100230	Common	Common	Reaper	飛劍向上揮擊 02	True		icon_skills.chainuppercut_tex
+100240	Common	Common	Reaper	飛劍向上揮擊 02	False		icon_skills.chainuppercut_tex
+100241	Common	Common	Reaper	飛劍向上揮擊 02	True		icon_skills.chainuppercut_tex
+
+110100	Common	Common	Reaper	暗黑鞭 01	False	hit 1	icon_skills.chainflurry_tex
+110101	Common	Common	Reaper	暗黑鞭 01	False	hit 2	icon_skills.chainflurry_tex
+110102	Common	Common	Reaper	暗黑鞭 01	False	hit 3	icon_skills.chainflurry_tex
+110103	Common	Common	Reaper	暗黑鞭 01	False	hit 4	icon_skills.chainflurry_tex
+110190	Common	Common	Reaper	暗黑鞭 01	False		icon_skills.chainflurry_tex
+110200	Common	Common	Reaper	暗黑鞭 02	False	hit 1	icon_skills.chainflurry_tex
+110201	Common	Common	Reaper	暗黑鞭 02	False	hit 2	icon_skills.chainflurry_tex
+110202	Common	Common	Reaper	暗黑鞭 02	False	hit 3	icon_skills.chainflurry_tex
+110203	Common	Common	Reaper	暗黑鞭 02	False	hit 4	icon_skills.chainflurry_tex
+110290	Common	Common	Reaper	暗黑鞭 02	False		icon_skills.chainflurry_tex
+
+120100	Common	Common	Reaper	暗黑爆炸 01	False	hit 1	icon_skills.darkexplosion_tex
+120101	Common	Common	Reaper	暗黑爆炸 01	False	hit 2	icon_skills.darkexplosion_tex
+120130	Common	Common	Reaper	暗黑爆炸 01	False		icon_skills.darkexplosion_tex
+120200	Common	Common	Reaper	暗黑爆炸 02	False	hit 1	icon_skills.darkexplosion_tex
+120201	Common	Common	Reaper	暗黑爆炸 02	False	hit 2	icon_skills.darkexplosion_tex
+120230	Common	Common	Reaper	暗黑爆炸 02	False		icon_skills.darkexplosion_tex
+120231	Common	Common	Reaper	強化暗黑爆炸	False		icon_skills.darkexplosion_awaken_tex
+
+130100	Common	Common	Reaper	位置交換 01	False		icon_skills.darkgrasp_tex
+130120	Common	Common	Reaper	位置交換 01	False		icon_skills.darkgrasp_tex
+130130	Common	Common	Reaper	位置交換 01	False		icon_skills.darkgrasp_tex
+130140	Common	Common	Reaper	位置交換 01	False		icon_skills.darkgrasp_tex
+
+140100	Common	Common	Reaper	起身攻擊 01	False		icon_skills.risingattack2_tex
+140200	Common	Common	Reaper	起身攻擊 02	False		icon_skills.risingattack2_tex
+140300	Common	Common	Reaper	起身攻擊 03	False		icon_skills.risingattack2_tex
+
+150100	Common	Common	Reaper	反擊  01	False		icon_skills.counterattack_tex
+150180	Common	Common	Reaper	反擊  01	False		icon_skills.counterattack_tex
+150200	Common	Common	Reaper	反擊  02	False		icon_skills.counterattack_tex
+150280	Common	Common	Reaper	反擊  02	False		icon_skills.counterattack_tex
+150300	Common	Common	Reaper	反擊  03	False		icon_skills.counterattack_tex
+150330	Common	Common	Reaper	反擊  03	False		icon_skills.counterattack_tex
+150380	Common	Common	Reaper	反擊  03	False		icon_skills.counterattack_tex
+150381	Common	Common	Reaper	反擊  03	False		icon_skills.counterattack_tex
+
+160100	Common	Common	Reaper	暗黑降臨 01	False		icon_skills.descentofdarkness_tex
+163100	Common	Common	Reaper	暗黑降臨 01	False		icon_skills.descentofdarkness_tex
+163200	Common	Common	Reaper	暗黑降臨 01	False		icon_skills.descentofdarkness_tex
+163300	Common	Common	Reaper	暗黑降臨 01	False		icon_skills.descentofdarkness_tex
+
+170100	Common	Common	Reaper	逆重力 01	False		icon_skills.tornadoprison_tex
+170110	Common	Common	Reaper	逆重力 01	False		icon_skills.tornadoprison_tex
+
+180100	Common	Common	Reaper	暗黑藏身 01	False		icon_skills.hideindarkness_tex
+
+190100	Common	Common	Reaper	飛劍逆收割	False		icon_skills.reversewithdraw_tex
+190130	Common	Common	Reaper	飛劍逆收割	False		icon_skills.reversewithdraw_tex
+
+200100	Common	Common	Reaper	逆捕獲 01	False		icon_skills.reversecapture_tex
+200130	Common	Common	Reaper	逆捕獲 01			icon_skills.reversecapture_tex
+
+210100	Common	Common	Reaper	飛劍收割	False		icon_skills.withdraw_tex
+210130	Common	Common	Reaper	飛劍收割	True		icon_skills.withdraw_tex
+
+220100	Common	Common	Reaper	束縛之鐮			icon_skills.sickleofbondage_tex
+
+230100	Common	Common	Reaper	束縛之鐮	False		icon_skills.sickleofbondage_tex
+230131	Common	Common	Reaper	束縛之鐮	False		icon_skills.sickleofbondage_tex
+230132	Common	Common	Reaper	束縛之鐮	False		icon_skills.sickleofbondage_tex
+230134	Common	Common	Reaper	束縛之鐮	False		icon_skills.sickleofbondage_tex
+
+400100	Common	Common	Reaper	瞬間跳躍 01	False	hit 1	icon_skills.instantleap_tex
+400130	Common	Common	Reaper	瞬間跳躍 01	False	hit 2	icon_skills.instantleap_tex

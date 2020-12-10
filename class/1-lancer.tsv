@@ -1,0 +1,255 @@
+10100	Common	Common	Lancer	連續攻擊 01	False	hit 1	icon_skills.comboattack_tex
+10101	Common	Common	Lancer	連續攻擊 01	False	hit 2	icon_skills.comboattack_tex
+10102	Common	Common	Lancer	連續攻擊 01	False	hit 3	icon_skills.comboattack_tex
+10200	Common	Common	Lancer	連續攻擊 02	False	hit 1	icon_skills.comboattack_tex
+10201	Common	Common	Lancer	連續攻擊 02	False	hit 2	icon_skills.comboattack_tex
+10202	Common	Common	Lancer	連續攻擊 02	False	hit 3	icon_skills.comboattack_tex
+10300	Common	Common	Lancer	連續攻擊 03	False	hit 1	icon_skills.comboattack_tex
+10301	Common	Common	Lancer	連續攻擊 03	False	hit 2	icon_skills.comboattack_tex
+10302	Common	Common	Lancer	連續攻擊 03	False	hit 3	icon_skills.comboattack_tex
+10400	Common	Common	Lancer	連續攻擊 04	False	hit 1	icon_skills.comboattack_tex
+10401	Common	Common	Lancer	連續攻擊 04	False	hit 2	icon_skills.comboattack_tex
+10402	Common	Common	Lancer	連續攻擊 04	False	hit 3	icon_skills.comboattack_tex
+10500	Common	Common	Lancer	連續攻擊 05	False	hit 1	icon_skills.comboattack_tex
+10501	Common	Common	Lancer	連續攻擊 05	False	hit 2	icon_skills.comboattack_tex
+10502	Common	Common	Lancer	連續攻擊 05	False	hit 3	icon_skills.comboattack_tex
+10600	Common	Common	Lancer	連續攻擊 06	False	hit 1	icon_skills.comboattack_tex
+10601	Common	Common	Lancer	連續攻擊 06	False	hit 2	icon_skills.comboattack_tex
+10602	Common	Common	Lancer	連續攻擊 06	False	hit 3	icon_skills.comboattack_tex
+10700	Common	Common	Lancer	連續攻擊 07	False	hit 1	icon_skills.comboattack_tex
+10701	Common	Common	Lancer	連續攻擊 07	False	hit 2	icon_skills.comboattack_tex
+10702	Common	Common	Lancer	連續攻擊 07	False	hit 3	icon_skills.comboattack_tex
+10800	Common	Common	Lancer	連續攻擊 08	False	hit 1	icon_skills.comboattack_tex
+10801	Common	Common	Lancer	連續攻擊 08	False	hit 2	icon_skills.comboattack_tex
+10802	Common	Common	Lancer	連續攻擊 08	False	hit 3	icon_skills.comboattack_tex
+10900	Common	Common	Lancer	連續攻擊 09	False	hit 1	icon_skills.comboattack_tex
+10901	Common	Common	Lancer	連續攻擊 09	False	hit 2	icon_skills.comboattack_tex
+10902	Common	Common	Lancer	連續攻擊 09	False	hit 3	icon_skills.comboattack_tex
+11000	Common	Common	Lancer	連續攻擊 10	False	hit 1	icon_skills.comboattack_tex
+11001	Common	Common	Lancer	連續攻擊 10	False	hit 2	icon_skills.comboattack_tex
+11002	Common	Common	Lancer	連續攻擊 10	False	hit 3	icon_skills.comboattack_tex
+11100	Common	Common	Lancer	連續攻擊 11	False	hit 1	icon_skills.comboattack_tex
+11101	Common	Common	Lancer	連續攻擊 11	False	hit 2	icon_skills.comboattack_tex
+11102	Common	Common	Lancer	連續攻擊 11	False	hit 3	icon_skills.comboattack_tex
+11200	Common	Common	Lancer	連續攻擊 12	False	hit 1	icon_skills.comboattack_tex
+11201	Common	Common	Lancer	連續攻擊 12	False	hit 2	icon_skills.comboattack_tex
+11202	Common	Common	Lancer	連續攻擊 12	False	hit 3	icon_skills.comboattack_tex
+
+20100	Common	Common	Lancer	盾牌防禦 01	False		icon_skills.defence_tex
+20200	Common	Common	Lancer	盾牌防禦 02	False		icon_skills.defence_tex
+20230	Common	Common	Lancer	盾牌防禦 01	False		icon_skills.defence_tex
+20240	Common	Common	Lancer	盾牌防禦 01	False		icon_skills.defence_tex
+
+30100	Common	Common	Lancer	猛烈突進 01	False		icon_skills.screwthrough_tex
+30130	Common	Common	Lancer	猛烈突進 01	True		icon_skills.screwthrough_tex
+30200	Common	Common	Lancer	猛烈突進 02	False		icon_skills.screwthrough_tex
+30230	Common	Common	Lancer	猛烈突進 02	True		icon_skills.screwthrough_tex
+
+40100	Common	Common	Lancer	挑撥咆哮 01	False		icon_skills.roar_tex
+40130	Common	Common	Lancer	挑撥咆哮 01	False		icon_skills.roar_tex
+40200	Common	Common	Lancer	挑撥咆哮 02	False		icon_skills.roar_tex
+40230	Common	Common	Lancer	挑撥咆哮 02	False		icon_skills.roar_tex
+40300	Common	Common	Lancer	挑撥咆哮 03	False		icon_skills.roar_tex
+40330	Common	Common	Lancer	挑撥咆哮 03	False		icon_skills.roar_tex
+40400	Common	Common	Lancer	挑撥咆哮 04	False		icon_skills.roar_tex
+40430	Common	Common	Lancer	挑撥咆哮 04	False		icon_skills.roar_tex
+40500	Common	Common	Lancer	挑撥咆哮 05	False		icon_skills.roar_tex
+40530	Common	Common	Lancer	挑撥咆哮 05	False		icon_skills.roar_tex
+40600	Common	Common	Lancer	挑撥咆哮 06	False		icon_skills.roar_tex
+40630	Common	Common	Lancer	挑撥咆哮 06	False		icon_skills.roar_tex
+40700	Common	Common	Lancer	挑撥咆哮 07	False		icon_skills.roar_tex
+40730	Common	Common	Lancer	挑撥咆哮 07	False		icon_skills.roar_tex
+40800	Common	Common	Lancer	挑撥咆哮 08	False		icon_skills.roar_tex
+40830	Common	Common	Lancer	挑撥咆哮 08	False		icon_skills.roar_tex
+40900	Common	Common	Lancer	挑撥咆哮 09	False		icon_skills.roar_tex
+40930	Common	Common	Lancer	挑撥咆哮 09	False		icon_skills.roar_tex
+
+50100	Common	Common	Lancer	盾牌打擊 01	False		icon_skills.shieldstrike_tex
+50101	Common	Common	Lancer	盾牌打擊 01	False		icon_skills.shieldstrike_tex
+50102	Common	Common	Lancer	盾牌打擊 01	False		icon_skills.shieldstrike_tex
+50130	Common	Common	Lancer	盾牌打擊 01	False		icon_skills.shieldstrike_tex
+
+70100	Common	Common	Lancer	信賴光環 01	False		icon_skills.inspiringroar_tex
+70200	Common	Common	Lancer	信賴光環 02	False		icon_skills.inspiringroar_tex
+70300	Common	Common	Lancer	信賴光環 03	False		icon_skills.inspiringroar_tex
+
+80100	Common	Common	Lancer	反擊突刺 01	False		icon_skills.riposte_tex
+80200	Common	Common	Lancer	反擊突刺 02	False		icon_skills.riposte_tex
+80300	Common	Common	Lancer	反擊突刺 03	False		icon_skills.riposte_tex
+80400	Common	Common	Lancer	反擊突刺 04	False		icon_skills.riposte_tex
+80500	Common	Common	Lancer	反擊突刺 05	False		icon_skills.riposte_tex
+80600	Common	Common	Lancer	反擊突刺 06	False		icon_skills.riposte_tex
+80700	Common	Common	Lancer	反擊突刺 07	False		icon_skills.riposte_tex
+80800	Common	Common	Lancer	反擊突刺 08	False		icon_skills.riposte_tex
+80900	Common	Common	Lancer	反擊突刺 09	False		icon_skills.riposte_tex
+81000	Common	Common	Lancer	反擊突刺 10	False		icon_skills.riposte_tex
+81100	Common	Common	Lancer	反擊突刺 11	False		icon_skills.riposte_tex
+
+90100	Common	Common	Lancer	捕獲 01	False		icon_skills.hookthrow_tex
+90200	Common	Common	Lancer	捕獲 02	False		icon_skills.hookthrow_tex
+90300	Common	Common	Lancer	捕獲 03	False		icon_skills.hookthrow_tex
+
+100100	Common	Common	Lancer	粉碎防具 01	False		icon_skills.armorbreak_tex
+100130	Common	Common	Lancer	粉碎防具 01	False		icon_skills.armorbreak_tex
+100200	Common	Common	Lancer	粉碎防具 02	False		icon_skills.armorbreak_tex
+100230	Common	Common	Lancer	粉碎防具 02	False		icon_skills.armorbreak_tex
+100300	Common	Common	Lancer	粉碎防具 03	False		icon_skills.armorbreak_tex
+100330	Common	Common	Lancer	粉碎防具 03	False		icon_skills.armorbreak_tex
+
+110100	Common	Common	Lancer	起身攻擊 01	False		icon_skills.risingattack_tex
+110200	Common	Common	Lancer	起身攻擊 02	False		icon_skills.risingattack_tex
+110300	Common	Common	Lancer	起身攻擊 03	False		icon_skills.risingattack_tex
+110400	Common	Common	Lancer	起身攻擊 04	False		icon_skills.risingattack_tex
+110500	Common	Common	Lancer	起身攻擊 05	False		icon_skills.risingattack_tex
+110600	Common	Common	Lancer	起身攻擊 06	False		icon_skills.risingattack_tex
+110700	Common	Common	Lancer	起身攻擊 07	False		icon_skills.risingattack_tex
+110800	Common	Common	Lancer	起身攻擊 08	False		icon_skills.risingattack_tex
+110900	Common	Common	Lancer	起身攻擊 09	False		icon_skills.risingattack_tex
+111000	Common	Common	Lancer	起身攻擊 10	False		icon_skills.risingattack_tex
+
+120100	Common	Common	Lancer	憤怒誘發 01	False		icon_skills.provokerage_tex
+130100	Common	Common	Lancer	跳躍攻擊 01	False		icon_skills.leaprampage_tex
+130130	Common	Common	Lancer	跳躍攻擊 01	True		icon_skills.leaprampage_tex
+130200	Common	Common	Lancer	跳躍攻擊 02	False		icon_skills.leaprampage_tex
+130230	Common	Common	Lancer	跳躍攻擊 02	True		icon_skills.leaprampage_tex
+130300	Common	Common	Lancer	跳躍攻擊 03	False		icon_skills.leaprampage_tex
+130330	Common	Common	Lancer	跳躍攻擊 03	True		icon_skills.leaprampage_tex
+130400	Common	Common	Lancer	跳躍攻擊 04	False		icon_skills.leaprampage_tex
+130430	Common	Common	Lancer	跳躍攻擊 04	True		icon_skills.leaprampage_tex
+130500	Common	Common	Lancer	跳躍攻擊 05	False		icon_skills.leaprampage_tex
+130530	Common	Common	Lancer	跳躍攻擊 05	True		icon_skills.leaprampage_tex
+130600	Common	Common	Lancer	跳躍攻擊 06	False		icon_skills.leaprampage_tex
+130630	Common	Common	Lancer	跳躍攻擊 06	True		icon_skills.leaprampage_tex
+130700	Common	Common	Lancer	跳躍攻擊 07	False		icon_skills.leaprampage_tex
+130730	Common	Common	Lancer	跳躍攻擊 07	True		icon_skills.leaprampage_tex
+130800	Common	Common	Lancer	跳躍攻擊 08	False		icon_skills.leaprampage_tex
+130830	Common	Common	Lancer	跳躍攻擊 08	True		icon_skills.leaprampage_tex
+130900	Common	Common	Lancer	跳躍攻擊 09	False		icon_skills.leaprampage_tex
+130930	Common	Common	Lancer	跳躍攻擊 09	True		icon_skills.leaprampage_tex
+131000	Common	Common	Lancer	跳躍攻擊 10	False		icon_skills.leaprampage_tex
+131030	Common	Common	Lancer	跳躍攻擊 10	True		icon_skills.leaprampage_tex
+131100	Common	Common	Lancer	跳躍攻擊 11	False		icon_skills.leaprampage_tex
+131130	Common	Common	Lancer	跳躍攻擊 11	True		icon_skills.leaprampage_tex
+
+150100	Common	Common	Lancer	進擊突刺 01	False		icon_skills.advancingcharge_tex
+150101	Common	Common	Lancer	進擊突刺 01	False		icon_skills.advancingcharge_tex
+150200	Common	Common	Lancer	進擊突刺 02	False		icon_skills.advancingcharge_tex
+150201	Common	Common	Lancer	進擊突刺 02	False		icon_skills.advancingcharge_tex
+150300	Common	Common	Lancer	進擊突刺 03	False		icon_skills.advancingcharge_tex
+150301	Common	Common	Lancer	進擊突刺 03	False		icon_skills.advancingcharge_tex
+150400	Common	Common	Lancer	進擊突刺 04	False		icon_skills.advancingcharge_tex
+150401	Common	Common	Lancer	進擊突刺 04	False		icon_skills.advancingcharge_tex
+150500	Common	Common	Lancer	進擊突刺 05	False		icon_skills.advancingcharge_tex
+150501	Common	Common	Lancer	進擊突刺 05	False		icon_skills.advancingcharge_tex
+150600	Common	Common	Lancer	進擊突刺 06	False		icon_skills.advancingcharge_tex
+150601	Common	Common	Lancer	進擊突刺 06	False		icon_skills.advancingcharge_tex
+150700	Common	Common	Lancer	進擊突刺 07	False		icon_skills.advancingcharge_tex
+150701	Common	Common	Lancer	進擊突刺 07	False		icon_skills.advancingcharge_tex
+150800	Common	Common	Lancer	進擊突刺 08	False		icon_skills.advancingcharge_tex
+150801	Common	Common	Lancer	進擊突刺 08	False		icon_skills.advancingcharge_tex
+150900	Common	Common	Lancer	進擊突刺 09	False		icon_skills.advancingcharge_tex
+150901	Common	Common	Lancer	進擊突刺 09	False		icon_skills.advancingcharge_tex
+151000	Common	Common	Lancer	進擊突刺 10	False		icon_skills.advancingcharge_tex
+151001	Common	Common	Lancer	進擊突刺 10	False		icon_skills.advancingcharge_tex
+
+160100	Common	Common	Lancer	犧牲意志 01	False		icon_skills.rejuvenation_tex
+160200	Common	Common	Lancer	犧牲意志 02	False		icon_skills.rejuvenation_tex
+160300	Common	Common	Lancer	犧牲意志 03	False		icon_skills.rejuvenation_tex
+160400	Common	Common	Lancer	犧牲意志 04	False		icon_skills.rejuvenation_tex
+160500	Common	Common	Lancer	犧牲意志 05	False		icon_skills.rejuvenation_tex
+160600	Common	Common	Lancer	犧牲意志 06	False		icon_skills.rejuvenation_tex
+160700	Common	Common	Lancer	犧牲意志 07	False		icon_skills.rejuvenation_tex
+170100	Common	Common	Lancer	戰鬥意志 01	False		icon_skills.fightingwill_tex
+170200	Common	Common	Lancer	戰鬥意志 02	False		icon_skills.fightingwill_tex
+170240	Common	Common	Lancer	戰鬥意志 02	False		icon_skills.fightingwill_tex
+170250	Common	Common	Lancer	戰鬥意志 02	False		icon_skills.fightingwill_tex
+
+180100	Common	Common	Lancer	盾牌連打 01	False	hit 1	icon_skills.shieldattack_tex
+180101	Common	Common	Lancer	盾牌連打 01	False	hit 2	icon_skills.shieldattack_tex
+180200	Common	Common	Lancer	盾牌連打 02	False	hit 1	icon_skills.shieldattack_tex
+180201	Common	Common	Lancer	盾牌連打 02	False	hit 2	icon_skills.shieldattack_tex
+180300	Common	Common	Lancer	盾牌連打 03	False	hit 1	icon_skills.shieldattack_tex
+180301	Common	Common	Lancer	盾牌連打 03	False	hit 2	icon_skills.shieldattack_tex
+180400	Common	Common	Lancer	盾牌連打 04	False	hit 1	icon_skills.shieldattack_tex
+180401	Common	Common	Lancer	盾牌連打 04	False	hit 2	icon_skills.shieldattack_tex
+180500	Common	Common	Lancer	盾牌連打 05	False	hit 1	icon_skills.shieldattack_tex
+180501	Common	Common	Lancer	盾牌連打 05	False	hit 2	icon_skills.shieldattack_tex
+180600	Common	Common	Lancer	盾牌連打 06	False	hit 1	icon_skills.shieldattack_tex
+180601	Common	Common	Lancer	盾牌連打 06	False	hit 2	icon_skills.shieldattack_tex
+180700	Common	Common	Lancer	盾牌連打 07	False	hit 1	icon_skills.shieldattack_tex
+180701	Common	Common	Lancer	盾牌連打 07	False	hit 2	icon_skills.shieldattack_tex
+180800	Common	Common	Lancer	盾牌連打 08	False	hit 1	icon_skills.shieldattack_tex
+180801	Common	Common	Lancer	盾牌連打 08	False	hit 2	icon_skills.shieldattack_tex
+180900	Common	Common	Lancer	盾牌連打 09	False	hit 1	icon_skills.shieldattack_tex
+180901	Common	Common	Lancer	盾牌連打 09	False	hit 2	icon_skills.shieldattack_tex
+181000	Common	Common	Lancer	盾牌連打 10	False	hit 1	icon_skills.shieldattack_tex
+181001	Common	Common	Lancer	盾牌連打 10	False	hit 2	icon_skills.shieldattack_tex
+181100	Common	Common	Lancer	盾牌連打 11	False	hit 1	icon_skills.shieldattack_tex
+181101	Common	Common	Lancer	盾牌連打 11	False	hit 2	icon_skills.shieldattack_tex
+
+190100	Common	Common	Lancer	守護盟誓 01	False		icon_skills.vowofprotection_tex
+
+210100	Common	Common	Lancer	衝擊猛打 01	False		icon_skills.shockblow_tex
+210101	Common	Common	Lancer	衝擊猛打 01	False		icon_skills.shockblow_tex
+210102	Common	Common	Lancer	衝擊猛打 01	False		icon_skills.shockblow_tex
+210130	Common	Common	Lancer	衝擊猛打 01	False		icon_skills.shockblow_tex
+210200	Common	Common	Lancer	衝擊猛打 02	False		icon_skills.shockblow_tex
+210201	Common	Common	Lancer	衝擊猛打 02	False		icon_skills.shockblow_tex
+210202	Common	Common	Lancer	衝擊猛打 02	False		icon_skills.shockblow_tex
+210230	Common	Common	Lancer	衝擊猛打 02	False		icon_skills.shockblow_tex
+210300	Common	Common	Lancer	衝擊猛打 03	False		icon_skills.shockblow_tex
+210301	Common	Common	Lancer	衝擊猛打 03	False		icon_skills.shockblow_tex
+210302	Common	Common	Lancer	衝擊猛打 03	False		icon_skills.shockblow_tex
+210330	Common	Common	Lancer	衝擊猛打 03	False		icon_skills.shockblow_tex
+210400	Common	Common	Lancer	衝擊猛打 04	False		icon_skills.shockblow_tex
+210401	Common	Common	Lancer	衝擊猛打 04	False		icon_skills.shockblow_tex
+210402	Common	Common	Lancer	衝擊猛打 04	False		icon_skills.shockblow_tex
+210430	Common	Common	Lancer	衝擊猛打 04	False		icon_skills.shockblow_tex
+
+220100	Common	Common	Lancer	鐵甲意志 01	False		icon_skills.armoredwill_tex
+220200	Common	Common	Lancer	鐵甲意志 02	False		icon_skills.armoredwill_tex
+220300	Common	Common	Lancer	鐵甲意志 03	False		icon_skills.armoredwill_tex
+220400	Common	Common	Lancer	鐵甲意志 04	False		icon_skills.armoredwill_tex
+220500	Common	Common	Lancer	鐵甲意志 05	False		icon_skills.armoredwill_tex
+220600	Common	Common	Lancer	鐵甲意志 06	False		icon_skills.armoredwill_tex
+
+230100	Common	Common	Lancer	連鎖捕獲 01	False		icon_skills.chaincapture_tex
+230200	Common	Common	Lancer	連鎖捕獲 02	False		icon_skills.chaincapture_tex
+
+240100	Common	Common	Lancer	叉槍鎖鏈 01	False		icon_skills.harpoonshot_tex
+240101	Common	Common	Lancer	叉槍鎖鏈 01	False		icon_skills.harpoonshot_tex
+240102	Common	Common	Lancer	叉槍鎖鏈 01	False		icon_skills.harpoonshot_tex
+240121	Common	Common	Lancer	叉槍鎖鏈 01	False		icon_skills.harpoonshot_tex
+240122	Common	Common	Lancer	叉槍鎖鏈 01	False		icon_skills.harpoonshot_tex
+
+250100	Common	Common	Lancer	壓倒 01	False		icon_skills.overhelm_tex
+250130	Common	Common	Lancer	壓倒 01	True		icon_skills.overhelm_tex
+250200	Common	Common	Lancer	壓倒 02	False		icon_skills.overhelm_tex
+250230	Common	Common	Lancer	壓倒 02	True		icon_skills.overhelm_tex
+250300	Common	Common	Lancer	壓倒 03	False		icon_skills.overhelm_tex
+250330	Common	Common	Lancer	壓倒 03	True		icon_skills.overhelm_tex
+250400	Common	Common	Lancer	壓倒 04	False		icon_skills.overhelm_tex
+250430	Common	Common	Lancer	壓倒 04	True		icon_skills.overhelm_tex
+250500	Common	Common	Lancer	壓倒 05	False		icon_skills.overhelm_tex
+250530	Common	Common	Lancer	壓倒 05	True		icon_skills.overhelm_tex
+250600	Common	Common	Lancer	壓倒 06	False		icon_skills.overhelm_tex
+250630	Common	Common	Lancer	壓倒 06	True		icon_skills.overhelm_tex
+250700	Common	Common	Lancer	壓倒 07	False		icon_skills.overhelm_tex
+250730	Common	Common	Lancer	壓倒 07	True		icon_skills.overhelm_tex
+250800	Common	Common	Lancer	壓倒 08	False		icon_skills.overhelm_tex
+250830	Common	Common	Lancer	壓倒 08	True		icon_skills.overhelm_tex
+250900	Common	Common	Lancer	壓倒 09	False		icon_skills.overhelm_tex
+250930	Common	Common	Lancer	壓倒 09	True		icon_skills.overhelm_tex
+251000	Common	Common	Lancer	壓倒 10	False		icon_skills.overhelm_tex
+251030	Common	Common	Lancer	壓倒 10	True		icon_skills.overhelm_tex
+260100	Common	Common	Lancer	退避 01	False		icon_skills.backstep_tex
+
+270100	Common	Common	Lancer	戰線維護 01	False		icon_skills.holdtheline_tex
+280100	Common	Common	Lancer	正義跳躍 01	False		icon_skills.justiceleap_tex
+280101	Common	Common	Lancer	正義跳躍 01	False		icon_skills.justiceleap_tex
+
+290100	Common	Common	Lancer	防壁全開 01	False		icon_skills.shieldwall_tex
+
+300100	Common	Common	Lancer	天界盾牌 01	False		icon_skills.arcaneshield_tex
+
+9100100	Common	Common	Lancer	覺醒氣息	False		icon_skills.awakenaura_tex

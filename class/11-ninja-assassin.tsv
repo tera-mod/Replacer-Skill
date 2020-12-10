@@ -1,0 +1,768 @@
+10100	Common	Common	Ninja	連續攻擊I	False	hit 1	icon_skills.c12_meleecombo
+10101	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10102	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10103	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10104	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10105	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10106	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10130	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10140	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10141	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10142	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10143	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10144	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10145	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10146	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10170	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10200	Common	Common	Ninja	連續攻擊II	False	hit 1	icon_skills.c12_meleecombo
+10201	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10202	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10203	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10204	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10205	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10206	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10230	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10240	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10241	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10242	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10243	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10244	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10245	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10246	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10270	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10300	Common	Common	Ninja	連續攻擊III	False	hit 1	icon_skills.c12_meleecombo
+10301	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10302	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10303	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10304	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10305	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10306	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10330	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10340	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10341	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10342	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10343	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10344	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10345	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10346	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10370	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10400	Common	Common	Ninja	連續攻擊IV	False	hit 1	icon_skills.c12_meleecombo
+10401	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10402	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10403	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10404	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10405	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10406	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10430	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10440	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10441	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10442	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10443	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10444	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10445	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10446	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10470	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10500	Common	Common	Ninja	連續攻擊V	False	hit 1	icon_skills.c12_meleecombo
+10501	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10502	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10503	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10504	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10505	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10506	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10530	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10540	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10541	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10542	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10543	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10544	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10545	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10546	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10570	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10600	Common	Common	Ninja	連續攻擊VI	False	hit 1	icon_skills.c12_meleecombo
+10601	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10602	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10603	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10604	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10605	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10606	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10630	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10640	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10641	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10642	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10643	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10644	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10645	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10646	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10670	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10700	Common	Common	Ninja	連續攻擊VII	False	hit 1	icon_skills.c12_meleecombo
+10701	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10702	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10703	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10704	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10705	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10706	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10730	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10740	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10741	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10742	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10743	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10744	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10745	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10746	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10770	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10800	Common	Common	Ninja	連續攻擊VIII	False	hit 1	icon_skills.c12_meleecombo
+10801	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10802	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10803	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10804	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10805	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10806	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10830	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10840	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10841	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10842	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10843	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10844	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10845	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10846	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10870	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+10900	Common	Common	Ninja	連續攻擊IX	False	hit 1	icon_skills.c12_meleecombo
+10901	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+10902	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+10903	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+10904	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+10905	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+10906	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+10930	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+10940	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+10941	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+10942	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+10943	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+10944	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+10945	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+10946	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+10970	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+11000	Common	Common	Ninja	連續攻擊X	False	hit 1	icon_skills.c12_meleecombo
+11001	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+11002	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+11003	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+11004	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+11005	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+11006	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+11030	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+11040	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+11041	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+11042	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+11043	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+11044	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+11045	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+11046	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+11070	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+11100	Common	Common	Ninja	連續攻擊XI	False	hit 1	icon_skills.c12_meleecombo
+11101	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+11102	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+11103	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+11104	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+11105	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+11106	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+11130	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+11140	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+11141	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+11142	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+11143	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+11144	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+11145	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+11146	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+11170	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+11200	Common	Common	Ninja	連續攻擊 12	False	hit 1	icon_skills.c12_meleecombo
+11201	Common	Common	Ninja	連續攻擊I	False	hit 2	icon_skills.c12_meleecombo
+11202	Common	Common	Ninja	連續攻擊I	False	hit 3	icon_skills.c12_meleecombo
+11203	Common	Common	Ninja	連續攻擊I	False	hit 4	icon_skills.c12_meleecombo
+11204	Common	Common	Ninja	連續攻擊I	False	hit 5	icon_skills.c12_meleecombo
+11205	Common	Common	Ninja	連續攻擊I	False	hit 6	icon_skills.c12_meleecombo
+11206	Common	Common	Ninja	連續攻擊I	False	hit 7	icon_skills.c12_meleecombo
+11230	Common	Common	Ninja	連續攻擊I	True		icon_skills.c12_meleecombo
+11240	Common	Common	Ninja	連續攻擊I	False	Side hit 1	icon_skills.c12_meleecombo
+11241	Common	Common	Ninja	連續攻擊I	False	Side hit 2	icon_skills.c12_meleecombo
+11242	Common	Common	Ninja	連續攻擊I	False	Side hit 3	icon_skills.c12_meleecombo
+11243	Common	Common	Ninja	連續攻擊I	False	Side hit 4	icon_skills.c12_meleecombo
+11244	Common	Common	Ninja	連續攻擊I	False	Side hit 5	icon_skills.c12_meleecombo
+11245	Common	Common	Ninja	連續攻擊I	False	Side hit 6	icon_skills.c12_meleecombo
+11246	Common	Common	Ninja	連續攻擊I	False	Side hit 7	icon_skills.c12_meleecombo
+11270	Common	Common	Ninja	連續攻擊I	True	Side 	icon_skills.c12_meleecombo
+
+20100	Common	Common	Ninja	迴避啟動 01	False		icon_skills.c12_dash
+20130	Common	Common	Ninja	迴避啟動 01	False	hit 2	icon_skills.c12_dash
+
+30100	Common	Common	Ninja	標槍連射 01	False		icon_skills.c12_rapidshot
+30120	Common	Common	Ninja	標槍連射 01	False		icon_skills.c12_rapidshot
+30130	Common	Common	Ninja	標槍連射 01	True		icon_skills.c12_rapidshot
+30200	Common	Common	Ninja	標槍連射 02	False		icon_skills.c12_rapidshot
+30220	Common	Common	Ninja	標槍連射 02	False		icon_skills.c12_rapidshot
+30230	Common	Common	Ninja	標槍連射 02	True		icon_skills.c12_rapidshot
+30300	Common	Common	Ninja	標槍連射 03	False		icon_skills.c12_rapidshot
+30320	Common	Common	Ninja	標槍連射 03	False		icon_skills.c12_rapidshot
+30330	Common	Common	Ninja	標槍連射 03	True		icon_skills.c12_rapidshot
+30400	Common	Common	Ninja	標槍連射 04	False		icon_skills.c12_rapidshot
+30420	Common	Common	Ninja	標槍連射 04	False		icon_skills.c12_rapidshot
+30430	Common	Common	Ninja	標槍連射 04	True		icon_skills.c12_rapidshot
+30500	Common	Common	Ninja	標槍連射 05	False		icon_skills.c12_rapidshot
+30520	Common	Common	Ninja	標槍連射 05	False		icon_skills.c12_rapidshot
+30530	Common	Common	Ninja	標槍連射 05	True		icon_skills.c12_rapidshot
+30600	Common	Common	Ninja	標槍連射 06	False		icon_skills.c12_rapidshot
+30620	Common	Common	Ninja	標槍連射 06	False		icon_skills.c12_rapidshot
+30630	Common	Common	Ninja	標槍連射 06	True		icon_skills.c12_rapidshot
+30700	Common	Common	Ninja	標槍連射 07	False		icon_skills.c12_rapidshot
+30720	Common	Common	Ninja	標槍連射 07	False		icon_skills.c12_rapidshot
+30730	Common	Common	Ninja	標槍連射 07	True		icon_skills.c12_rapidshot
+30800	Common	Common	Ninja	標槍連射 08	False		icon_skills.c12_rapidshot
+30820	Common	Common	Ninja	標槍連射 08	False		icon_skills.c12_rapidshot
+30830	Common	Common	Ninja	標槍連射 08	True		icon_skills.c12_rapidshot
+30840	Common	Common	Ninja	標槍連射 08	True		icon_skills.c12_rapidshot
+
+40100	Common	Common	Ninja	連續跳躍 01	False		icon_skills.c12_dashattack
+40101	Common	Common	Ninja	連續跳躍 01	False		icon_skills.c12_dashattack
+40102	Common	Common	Ninja	連續跳躍 01	False		icon_skills.c12_dashattack
+40110	Common	Common	Ninja	連續跳躍 01	False		icon_skills.c12_dashattack
+40111	Common	Common	Ninja	連續跳躍 01	False	Dash fail	icon_skills.c12_dashattack
+40200	Common	Common	Ninja	連續跳躍 02	False		icon_skills.c12_dashattack
+40201	Common	Common	Ninja	連續跳躍 02	False		icon_skills.c12_dashattack
+40202	Common	Common	Ninja	連續跳躍 02	False		icon_skills.c12_dashattack
+40210	Common	Common	Ninja	連續跳躍 02	False		icon_skills.c12_dashattack
+40211	Common	Common	Ninja	連續跳躍 02	False	Dash fail	icon_skills.c12_dashattack
+40300	Common	Common	Ninja	連續跳躍 03	False		icon_skills.c12_dashattack
+40301	Common	Common	Ninja	連續跳躍 03	False		icon_skills.c12_dashattack
+40302	Common	Common	Ninja	連續跳躍 03	False		icon_skills.c12_dashattack
+40310	Common	Common	Ninja	連續跳躍 03	False		icon_skills.c12_dashattack
+40311	Common	Common	Ninja	連續跳躍 03	False	Dash fail	icon_skills.c12_dashattack
+40400	Common	Common	Ninja	連續跳躍 04	False		icon_skills.c12_dashattack
+40401	Common	Common	Ninja	連續跳躍 04	False		icon_skills.c12_dashattack
+40402	Common	Common	Ninja	連續跳躍 04	False		icon_skills.c12_dashattack
+40410	Common	Common	Ninja	連續跳躍 04	False		icon_skills.c12_dashattack
+40411	Common	Common	Ninja	連續跳躍 04	False	Dash fail	icon_skills.c12_dashattack
+40500	Common	Common	Ninja	連續跳躍 05	False		icon_skills.c12_dashattack
+40501	Common	Common	Ninja	連續跳躍 05	False		icon_skills.c12_dashattack
+40502	Common	Common	Ninja	連續跳躍 05	False		icon_skills.c12_dashattack
+40510	Common	Common	Ninja	連續跳躍 05	False		icon_skills.c12_dashattack
+40511	Common	Common	Ninja	連續跳躍 05	False	Dash fail	icon_skills.c12_dashattack
+40600	Common	Common	Ninja	連續跳躍 06	False		icon_skills.c12_dashattack
+40601	Common	Common	Ninja	連續跳躍 06	False		icon_skills.c12_dashattack
+40602	Common	Common	Ninja	連續跳躍 06	False		icon_skills.c12_dashattack
+40610	Common	Common	Ninja	連續跳躍 06	False		icon_skills.c12_dashattack
+40611	Common	Common	Ninja	連續跳躍 06	False	Dash fail	icon_skills.c12_dashattack
+40700	Common	Common	Ninja	連續跳躍 07	False		icon_skills.c12_dashattack
+40701	Common	Common	Ninja	連續跳躍 07	False		icon_skills.c12_dashattack
+40702	Common	Common	Ninja	連續跳躍 07	False		icon_skills.c12_dashattack
+40710	Common	Common	Ninja	連續跳躍 07	False		icon_skills.c12_dashattack
+40711	Common	Common	Ninja	連續跳躍 07	False	Dash fail	icon_skills.c12_dashattack
+40800	Common	Common	Ninja	連續跳躍 08	False		icon_skills.c12_dashattack
+40801	Common	Common	Ninja	連續跳躍 08	False		icon_skills.c12_dashattack
+40802	Common	Common	Ninja	連續跳躍 08	False		icon_skills.c12_dashattack
+40810	Common	Common	Ninja	連續跳躍 08	False		icon_skills.c12_dashattack
+40811	Common	Common	Ninja	連續跳躍 08	False	Dash fail	icon_skills.c12_dashattack
+40900	Common	Common	Ninja	連續跳躍 09	False		icon_skills.c12_dashattack
+40901	Common	Common	Ninja	連續跳躍 09	False		icon_skills.c12_dashattack
+40902	Common	Common	Ninja	連續跳躍 09	False		icon_skills.c12_dashattack
+40910	Common	Common	Ninja	連續跳躍 09	False		icon_skills.c12_dashattack
+40911	Common	Common	Ninja	連續跳躍 09	False	Dash fail	icon_skills.c12_dashattack
+41000	Common	Common	Ninja	連續跳躍 10	False		icon_skills.c12_dashattack
+41001	Common	Common	Ninja	連續跳躍 10	False		icon_skills.c12_dashattack
+41002	Common	Common	Ninja	連續跳躍 10	False		icon_skills.c12_dashattack
+41010	Common	Common	Ninja	連續跳躍 10	False		icon_skills.c12_dashattack
+41011	Common	Common	Ninja	連續跳躍 10	False	Dash fail	icon_skills.c12_dashattack
+41100	Common	Common	Ninja	連續跳躍 11	False		icon_skills.c12_dashattack
+41101	Common	Common	Ninja	連續跳躍 11	False		icon_skills.c12_dashattack
+41102	Common	Common	Ninja	連續跳躍 11	False		icon_skills.c12_dashattack
+41110	Common	Common	Ninja	連續跳躍 11	False		icon_skills.c12_dashattack
+41111	Common	Common	Ninja	連續跳躍 11	False	Dash fail	icon_skills.c12_dashattack
+
+50100	Common	Common	Ninja	火焰彈投擲 01	False		icon_skills.c12_flamebomb
+50120	Common	Common	Ninja	火焰彈投擲 01	False		icon_skills.c12_flamebomb
+50121	Common	Common	Ninja	火焰彈投擲 01	False	Blast	icon_skills.c12_flamebomb
+50130	Common	Common	Ninja	火焰彈投擲 01	True		icon_skills.c12_flamebomb
+50200	Common	Common	Ninja	火焰彈投擲 02	False		icon_skills.c12_flamebomb
+50220	Common	Common	Ninja	火焰彈投擲 02	False		icon_skills.c12_flamebomb
+50221	Common	Common	Ninja	火焰彈投擲 02	False	Blast	icon_skills.c12_flamebomb
+50230	Common	Common	Ninja	火焰彈投擲 02	True		icon_skills.c12_flamebomb
+50300	Common	Common	Ninja	火焰彈投擲 03	False		icon_skills.c12_flamebomb
+50320	Common	Common	Ninja	火焰彈投擲 03	False		icon_skills.c12_flamebomb
+50321	Common	Common	Ninja	火焰彈投擲 03	False	Blast	icon_skills.c12_flamebomb
+50330	Common	Common	Ninja	火焰彈投擲 03	True		icon_skills.c12_flamebomb
+50400	Common	Common	Ninja	火焰彈投擲 04	False		icon_skills.c12_flamebomb
+50420	Common	Common	Ninja	火焰彈投擲 04	False		icon_skills.c12_flamebomb
+50421	Common	Common	Ninja	火焰彈投擲 04	False	Blast	icon_skills.c12_flamebomb
+50430	Common	Common	Ninja	火焰彈投擲 04	True		icon_skills.c12_flamebomb
+50500	Common	Common	Ninja	火焰彈投擲 05	False		icon_skills.c12_flamebomb
+50520	Common	Common	Ninja	火焰彈投擲 05	False		icon_skills.c12_flamebomb
+50521	Common	Common	Ninja	火焰彈投擲 05	False	Blast	icon_skills.c12_flamebomb
+50530	Common	Common	Ninja	火焰彈投擲 05	True		icon_skills.c12_flamebomb
+50600	Common	Common	Ninja	火焰彈投擲 06	False		icon_skills.c12_flamebomb
+50620	Common	Common	Ninja	火焰彈投擲 06	False		icon_skills.c12_flamebomb
+50621	Common	Common	Ninja	火焰彈投擲 06	False	Blast	icon_skills.c12_flamebomb
+50630	Common	Common	Ninja	火焰彈投擲 06	True		icon_skills.c12_flamebomb
+50700	Common	Common	Ninja	火焰彈投擲 07	False		icon_skills.c12_flamebomb
+50720	Common	Common	Ninja	火焰彈投擲 07	False		icon_skills.c12_flamebomb
+50721	Common	Common	Ninja	火焰彈投擲 07	False	Blast	icon_skills.c12_flamebomb
+50730	Common	Common	Ninja	火焰彈投擲 07	True		icon_skills.c12_flamebomb
+50800	Common	Common	Ninja	火焰彈投擲 08	False		icon_skills.c12_flamebomb
+50820	Common	Common	Ninja	火焰彈投擲 08	False		icon_skills.c12_flamebomb
+50821	Common	Common	Ninja	火焰彈投擲 08	False	Blast	icon_skills.c12_flamebomb
+50830	Common	Common	Ninja	火焰彈投擲 08	True		icon_skills.c12_flamebomb
+50900	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+50920	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+50921	Common	Common	Ninja	火焰彈投擲 09	False	Blast	icon_skills.c12_flamebomb
+50930	Common	Common	Ninja	火焰彈投擲 09	True		icon_skills.c12_flamebomb
+53100	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+53120	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+53121	Common	Common	Ninja	火焰彈投擲 09	False	Blast	icon_skills.c12_flamebomb
+53130	Common	Common	Ninja	火焰彈投擲 09	True		icon_skills.c12_flamebomb
+53200	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+53220	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+53221	Common	Common	Ninja	火焰彈投擲 09	False	Blast	icon_skills.c12_flamebomb
+53230	Common	Common	Ninja	火焰彈投擲 09	True		icon_skills.c12_flamebomb
+53300	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+53320	Common	Common	Ninja	火焰彈投擲 09	False		icon_skills.c12_flamebomb
+53321	Common	Common	Ninja	火焰彈投擲 09	False	Blast	icon_skills.c12_flamebomb
+53330	Common	Common	Ninja	火焰彈投擲 09	True		icon_skills.c12_flamebomb
+
+60100	Common	Common	Ninja	快速砍擊 01	False		icon_skills.c12_rapidslash
+60101	Common	Common	Ninja	快速砍擊 01	False		icon_skills.c12_rapidslash
+60110	Common	Common	Ninja	快速砍擊 01	False		icon_skills.c12_rapidslash
+60130	Common	Common	Ninja	快速砍擊 01	True		icon_skills.c12_rapidslash
+60200	Common	Common	Ninja	快速砍擊 02	False		icon_skills.c12_rapidslash
+60201	Common	Common	Ninja	快速砍擊 02	False		icon_skills.c12_rapidslash
+60210	Common	Common	Ninja	快速砍擊 02	False		icon_skills.c12_rapidslash
+60230	Common	Common	Ninja	快速砍擊 02	True		icon_skills.c12_rapidslash
+60300	Common	Common	Ninja	快速砍擊 03	False		icon_skills.c12_rapidslash
+60301	Common	Common	Ninja	快速砍擊 03	False		icon_skills.c12_rapidslash
+60310	Common	Common	Ninja	快速砍擊 03	False		icon_skills.c12_rapidslash
+60330	Common	Common	Ninja	快速砍擊 03	True		icon_skills.c12_rapidslash
+60400	Common	Common	Ninja	快速砍擊 04	False		icon_skills.c12_rapidslash
+60401	Common	Common	Ninja	快速砍擊 04	False		icon_skills.c12_rapidslash
+60410	Common	Common	Ninja	快速砍擊 04	False		icon_skills.c12_rapidslash
+60430	Common	Common	Ninja	快速砍擊 04	True		icon_skills.c12_rapidslash
+60500	Common	Common	Ninja	快速砍擊 05	False		icon_skills.c12_rapidslash
+60501	Common	Common	Ninja	快速砍擊 05	False		icon_skills.c12_rapidslash
+60510	Common	Common	Ninja	快速砍擊 05	False		icon_skills.c12_rapidslash
+60530	Common	Common	Ninja	快速砍擊 05	True		icon_skills.c12_rapidslash
+60600	Common	Common	Ninja	快速砍擊 06	False		icon_skills.c12_rapidslash
+60601	Common	Common	Ninja	快速砍擊 06	False		icon_skills.c12_rapidslash
+60610	Common	Common	Ninja	快速砍擊 06	False		icon_skills.c12_rapidslash
+60630	Common	Common	Ninja	快速砍擊 06	True		icon_skills.c12_rapidslash
+60700	Common	Common	Ninja	快速砍擊 07	False		icon_skills.c12_rapidslash
+60701	Common	Common	Ninja	快速砍擊 07	False		icon_skills.c12_rapidslash
+60710	Common	Common	Ninja	快速砍擊 07	False		icon_skills.c12_rapidslash
+60730	Common	Common	Ninja	快速砍擊 07	True		icon_skills.c12_rapidslash
+60800	Common	Common	Ninja	快速砍擊 08	False		icon_skills.c12_rapidslash
+60801	Common	Common	Ninja	快速砍擊 08	False		icon_skills.c12_rapidslash
+60810	Common	Common	Ninja	快速砍擊 08	False		icon_skills.c12_rapidslash
+60830	Common	Common	Ninja	快速砍擊 08	True		icon_skills.c12_rapidslash
+60900	Common	Common	Ninja	快速砍擊 09	False		icon_skills.c12_rapidslash
+60901	Common	Common	Ninja	快速砍擊 09	False		icon_skills.c12_rapidslash
+60910	Common	Common	Ninja	快速砍擊 09	False		icon_skills.c12_rapidslash
+60930	Common	Common	Ninja	快速砍擊 09	True		icon_skills.c12_rapidslash
+61000	Common	Common	Ninja	快速砍擊 10	False		icon_skills.c12_rapidslash
+61001	Common	Common	Ninja	快速砍擊 10	False		icon_skills.c12_rapidslash
+61010	Common	Common	Ninja	快速砍擊 10	False		icon_skills.c12_rapidslash
+61030	Common	Common	Ninja	快速砍擊 10	True		icon_skills.c12_rapidslash
+61100	Common	Common	Ninja	快速砍擊 11	False		icon_skills.c12_rapidslash
+61101	Common	Common	Ninja	快速砍擊 10	False		icon_skills.c12_rapidslash
+61110	Common	Common	Ninja	快速砍擊 10	False		icon_skills.c12_rapidslash
+61130	Common	Common	Ninja	快速砍擊 10	True		icon_skills.c12_rapidslash
+
+70100	Common	Common	Ninja	後方移動術 01	False		icon_skills.c12_catchback
+70200	Common	Common	Ninja	後方移動術 02	False		icon_skills.c12_catchback
+70300	Common	Common	Ninja	後方移動術 03	False		icon_skills.c12_catchback
+70400	Common	Common	Ninja	後方移動術 04	False		icon_skills.c12_catchback
+70500	Common	Common	Ninja	後方移動術 05	False		icon_skills.c12_catchback
+70600	Common	Common	Ninja	後方移動術 06	False		icon_skills.c12_catchback
+70700	Common	Common	Ninja	後方移動術 07	False		icon_skills.c12_catchback
+70800	Common	Common	Ninja	後方移動術 08	False		icon_skills.c12_catchback
+70900	Common	Common	Ninja	後方移動術 09	False		icon_skills.c12_catchback
+71000	Common	Common	Ninja	後方移動術 10	False		icon_skills.c12_catchback
+71100	Common	Common	Ninja	後方移動術 11	False		icon_skills.c12_catchback
+71200	Common	Common	Ninja	後方移動術 12	False		icon_skills.c12_catchback
+
+80100	Common	Common	Ninja	爆炎術 01	False	hit 1	icon_skills.c12_flamestrike
+80101	Common	Common	Ninja	爆炎術 01	False	hit 2	icon_skills.c12_flamestrike
+80102	Common	Common	Ninja	爆炎術 01	False	hit 3	icon_skills.c12_flamestrike
+80130	Common	Common	Ninja	爆炎術 01	True		icon_skills.c12_flamestrike
+80200	Common	Common	Ninja	爆炎術 02	False		icon_skills.c12_flamestrike
+80201	Common	Common	Ninja	爆炎術 02	False	hit 2	icon_skills.c12_flamestrike
+80202	Common	Common	Ninja	爆炎術 02	False	hit 3	icon_skills.c12_flamestrike
+80230	Common	Common	Ninja	爆炎術 02	True		icon_skills.c12_flamestrike
+80231	Common	Common	Ninja	爆炎術 02	False	hit 1	icon_skills.c12_flamestrike
+
+80251	Common	Common	Ninja	多重分身爆炎術	False		icon_skills.c12_flamestrike_awaken
+80252	Common	Common	Ninja	多重分身爆炎術	False		icon_skills.c12_flamestrike_awaken
+
+90100	Common	Common	Ninja	迴避煙幕術 01	False		icon_skills.c12_smokebomb
+90120	Common	Common	Ninja	迴避煙幕術 01	False		icon_skills.c12_smokebomb
+90121	Common	Common	Ninja	迴避煙幕術 01	False		icon_skills.c12_smokebomb
+90130	Common	Common	Ninja	迴避煙幕術 01	True		icon_skills.c12_smokebomb
+90131	Common	Common	Ninja	迴避煙幕術 01	True		icon_skills.c12_smokebomb
+
+100100	Common	Common	Ninja	起身攻擊I	False		icon_skills.risingattack_tex
+100200	Common	Common	Ninja	起身攻擊II	False		icon_skills.risingattack_tex
+100300	Common	Common	Ninja	起身攻擊III	False		icon_skills.risingattack_tex
+100400	Common	Common	Ninja	起身攻擊IV	False		icon_skills.risingattack_tex
+100500	Common	Common	Ninja	起身攻擊V	False		icon_skills.risingattack_tex
+100600	Common	Common	Ninja	起身攻擊VI	False		icon_skills.risingattack_tex
+100700	Common	Common	Ninja	起身攻擊VII	False		icon_skills.risingattack_tex
+100800	Common	Common	Ninja	起身攻擊VIII	False		icon_skills.risingattack_tex
+100900	Common	Common	Ninja	起身攻擊IX	False		icon_skills.risingattack_tex
+101000	Common	Common	Ninja	起身攻擊X	False		icon_skills.risingattack_tex
+
+110100	Common	Common	Ninja	劍氣術	False	On	icon_skills.c12_atkupbuff
+110150	Common	Common	Ninja	劍氣術	False	Off	icon_skills.c12_atkupbuff
+
+120100	Common	Common	Ninja	三角砍擊 01	False		icon_skills.c12_airstepstrike
+120101	Common	Common	Ninja	三角砍擊 01	False		icon_skills.c12_airstepstrike
+120102	Common	Common	Ninja	三角砍擊 01	False		icon_skills.c12_airstepstrike
+120130	Common	Common	Ninja	三角砍擊 01	True		icon_skills.c12_airstepstrike
+120200	Common	Common	Ninja	三角砍擊 02	False		icon_skills.c12_airstepstrike
+120201	Common	Common	Ninja	三角砍擊 02	False		icon_skills.c12_airstepstrike
+120202	Common	Common	Ninja	三角砍擊 02	False		icon_skills.c12_airstepstrike
+120230	Common	Common	Ninja	三角砍擊 02	True		icon_skills.c12_airstepstrike
+120300	Common	Common	Ninja	三角砍擊 03	False		icon_skills.c12_airstepstrike
+120301	Common	Common	Ninja	三角砍擊 03	False		icon_skills.c12_airstepstrike
+120302	Common	Common	Ninja	三角砍擊 03	False		icon_skills.c12_airstepstrike
+120330	Common	Common	Ninja	三角砍擊 03	True		icon_skills.c12_airstepstrike
+120400	Common	Common	Ninja	三角砍擊 04	False		icon_skills.c12_airstepstrike
+120401	Common	Common	Ninja	三角砍擊 04	False		icon_skills.c12_airstepstrike
+120402	Common	Common	Ninja	三角砍擊 04	False		icon_skills.c12_airstepstrike
+120430	Common	Common	Ninja	三角砍擊 04	True		icon_skills.c12_airstepstrike
+120500	Common	Common	Ninja	三角砍擊 05	False		icon_skills.c12_airstepstrike
+120501	Common	Common	Ninja	三角砍擊 05	False		icon_skills.c12_airstepstrike
+120502	Common	Common	Ninja	三角砍擊 05	False		icon_skills.c12_airstepstrike
+120530	Common	Common	Ninja	三角砍擊 05	True		icon_skills.c12_airstepstrike
+120600	Common	Common	Ninja	三角砍擊 06	False		icon_skills.c12_airstepstrike
+120601	Common	Common	Ninja	三角砍擊 06	False		icon_skills.c12_airstepstrike
+120602	Common	Common	Ninja	三角砍擊 06	False		icon_skills.c12_airstepstrike
+120630	Common	Common	Ninja	三角砍擊 06	True		icon_skills.c12_airstepstrike
+120700	Common	Common	Ninja	三角砍擊 07	False		icon_skills.c12_airstepstrike
+120701	Common	Common	Ninja	三角砍擊 07	False		icon_skills.c12_airstepstrike
+120702	Common	Common	Ninja	三角砍擊 07	False		icon_skills.c12_airstepstrike
+120730	Common	Common	Ninja	三角砍擊 07	True		icon_skills.c12_airstepstrike
+120800	Common	Common	Ninja	三角砍擊 08	False		icon_skills.c12_airstepstrike
+120801	Common	Common	Ninja	三角砍擊 08	False		icon_skills.c12_airstepstrike
+120802	Common	Common	Ninja	三角砍擊 08	False		icon_skills.c12_airstepstrike
+120830	Common	Common	Ninja	三角砍擊 08	True		icon_skills.c12_airstepstrike
+120900	Common	Common	Ninja	三角砍擊 09	False		icon_skills.c12_airstepstrike
+120901	Common	Common	Ninja	三角砍擊 09	False		icon_skills.c12_airstepstrike
+120902	Common	Common	Ninja	三角砍擊 09	False		icon_skills.c12_airstepstrike
+120930	Common	Common	Ninja	三角砍擊 09	True		icon_skills.c12_airstepstrike
+121000	Common	Common	Ninja	三角砍擊 10	False		icon_skills.c12_airstepstrike
+121001	Common	Common	Ninja	三角砍擊 10	False		icon_skills.c12_airstepstrike
+121002	Common	Common	Ninja	三角砍擊 10	False		icon_skills.c12_airstepstrike
+121030	Common	Common	Ninja	三角砍擊 10	True		icon_skills.c12_airstepstrike
+121100	Common	Common	Ninja	三角砍擊 11	False		icon_skills.c12_airstepstrike
+121101	Common	Common	Ninja	三角砍擊 11	False		icon_skills.c12_airstepstrike
+121102	Common	Common	Ninja	三角砍擊 11	False		icon_skills.c12_airstepstrike
+121130	Common	Common	Ninja	三角砍擊 11	True		icon_skills.c12_airstepstrike
+
+130100	Common	Common	Ninja	扭轉砍擊 01	False		icon_skills.c12_rotateslash
+130101	Common	Common	Ninja	扭轉砍擊 01	False		icon_skills.c12_rotateslash
+130102	Common	Common	Ninja	扭轉砍擊 01	False		icon_skills.c12_rotateslash
+130130	Common	Common	Ninja	扭轉砍擊 01	True		icon_skills.c12_rotateslash
+130200	Common	Common	Ninja	扭轉砍擊 02	False		icon_skills.c12_rotateslash
+130201	Common	Common	Ninja	扭轉砍擊 02	False		icon_skills.c12_rotateslash
+130202	Common	Common	Ninja	扭轉砍擊 02	False		icon_skills.c12_rotateslash
+130230	Common	Common	Ninja	扭轉砍擊 02	True		icon_skills.c12_rotateslash
+130300	Common	Common	Ninja	扭轉砍擊 03	False		icon_skills.c12_rotateslash
+130301	Common	Common	Ninja	扭轉砍擊 03	False		icon_skills.c12_rotateslash
+130302	Common	Common	Ninja	扭轉砍擊 03	False		icon_skills.c12_rotateslash
+130330	Common	Common	Ninja	扭轉砍擊 03	True		icon_skills.c12_rotateslash
+130400	Common	Common	Ninja	扭轉砍擊 04	False		icon_skills.c12_rotateslash
+130401	Common	Common	Ninja	扭轉砍擊 04	False		icon_skills.c12_rotateslash
+130402	Common	Common	Ninja	扭轉砍擊 04	False		icon_skills.c12_rotateslash
+130430	Common	Common	Ninja	扭轉砍擊 04	True		icon_skills.c12_rotateslash
+130500	Common	Common	Ninja	扭轉砍擊 05	False		icon_skills.c12_rotateslash
+130501	Common	Common	Ninja	扭轉砍擊 05	False		icon_skills.c12_rotateslash
+130502	Common	Common	Ninja	扭轉砍擊 05	False		icon_skills.c12_rotateslash
+130530	Common	Common	Ninja	扭轉砍擊 05	True		icon_skills.c12_rotateslash
+130600	Common	Common	Ninja	扭轉砍擊 06	False		icon_skills.c12_rotateslash
+130601	Common	Common	Ninja	扭轉砍擊 06	False		icon_skills.c12_rotateslash
+130602	Common	Common	Ninja	扭轉砍擊 06	False		icon_skills.c12_rotateslash
+130630	Common	Common	Ninja	扭轉砍擊 06	True		icon_skills.c12_rotateslash
+130700	Common	Common	Ninja	扭轉砍擊 07	False		icon_skills.c12_rotateslash
+130701	Common	Common	Ninja	扭轉砍擊 07	False		icon_skills.c12_rotateslash
+130702	Common	Common	Ninja	扭轉砍擊 07	False		icon_skills.c12_rotateslash
+130730	Common	Common	Ninja	扭轉砍擊 07	True		icon_skills.c12_rotateslash
+130800	Common	Common	Ninja	扭轉砍擊 08	False		icon_skills.c12_rotateslash
+130801	Common	Common	Ninja	扭轉砍擊 08	False		icon_skills.c12_rotateslash
+130802	Common	Common	Ninja	扭轉砍擊 08	False		icon_skills.c12_rotateslash
+130830	Common	Common	Ninja	扭轉砍擊 08	True		icon_skills.c12_rotateslash
+130900	Common	Common	Ninja	扭轉砍擊 09	False		icon_skills.c12_rotateslash
+130901	Common	Common	Ninja	扭轉砍擊 09	False		icon_skills.c12_rotateslash
+130902	Common	Common	Ninja	扭轉砍擊 09	False		icon_skills.c12_rotateslash
+130930	Common	Common	Ninja	扭轉砍擊 09	True		icon_skills.c12_rotateslash
+131000	Common	Common	Ninja	扭轉砍擊 10	False		icon_skills.c12_rotateslash
+131001	Common	Common	Ninja	扭轉砍擊 10	False		icon_skills.c12_rotateslash
+131002	Common	Common	Ninja	扭轉砍擊 10	False		icon_skills.c12_rotateslash
+131030	Common	Common	Ninja	扭轉砍擊 10	True		icon_skills.c12_rotateslash
+
+140100	Common	Common	Ninja	二段砍擊 01	False		icon_skills.c12_twinslash
+140101	Common	Common	Ninja	二段砍擊 01	False		icon_skills.c12_twinslash
+140102	Common	Common	Ninja	二段砍擊 01	False		icon_skills.c12_twinslash
+140130	Common	Common	Ninja	二段砍擊 01	True		icon_skills.c12_twinslash
+140200	Common	Common	Ninja	二段砍擊 02	False		icon_skills.c12_twinslash
+140201	Common	Common	Ninja	二段砍擊 02	False		icon_skills.c12_twinslash
+140202	Common	Common	Ninja	二段砍擊 02	False		icon_skills.c12_twinslash
+140230	Common	Common	Ninja	二段砍擊 02	True		icon_skills.c12_twinslash
+140300	Common	Common	Ninja	二段砍擊 03	False		icon_skills.c12_twinslash
+140301	Common	Common	Ninja	二段砍擊 03	False		icon_skills.c12_twinslash
+140302	Common	Common	Ninja	二段砍擊 03	False		icon_skills.c12_twinslash
+140330	Common	Common	Ninja	二段砍擊 03	True		icon_skills.c12_twinslash
+140400	Common	Common	Ninja	二段砍擊  04	False		icon_skills.c12_twinslash
+140401	Common	Common	Ninja	二段砍擊 04	False		icon_skills.c12_twinslash
+140402	Common	Common	Ninja	二段砍擊 04	False		icon_skills.c12_twinslash
+140430	Common	Common	Ninja	二段砍擊 04	True		icon_skills.c12_twinslash
+140500	Common	Common	Ninja	二段砍擊  05	False		icon_skills.c12_twinslash
+140501	Common	Common	Ninja	二段砍擊 05	False		icon_skills.c12_twinslash
+140502	Common	Common	Ninja	二段砍擊 05	False		icon_skills.c12_twinslash
+140530	Common	Common	Ninja	二段砍擊 05	True		icon_skills.c12_twinslash
+140600	Common	Common	Ninja	二段砍擊 06	False		icon_skills.c12_twinslash
+140601	Common	Common	Ninja	二段砍擊 06	False		icon_skills.c12_twinslash
+140602	Common	Common	Ninja	二段砍擊 06	False		icon_skills.c12_twinslash
+140630	Common	Common	Ninja	二段砍擊 06	True		icon_skills.c12_twinslash
+140700	Common	Common	Ninja	二段砍擊 01	False		icon_skills.c12_twinslash
+140701	Common	Common	Ninja	二段砍擊 07	False		icon_skills.c12_twinslash
+140702	Common	Common	Ninja	二段砍擊 07	False		icon_skills.c12_twinslash
+140730	Common	Common	Ninja	二段砍擊 07	True		icon_skills.c12_twinslash
+140800	Common	Common	Ninja	二段砍擊  08	False		icon_skills.c12_twinslash
+140801	Common	Common	Ninja	二段砍擊 08	False		icon_skills.c12_twinslash
+140802	Common	Common	Ninja	二段砍擊 08	False		icon_skills.c12_twinslash
+140830	Common	Common	Ninja	二段砍擊 08	True		icon_skills.c12_twinslash
+140900	Common	Common	Ninja	二段砍擊  09	False		icon_skills.c12_twinslash
+140901	Common	Common	Ninja	二段砍擊 09	False		icon_skills.c12_twinslash
+140902	Common	Common	Ninja	二段砍擊 09	False		icon_skills.c12_twinslash
+140930	Common	Common	Ninja	二段砍擊 09	True		icon_skills.c12_twinslash
+141000	Common	Common	Ninja	二段砍擊  10	False		icon_skills.c12_twinslash
+141001	Common	Common	Ninja	二段砍擊 10	False		icon_skills.c12_twinslash
+141002	Common	Common	Ninja	二段砍擊 10	False		icon_skills.c12_twinslash
+141030	Common	Common	Ninja	二段砍擊 10	True		icon_skills.c12_twinslash
+141100	Common	Common	Ninja	二段砍擊  11	False		icon_skills.c12_twinslash
+141101	Common	Common	Ninja	二段砍擊 11	False		icon_skills.c12_twinslash
+141102	Common	Common	Ninja	二段砍擊 11	False		icon_skills.c12_twinslash
+141130	Common	Common	Ninja	二段砍擊 11	True		icon_skills.c12_twinslash
+
+150100	Common	Common	Ninja	火焰術 01	False	hit 1	icon_skills.c12_flamebreath
+150101	Common	Common	Ninja	火焰術 01	False	hit 2	icon_skills.c12_flamebreath
+150102	Common	Common	Ninja	火焰術 01	False	hit 3	icon_skills.c12_flamebreath
+150103	Common	Common	Ninja	火焰術 01	False	hit 4	icon_skills.c12_flamebreath
+150104	Common	Common	Ninja	火焰術 01	False	hit 5	icon_skills.c12_flamebreath
+150105	Common	Common	Ninja	火焰術 01	False	hit 6	icon_skills.c12_flamebreath
+150106	Common	Common	Ninja	火焰術 01	False	hit 7	icon_skills.c12_flamebreath
+150107	Common	Common	Ninja	火焰術 01	False	hit 8	icon_skills.c12_flamebreath
+150108	Common	Common	Ninja	火焰術 01	False	hit 9	icon_skills.c12_flamebreath
+150109	Common	Common	Ninja	火焰術 01	False		icon_skills.c12_flamebreath
+150120	Common	Common	Ninja	火焰術 01	False		icon_skills.c12_flamebreath
+150200	Common	Common	Ninja	火焰術 02	False	hit 1	icon_skills.c12_flamebreath
+150201	Common	Common	Ninja	火焰術 02	False	hit 2	icon_skills.c12_flamebreath
+150202	Common	Common	Ninja	火焰術 02	False	hit 3	icon_skills.c12_flamebreath
+150203	Common	Common	Ninja	火焰術 02	False	hit 4	icon_skills.c12_flamebreath
+150204	Common	Common	Ninja	火焰術 02	False	hit 5	icon_skills.c12_flamebreath
+150205	Common	Common	Ninja	火焰術 02	False	hit 6	icon_skills.c12_flamebreath
+150206	Common	Common	Ninja	火焰術 02	False	hit 7	icon_skills.c12_flamebreath
+150207	Common	Common	Ninja	火焰術 02	False	hit 8	icon_skills.c12_flamebreath
+150208	Common	Common	Ninja	火焰術 02	False	hit 9	icon_skills.c12_flamebreath
+150209	Common	Common	Ninja	火焰術 02	False		icon_skills.c12_flamebreath
+150220	Common	Common	Ninja	火焰術 02	False		icon_skills.c12_flamebreath
+150300	Common	Common	Ninja	火焰術 03	False	hit 1	icon_skills.c12_flamebreath
+150301	Common	Common	Ninja	火焰術 03	False	hit 2	icon_skills.c12_flamebreath
+150302	Common	Common	Ninja	火焰術 03	False	hit 3	icon_skills.c12_flamebreath
+150303	Common	Common	Ninja	火焰術 03	False	hit 4	icon_skills.c12_flamebreath
+150304	Common	Common	Ninja	火焰術 03	False	hit 5	icon_skills.c12_flamebreath
+150305	Common	Common	Ninja	火焰術 03	False	hit 6	icon_skills.c12_flamebreath
+150306	Common	Common	Ninja	火焰術 03	False	hit 7	icon_skills.c12_flamebreath
+150307	Common	Common	Ninja	火焰術 03	False	hit 8	icon_skills.c12_flamebreath
+150308	Common	Common	Ninja	火焰術 03	False	hit 9	icon_skills.c12_flamebreath
+150309	Common	Common	Ninja	火焰術 03	False		icon_skills.c12_flamebreath
+150320	Common	Common	Ninja	火焰術 03	False		icon_skills.c12_flamebreath
+150400	Common	Common	Ninja	火焰術 04	False	hit 1	icon_skills.c12_flamebreath
+150401	Common	Common	Ninja	火焰術 04	False	hit 2	icon_skills.c12_flamebreath
+150402	Common	Common	Ninja	火焰術 04	False	hit 3	icon_skills.c12_flamebreath
+150403	Common	Common	Ninja	火焰術 04	False	hit 4	icon_skills.c12_flamebreath
+150404	Common	Common	Ninja	火焰術 04	False	hit 5	icon_skills.c12_flamebreath
+150405	Common	Common	Ninja	火焰術 04	False	hit 6	icon_skills.c12_flamebreath
+150406	Common	Common	Ninja	火焰術 04	False	hit 7	icon_skills.c12_flamebreath
+150407	Common	Common	Ninja	火焰術 04	False	hit 8	icon_skills.c12_flamebreath
+150408	Common	Common	Ninja	火焰術 04	False	hit 9	icon_skills.c12_flamebreath
+150409	Common	Common	Ninja	火焰術 04	False		icon_skills.c12_flamebreath
+150420	Common	Common	Ninja	火焰術 04	False		icon_skills.c12_flamebreath
+150500	Common	Common	Ninja	火焰術 05	False	hit 1	icon_skills.c12_flamebreath
+150501	Common	Common	Ninja	火焰術 05	False	hit 2	icon_skills.c12_flamebreath
+150502	Common	Common	Ninja	火焰術 05	False	hit 3	icon_skills.c12_flamebreath
+150503	Common	Common	Ninja	火焰術 05	False	hit 4	icon_skills.c12_flamebreath
+150504	Common	Common	Ninja	火焰術 05	False	hit 5	icon_skills.c12_flamebreath
+150505	Common	Common	Ninja	火焰術 05	False	hit 6	icon_skills.c12_flamebreath
+150506	Common	Common	Ninja	火焰術 05	False	hit 7	icon_skills.c12_flamebreath
+150507	Common	Common	Ninja	火焰術 05	False	hit 8	icon_skills.c12_flamebreath
+150508	Common	Common	Ninja	火焰術 05	False	hit 9	icon_skills.c12_flamebreath
+150509	Common	Common	Ninja	火焰術 05	False		icon_skills.c12_flamebreath
+150520	Common	Common	Ninja	火焰術 05	False		icon_skills.c12_flamebreath
+150600	Common	Common	Ninja	火焰術 06	False	hit 1	icon_skills.c12_flamebreath
+150601	Common	Common	Ninja	火焰術 06	False	hit 2	icon_skills.c12_flamebreath
+150602	Common	Common	Ninja	火焰術 06	False	hit 3	icon_skills.c12_flamebreath
+150603	Common	Common	Ninja	火焰術 06	False	hit 4	icon_skills.c12_flamebreath
+150604	Common	Common	Ninja	火焰術 06	False	hit 5	icon_skills.c12_flamebreath
+150605	Common	Common	Ninja	火焰術 06	False	hit 6	icon_skills.c12_flamebreath
+150606	Common	Common	Ninja	火焰術 06	False	hit 7	icon_skills.c12_flamebreath
+150607	Common	Common	Ninja	火焰術 06	False	hit 8	icon_skills.c12_flamebreath
+150608	Common	Common	Ninja	火焰術 06	False	hit 9	icon_skills.c12_flamebreath
+150609	Common	Common	Ninja	火焰術 06	False		icon_skills.c12_flamebreath
+150620	Common	Common	Ninja	火焰術 06	False		icon_skills.c12_flamebreath
+150700	Common	Common	Ninja	火焰術 07	False		icon_skills.c12_flamebreath
+150701	Common	Common	Ninja	火焰術 07	False	hit 1	icon_skills.c12_flamebreath
+150702	Common	Common	Ninja	火焰術 07	False	hit 2	icon_skills.c12_flamebreath
+150703	Common	Common	Ninja	火焰術 07	False	hit 3	icon_skills.c12_flamebreath
+150704	Common	Common	Ninja	火焰術 07	False	hit 4	icon_skills.c12_flamebreath
+150705	Common	Common	Ninja	火焰術 07	False	hit 5	icon_skills.c12_flamebreath
+150706	Common	Common	Ninja	火焰術 07	False	hit 6	icon_skills.c12_flamebreath
+150707	Common	Common	Ninja	火焰術 07	False	hit 7	icon_skills.c12_flamebreath
+150708	Common	Common	Ninja	火焰術 07	False	hit 8	icon_skills.c12_flamebreath
+150709	Common	Common	Ninja	火焰術 07	False	hit 9	icon_skills.c12_flamebreath
+150710	Common	Common	Ninja	火焰術 07	False		icon_skills.c12_flamebreath
+150720	Common	Common	Ninja	火焰術 07	False		icon_skills.c12_flamebreath
+
+150731	Common	Common	Ninja	多重分身火焰術	False		icon_skills.c12_flamebreath_awaken
+150732	Common	Common	Ninja	多重分身火焰術	False		icon_skills.c12_flamebreath_awaken
+
+160100	Common	Common	Ninja	展開手裏劍 01	False		icon_skills.c12_rotateshurikenshot
+160120	Common	Common	Ninja	展開手裏劍 01	False	forward	icon_skills.c12_rotateshurikenshot
+160121	Common	Common	Ninja	展開手裏劍 01	False	backward	icon_skills.c12_rotateshurikenshot
+160130	Common	Common	Ninja	展開手裏劍 01	True		icon_skills.c12_rotateshurikenshot
+160200	Common	Common	Ninja	展開手裏劍 02	False		icon_skills.c12_rotateshurikenshot
+160220	Common	Common	Ninja	展開手裏劍 02	False	forward	icon_skills.c12_rotateshurikenshot
+160221	Common	Common	Ninja	展開手裏劍 02	False	backward	icon_skills.c12_rotateshurikenshot
+160230	Common	Common	Ninja	展開手裏劍 02	True		icon_skills.c12_rotateshurikenshot
+160300	Common	Common	Ninja	展開手裏劍 03	False		icon_skills.c12_rotateshurikenshot
+160320	Common	Common	Ninja	展開手裏劍 03	False	forward	icon_skills.c12_rotateshurikenshot
+160321	Common	Common	Ninja	展開手裏劍 03	False	backward	icon_skills.c12_rotateshurikenshot
+160330	Common	Common	Ninja	展開手裏劍 03	True		icon_skills.c12_rotateshurikenshot
+160400	Common	Common	Ninja	展開手裏劍 04	False		icon_skills.c12_rotateshurikenshot
+160420	Common	Common	Ninja	展開手裏劍 04	False	forward	icon_skills.c12_rotateshurikenshot
+160421	Common	Common	Ninja	展開手裏劍 04	False	backward	icon_skills.c12_rotateshurikenshot
+160430	Common	Common	Ninja	展開手裏劍 04	True		icon_skills.c12_rotateshurikenshot
+
+170100	Common	Common	Ninja	查克拉恢復術 01	False		icon_skills.c12_chakracharge
+170130	Common	Common	Ninja	查克拉恢復術 01	True		icon_skills.c12_chakracharge
+173100	Common	Common	Ninja	查克拉恢復術 01	False		icon_skills.c12_chakracharge
+173130	Common	Common	Ninja	查克拉恢復術 01	True		icon_skills.c12_chakracharge
+173200	Common	Common	Ninja	查克拉恢復術 01	False		icon_skills.c12_chakracharge
+173230	Common	Common	Ninja	查克拉恢復術 01	True		icon_skills.c12_chakracharge
+173300	Common	Common	Ninja	查克拉恢復術 01	False		icon_skills.c12_chakracharge
+173330	Common	Common	Ninja	查克拉恢復術 01	True		icon_skills.c12_chakracharge
+
+180100	Common	Common	Ninja	旋風手裏劍投擲 01	False		icon_skills.c12_tornadoshot
+180120	Common	Common	Ninja	旋風手裏劍投擲 01	False		icon_skills.c12_tornadoshot
+180121	Common	Common	Ninja	旋風手裏劍投擲 01	False	stopping	icon_skills.c12_tornadoshot
+180122	Common	Common	Ninja	旋風手裏劍投擲 01	False	backward	icon_skills.c12_tornadoshot
+180130	Common	Common	Ninja	旋風手裏劍投擲 01	True		icon_skills.c12_tornadoshot
+180200	Common	Common	Ninja	旋風手裏劍投擲 02	False		icon_skills.c12_tornadoshot
+180220	Common	Common	Ninja	旋風手裏劍投擲 02	False		icon_skills.c12_tornadoshot
+180221	Common	Common	Ninja	旋風手裏劍投擲 02	False	stopping	icon_skills.c12_tornadoshot
+180222	Common	Common	Ninja	旋風手裏劍投擲 02	False	backward	icon_skills.c12_tornadoshot
+180230	Common	Common	Ninja	旋風手裏劍投擲 02	True		icon_skills.c12_tornadoshot
+180300	Common	Common	Ninja	旋風手裏劍投擲 03	False		icon_skills.c12_tornadoshot
+180320	Common	Common	Ninja	旋風手裏劍投擲 03	False		icon_skills.c12_tornadoshot
+180321	Common	Common	Ninja	旋風手裏劍投擲 03	False	stopping	icon_skills.c12_tornadoshot
+180322	Common	Common	Ninja	旋風手裏劍投擲 03	False	backward	icon_skills.c12_tornadoshot
+180330	Common	Common	Ninja	旋風手裏劍投擲 03	True		icon_skills.c12_tornadoshot
+180400	Common	Common	Ninja	旋風手裏劍投擲 04	False		icon_skills.c12_tornadoshot
+180420	Common	Common	Ninja	旋風手裏劍投擲 04	False		icon_skills.c12_tornadoshot
+180421	Common	Common	Ninja	旋風手裏劍投擲 04	False	stopping	icon_skills.c12_tornadoshot
+180422	Common	Common	Ninja	旋風手裏劍投擲 04	False	backward	icon_skills.c12_tornadoshot
+180430	Common	Common	Ninja	旋風手裏劍投擲 04	True		icon_skills.c12_tornadoshot
+180500	Common	Common	Ninja	旋風手裏劍投擲 05	False		icon_skills.c12_tornadoshot
+180520	Common	Common	Ninja	旋風手裏劍投擲 05	False		icon_skills.c12_tornadoshot
+180521	Common	Common	Ninja	旋風手裏劍投擲 05	False	stopping	icon_skills.c12_tornadoshot
+180522	Common	Common	Ninja	旋風手裏劍投擲 05	False	backward	icon_skills.c12_tornadoshot
+180530	Common	Common	Ninja	旋風手裏劍投擲 05	True		icon_skills.c12_tornadoshot
+180600	Common	Common	Ninja	旋風手裏劍投擲 06	False		icon_skills.c12_tornadoshot
+180620	Common	Common	Ninja	旋風手裏劍投擲 06	False		icon_skills.c12_tornadoshot
+180621	Common	Common	Ninja	旋風手裏劍投擲 06	False	stopping	icon_skills.c12_tornadoshot
+180622	Common	Common	Ninja	旋風手裏劍投擲 06	False	backward	icon_skills.c12_tornadoshot
+180630	Common	Common	Ninja	旋風手裏劍投擲 06	True		icon_skills.c12_tornadoshot
+180700	Common	Common	Ninja	旋風手裏劍投擲 07	False		icon_skills.c12_tornadoshot
+180720	Common	Common	Ninja	旋風手裏劍投擲 07	False		icon_skills.c12_tornadoshot
+180721	Common	Common	Ninja	旋風手裏劍投擲 07	False	stopping	icon_skills.c12_tornadoshot
+180722	Common	Common	Ninja	旋風手裏劍投擲 07	False	backward	icon_skills.c12_tornadoshot
+180730	Common	Common	Ninja	旋風手裏劍投擲 07	True		icon_skills.c12_tornadoshot
+180800	Common	Common	Ninja	旋風手裏劍投擲 08	False		icon_skills.c12_tornadoshot
+180820	Common	Common	Ninja	旋風手裏劍投擲 08	False		icon_skills.c12_tornadoshot
+180821	Common	Common	Ninja	旋風手裏劍投擲 08	False	stopping	icon_skills.c12_tornadoshot
+180822	Common	Common	Ninja	旋風手裏劍投擲 08	False	backward	icon_skills.c12_tornadoshot
+180830	Common	Common	Ninja	旋風手裏劍投擲 08	True		icon_skills.c12_tornadoshot
+180900	Common	Common	Ninja	旋風手裏劍投擲 09	False		icon_skills.c12_tornadoshot
+180920	Common	Common	Ninja	旋風手裏劍投擲 09	False		icon_skills.c12_tornadoshot
+180921	Common	Common	Ninja	旋風手裏劍投擲 09	False	stopping	icon_skills.c12_tornadoshot
+180922	Common	Common	Ninja	旋風手裏劍投擲 09	False	backward	icon_skills.c12_tornadoshot
+180930	Common	Common	Ninja	旋風手裏劍投擲 09	True		icon_skills.c12_tornadoshot
+181000	Common	Common	Ninja	旋風手裏劍投擲 10	False		icon_skills.c12_tornadoshot
+181020	Common	Common	Ninja	旋風手裏劍投擲 09	False		icon_skills.c12_tornadoshot
+181021	Common	Common	Ninja	旋風手裏劍投擲 09	False	stopping	icon_skills.c12_tornadoshot
+181022	Common	Common	Ninja	旋風手裏劍投擲 09	False	backward	icon_skills.c12_tornadoshot
+181030	Common	Common	Ninja	旋風手裏劍投擲 09	True		icon_skills.c12_tornadoshot
+181100	Common	Common	Ninja	旋風手裏劍投擲 11	False		icon_skills.c12_tornadoshot
+181120	Common	Common	Ninja	旋風手裏劍投擲 09	False		icon_skills.c12_tornadoshot
+181121	Common	Common	Ninja	旋風手裏劍投擲 09	False	stopping	icon_skills.c12_tornadoshot
+181122	Common	Common	Ninja	旋風手裏劍投擲 09	False	backward	icon_skills.c12_tornadoshot
+181130	Common	Common	Ninja	旋風手裏劍投擲 09	True		icon_skills.c12_tornadoshot
+
+190100	Common	Common	Ninja	擊中胸口 01	False		icon_skills.c12_evadestingshot
+190130	Common	Common	Ninja	擊中胸口 01	True		icon_skills.c12_evadestingshot
+190200	Common	Common	Ninja	擊中胸口 02	False		icon_skills.c12_evadestingshot
+190230	Common	Common	Ninja	擊中胸口 02	True		icon_skills.c12_evadestingshot
+190300	Common	Common	Ninja	擊中胸口 03	False		icon_skills.c12_evadestingshot
+190330	Common	Common	Ninja	擊中胸口 03	True		icon_skills.c12_evadestingshot
+190400	Common	Common	Ninja	擊中胸口 04	False		icon_skills.c12_evadestingshot
+190430	Common	Common	Ninja	擊中胸口 04	True		icon_skills.c12_evadestingshot
+190500	Common	Common	Ninja	擊中胸口 05	False		icon_skills.c12_evadestingshot
+190530	Common	Common	Ninja	擊中胸口 05	True		icon_skills.c12_evadestingshot
+
+200100	Common	Common	Ninja	變身術 01	False		icon_skills.c12_transform
+
+210100	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210111	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210112	Common	Common	Ninja	多重分身迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210113	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210115	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210116	Common	Common	Ninja	多重分身迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210117	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210118	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210120	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210121	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210122	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210123	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210124	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210125	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210130	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210131	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210132	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210133	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210134	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210135	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210140	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210141	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210142	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210143	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210144	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210145	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210150	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210151	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210190	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+210191	Common	Common	Ninja	迴力鏢手裏劍	False		icon_skills.bumelang_tex
+
+220100	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+220110	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+220120	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+220130	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+220140	Common	Common	Ninja	多重分身機動攻擊術	False		icon_skills.chakraemission_tex
+220150	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+220160	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+220199	Common	Common	Ninja	機動攻擊術	False		icon_skills.chakraemission_tex
+
+230100	Common	Common	Ninja	神人化	False		icon_skills.taoist_tex
+230130	Common	Common	Ninja	神人化	False		icon_skills.taoist_tex

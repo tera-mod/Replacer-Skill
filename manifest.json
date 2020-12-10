@@ -16,9 +16,7 @@
         "class/9-gunner-engineer.tsv": "e3d8108e343eb5ad140b8f8d99733c94a893bc8991d09566e8eb557af03a504a",
         "index.js": "ea72595a8041f318b279b912e7fb6fd27e03c259402f11598f2f7f7ac7ab35ef",
         "module.json": "411f25486e43a32955c3d946491db080284c977425c25b7eab5a6ee4965ed357",
-        "skills.js": "f1d46c855bcb668a2bb1d766479b2d0529d307bc872f0d302c3d1c4970357b36",
-        "test1.bat": "3c6c4e15d5f3a78d87921255cd5de0964828d9f0daf32fc6bc8f69f31b498818",
-        "test2.bat": "95bea4cf415e1b2022f294667e810728a8336f58e098c756ae23b6c09ba1e4ce"
+        "skills.js": "f1d46c855bcb668a2bb1d766479b2d0529d307bc872f0d302c3d1c4970357b36"
     },
     "defs": {
         "C_START_INSTANCE_SKILL": 7,

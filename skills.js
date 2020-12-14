@@ -34,16 +34,13 @@ module.exports = [
 	{enabled: true, job: 2, group: 25, replace: 250130, instance: true, Description:"真•一刀兩斷 -> 加速"},
 	{enabled: true, job: 2, group: 26, replace: 260130, instance: true, Description:"斬擊        -> 加速"},
 	// 3-berserker 斧头
-{enabled: false, job: 3, group:  3, replace:  31113, instance: true, Description:"聚力之擊XI  -> 4段"},
-{enabled: false, job: 3, group: 10, replace: 101113, instance: true, Description:"龍捲風XI    -> 4段"},
+	
 	// 4-sorcerer 魔道
-	{enabled: true, job: 4, group:  4, replace: 330112, instance: true, Description:"爆裂球"},
-	{enabled: true, job: 4, group:  6, replace: 320100, instance: true, Description:"隕石墜落"},
-	{enabled: true, job: 4, group: 34, replace: 340230, instance: true, Description:"魔力強化"},
-	{enabled: true, job: 4, group: 36, replace: 360600, instance: true, Description:"元素融合"},
+	{enabled: true, job: 4, group:  4, replace: 330112, instance: true, Description:"爆裂球   -> 强力"},
+	{enabled: true, job: 4, group:  6, replace: 320100, instance: true, Description:"隕石墜落 -> 强力"},
+	{enabled: true, job: 4, group: 36, replace: 360600, instance: true, Description:"元素融合 -> 强力"},
 	// 5-archer 弓箭
-{enabled: false, job: 5, group:  3, replace:  31113, instance: true, Description:"集中射擊XI  -> 4段"},
-{enabled: false, job: 5, group:  4, replace:  41213, instance: true, Description:"穿透射擊XII -> 4段"},
+	
 	// 6-priest 祭师
 	{enabled: true, job: 6, group:  3, replace:  30730, instance: true, Description:"治癒之風VII  -> 强力"},
 	{enabled: true, job: 6, group: 11, replace: 111102, instance: true, Description:"懲罰帳幕XI   -> 强力"},
@@ -51,9 +48,8 @@ module.exports = [
 	{enabled: true, job: 6, group: 27, replace: 271121, instance: true, Description:"懲罰之手XI   -> 强力"},
 	{enabled: true, job: 6, group: 40, replace: 401020, instance: true, Description:"神之氣息X    -> 强力"},
 	{enabled: true, job: 6, group: 42, replace: 420130, instance: true, Description:"燦爛的閃爍   -> 强力"},
-{enabled: false, job: 6, group: 28, replace: 280213, instance: true, Description:"全神卷軸     -> 4段"},
 	// 7-mystic 元素
-	// {enabled: true, job: x, group:  x, replace: xxxxxx, instance: true, Description:""},
+	
 	// 8-reaper 飞镰
 	{enabled: true, job: 8, group:  3, replace:  30341, instance: true, Description:"飛劍劈擊III       -> 2段 强力"},
 	{enabled: true, job: 8, group:  5, replace:  50332, instance: true, Description:"飛劍重擊斬III     -> 2段 加速"},
@@ -81,17 +77,17 @@ module.exports = [
 	{enabled: true, job:10, group: 26, replace: 260102, instance: true, Description:"颱風連打   -> 3段 无CD"},
 	{enabled: true, job:10, group: 40, replace: 400100, instance: true, Description:"瞬閃I      -> 1段 无CD"},
 	// 11-ninja 忍者
-	{enabled: true, job:11, group:  1, replace: 150732, instance: true, Description:"多重分身火焰術        -> 1段 无CD强力"},
+	{enabled: true, job:11, group:  1, replace: 150732, instance: true, Description:"多重分身火焰術        -> 1段 无CD强力", autoRepeat: true},
 	{enabled: true, job:11, group:  2, replace:  20100, instance: true, Description:"迴避啟動I             -> 1段 无CD"},
 	{enabled: true, job:11, group:  3, replace:  30840, instance: true, Description:"標槍連射VIII          -> 2段 强力"},
 	{enabled: true, job:11, group:  8, replace:  80252, instance: true, Description:"多重分身爆炎術I       -> 2段 强力"},
 	{enabled: true, job:11, group: 21, replace: 210112, instance: true, Description:"多重分身迴力鏢手裏劍I -> 1段 强力"},
 	{enabled: true, job:11, group: 22, replace: 220140, instance: true, Description:"多重分身機動攻擊術I   -> 1段 强力"},
 	// 12-valkyrie 月光
+	{enabled: true, job:12, group:  1, replace: 250132, instance: true, Description:"開戰I         -> 2段 无CD", autoRepeat: true},
 	{enabled: true, job:12, group:  7, replace:  70902, instance: true, Description:"煉火斬IX      -> 3段 加速"},
 	{enabled: true, job:12, group:  8, replace:  85101, instance: true, Description:"滿月V         -> 2段 无CD"},
 	{enabled: true, job:12, group: 16, replace: 166230, instance: true, Description:"月光的共鳴VII -> 2段 强力"},
 	{enabled: true, job:12, group: 23, replace: 235102, instance: true, Description:"半月斬V       -> 1段 无CD"},
-	{enabled: true, job:12, group: 24, replace: 245102, instance: true, Description:"狂暴槍術V     -> 2段 无CD"},
-	{enabled: true, job:12, group: 25, replace: 250132, instance: true, Description:"開戰I         -> 2段 无CD"}
+	{enabled: true, job:12, group: 24, replace: 245102, instance: true, Description:"狂暴槍術V     -> 2段 无CD"}
 ]

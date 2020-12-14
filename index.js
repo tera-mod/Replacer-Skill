@@ -25,13 +25,11 @@ module.exports = function ReplacerSkill(mod) {
 	mod.hook('C_START_SKILL', 7, { order: -100 }, event => {
 		if (!Enabled) return
 		var replaceSkill = SKILLS.find(obj => obj.job==job && obj.group==Math.floor(event.skill.id/10000))
-		if (!replaceSkill || !replaceSkill.enabled) return
+		if (!replaceSkill || !replaceSkill.enabled || !replaceSkill.instance) return
 		
-		if (replaceSkill.instance) {
-			event.skill.id = replaceSkill.replace
-			StartInstanceSkill(event)
-			return false
-		}
+		event.skill.id = replaceSkill.replace
+		StartInstanceSkill(event)
+		return false
 	})
 	
 	function StartInstanceSkill(event) {
@@ -48,11 +46,18 @@ module.exports = function ReplacerSkill(mod) {
 	mod.hook('C_START_COMBO_INSTANT_SKILL', 6, { order: -100 }, event => {
 		if (!Enabled) return
 		var replaceSkill = SKILLS.find(obj => obj.job==job && obj.group==Math.floor(event.skill.id/10000))
-		if (!replaceSkill || !replaceSkill.enabled) return
-		if (replaceSkill.combo) {
-			event.skill.id = replaceSkill.replace
-			return true
-		}
+		if (!replaceSkill || !replaceSkill.enabled || !replaceSkill.combo) return
+		
+		event.skill.id = replaceSkill.replace
+		return true
+	})
+	
+	mod.hook('S_ACTION_END', 5, event => {
+		var replaceSkill = SKILLS.find(obj => obj.job==job && obj.replace==event.skill.id)
+		if (!replaceSkill || !replaceSkill.enabled || !replaceSkill.autoRepeat) return
+		
+		StartInstanceSkill(event)
+		return false
 	})
 	
 	function reloadModule(fileName) {

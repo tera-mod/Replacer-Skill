@@ -53,6 +53,8 @@ module.exports = function ReplacerSkill(mod) {
 	})
 	
 	mod.hook('S_ACTION_END', 5, event => {
+		if (!mod.game.me.is(event.gameId)) return
+		
 		var replaceSkill = SKILLS.find(obj => obj.job==job && obj.replace==event.skill.id)
 		if (!replaceSkill || !replaceSkill.enabled || !replaceSkill.autoRepeat) return
 		
@@ -65,5 +67,4 @@ module.exports = function ReplacerSkill(mod) {
 		console.log('Replacer-Skill: Reloading ' + fileName)
 		return require(fileName)
 	}
-	
 }

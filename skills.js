@@ -47,7 +47,6 @@ module.exports = [
 	{enabled: true, job: 6, group: 16, replace: 161121, instance: true, Description:"審判之手XI   -> 强力"},
 	{enabled: true, job: 6, group: 27, replace: 271121, instance: true, Description:"懲罰之手XI   -> 强力"},
 	{enabled: true, job: 6, group: 40, replace: 401020, instance: true, Description:"神之氣息X    -> 强力"},
-	{enabled: true, job: 6, group: 42, replace: 420130, instance: true, Description:"燦爛的閃爍   -> 强力"},
 	// 7-mystic 元素
 	
 	// 8-reaper 飞镰
